@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>demo.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:Microsoft.QualityTools.Testing.Fakes.Delegates.DemoDelegates">
+            <summary>Contains custom delegates used for the stubs and shims of demo</summary>
+        </member>
+        <member name="T:com.demo.Fakes.Shimdemo">
+            <summary>Shim type of com.demo.demo</summary>
+        </member>
+        <member name="M:com.demo.Fakes.Shimdemo.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:com.demo.Fakes.Shimdemo.#ctor(com.demo.demo)">
+            <summary>Initializes a new shim for the given instance</summary>
+        </member>
+        <member name="M:com.demo.Fakes.Shimdemo.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:com.demo.Fakes.Shimdemo.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:com.demo.Fakes.Shimdemo.Bind(System.IDisposable)">
+            <summary>Binds the members of the interface to the shim.</summary>
+        </member>
+        <member name="P:com.demo.Fakes.Shimdemo.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:com.demo.Fakes.Shimdemo.Constructor">
+            <summary>Sets the shim of demo.demo()</summary>
+        </member>
+        <member name="P:com.demo.Fakes.Shimdemo.Dispose">
+            <summary>Sets the shim of demo.Dispose()</summary>
+        </member>
+        <member name="P:com.demo.Fakes.Shimdemo.DisposeBoolean">
+            <summary>Sets the shim of demo.Dispose(Boolean disposing)</summary>
+        </member>
+        <member name="P:com.demo.Fakes.Shimdemo.StaticConstructor">
+            <summary>Sets the shim of demo.demo()</summary>
+        </member>
+        <member name="P:com.demo.Fakes.Shimdemo.WaitForFiguresToDie">
+            <summary>Sets the shim of demo.WaitForFiguresToDie()</summary>
+        </member>
+        <member name="P:com.demo.Fakes.Shimdemo.method">
+            <summary>Sets the shim of demo.method()</summary>
+        </member>
+        <member name="P:com.demo.Fakes.Shimdemo.methodInt32">
+            <summary>Sets the shim of demo.method(Int32 numArgsOut)</summary>
+        </member>
+        <member name="P:com.demo.Fakes.Shimdemo.methodInt32MWArray">
+            <summary>Sets the shim of demo.method(Int32 numArgsOut, MWArray IM)</summary>
+        </member>
+        <member name="P:com.demo.Fakes.Shimdemo.methodInt32MWArrayMWArray">
+            <summary>Sets the shim of demo.method(Int32 numArgsOut, MWArray IM, MWArray num_gms)</summary>
+        </member>
+        <member name="P:com.demo.Fakes.Shimdemo.methodInt32MWArrayMWArrayMWArray">
+            <summary>Sets the shim of demo.method(Int32 numArgsOut, MWArray IM, MWArray num_gms, MWArray num_collapse)</summary>
+        </member>
+        <member name="P:com.demo.Fakes.Shimdemo.methodInt32MWArrayMWArrayMWArrayMWArray">
+            <summary>Sets the shim of demo.method(Int32 numArgsOut, MWArray IM, MWArray num_gms, MWArray num_collapse, MWArray x_vals)</summary>
+        </member>
+        <member name="P:com.demo.Fakes.Shimdemo.methodInt32MWArrayMWArrayMWArrayMWArrayMWArray">
+            <summary>Sets the shim of demo.method(Int32 numArgsOut, MWArray IM, MWArray num_gms, MWArray num_collapse, MWArray x_vals, MWArray theta)</summary>
+        </member>
+        <member name="P:com.demo.Fakes.Shimdemo.methodInt32MWArrayMWArrayMWArrayMWArrayMWArrayMWArray">
+            <summary>Sets the shim of demo.method(Int32 numArgsOut, MWArray IM, MWArray num_gms, MWArray num_collapse, MWArray x_vals, MWArray theta, MWArray beta)</summary>
+        </member>
+        <member name="P:com.demo.Fakes.Shimdemo.methodMWArray">
+            <summary>Sets the shim of demo.method(MWArray IM)</summary>
+        </member>
+        <member name="P:com.demo.Fakes.Shimdemo.methodMWArrayMWArray">
+            <summary>Sets the shim of demo.method(MWArray IM, MWArray num_gms)</summary>
+        </member>
+        <member name="P:com.demo.Fakes.Shimdemo.methodMWArrayMWArrayMWArray">
+            <summary>Sets the shim of demo.method(MWArray IM, MWArray num_gms, MWArray num_collapse)</summary>
+        </member>
+        <member name="P:com.demo.Fakes.Shimdemo.methodMWArrayMWArrayMWArrayMWArray">
+            <summary>Sets the shim of demo.method(MWArray IM, MWArray num_gms, MWArray num_collapse, MWArray x_vals)</summary>
+        </member>
+        <member name="P:com.demo.Fakes.Shimdemo.methodMWArrayMWArrayMWArrayMWArrayMWArray">
+            <summary>Sets the shim of demo.method(MWArray IM, MWArray num_gms, MWArray num_collapse, MWArray x_vals, MWArray theta)</summary>
+        </member>
+        <member name="P:com.demo.Fakes.Shimdemo.methodMWArrayMWArrayMWArrayMWArrayMWArrayMWArray">
+            <summary>Sets the shim of demo.method(MWArray IM, MWArray num_gms, MWArray num_collapse, MWArray x_vals, MWArray theta, MWArray beta)</summary>
+        </member>
+        <member name="T:com.demo.Fakes.Shimdemo.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="P:com.demo.Fakes.Shimdemo.AllInstances.Dispose">
+            <summary>Sets the shim of demo.Dispose()</summary>
+        </member>
+        <member name="P:com.demo.Fakes.Shimdemo.AllInstances.DisposeBoolean">
+            <summary>Sets the shim of demo.Dispose(Boolean disposing)</summary>
+        </member>
+        <member name="P:com.demo.Fakes.Shimdemo.AllInstances.WaitForFiguresToDie">
+            <summary>Sets the shim of demo.WaitForFiguresToDie()</summary>
+        </member>
+        <member name="P:com.demo.Fakes.Shimdemo.AllInstances.method">
+            <summary>Sets the shim of demo.method()</summary>
+        </member>
+        <member name="P:com.demo.Fakes.Shimdemo.AllInstances.methodInt32">
+            <summary>Sets the shim of demo.method(Int32 numArgsOut)</summary>
+        </member>
+        <member name="P:com.demo.Fakes.Shimdemo.AllInstances.methodInt32MWArray">
+            <summary>Sets the shim of demo.method(Int32 numArgsOut, MWArray IM)</summary>
+        </member>
+        <member name="P:com.demo.Fakes.Shimdemo.AllInstances.methodInt32MWArrayMWArray">
+            <summary>Sets the shim of demo.method(Int32 numArgsOut, MWArray IM, MWArray num_gms)</summary>
+        </member>
+        <member name="P:com.demo.Fakes.Shimdemo.AllInstances.methodInt32MWArrayMWArrayMWArray">
+            <summary>Sets the shim of demo.method(Int32 numArgsOut, MWArray IM, MWArray num_gms, MWArray num_collapse)</summary>
+        </member>
+        <member name="P:com.demo.Fakes.Shimdemo.AllInstances.methodInt32MWArrayMWArrayMWArrayMWArray">
+            <summary>Sets the shim of demo.method(Int32 numArgsOut, MWArray IM, MWArray num_gms, MWArray num_collapse, MWArray x_vals)</summary>
+        </member>
+        <member name="P:com.demo.Fakes.Shimdemo.AllInstances.methodInt32MWArrayMWArrayMWArrayMWArrayMWArray">
+            <summary>Sets the shim of demo.method(Int32 numArgsOut, MWArray IM, MWArray num_gms, MWArray num_collapse, MWArray x_vals, MWArray theta)</summary>
+        </member>
+        <member name="P:com.demo.Fakes.Shimdemo.AllInstances.methodInt32MWArrayMWArrayMWArrayMWArrayMWArrayMWArray">
+            <summary>Sets the shim of demo.method(Int32 numArgsOut, MWArray IM, MWArray num_gms, MWArray num_collapse, MWArray x_vals, MWArray theta, MWArray beta)</summary>
+        </member>
+        <member name="P:com.demo.Fakes.Shimdemo.AllInstances.methodMWArray">
+            <summary>Sets the shim of demo.method(MWArray IM)</summary>
+        </member>
+        <member name="P:com.demo.Fakes.Shimdemo.AllInstances.methodMWArrayMWArray">
+            <summary>Sets the shim of demo.method(MWArray IM, MWArray num_gms)</summary>
+        </member>
+        <member name="P:com.demo.Fakes.Shimdemo.AllInstances.methodMWArrayMWArrayMWArray">
+            <summary>Sets the shim of demo.method(MWArray IM, MWArray num_gms, MWArray num_collapse)</summary>
+        </member>
+        <member name="P:com.demo.Fakes.Shimdemo.AllInstances.methodMWArrayMWArrayMWArrayMWArray">
+            <summary>Sets the shim of demo.method(MWArray IM, MWArray num_gms, MWArray num_collapse, MWArray x_vals)</summary>
+        </member>
+        <member name="P:com.demo.Fakes.Shimdemo.AllInstances.methodMWArrayMWArrayMWArrayMWArrayMWArray">
+            <summary>Sets the shim of demo.method(MWArray IM, MWArray num_gms, MWArray num_collapse, MWArray x_vals, MWArray theta)</summary>
+        </member>
+        <member name="P:com.demo.Fakes.Shimdemo.AllInstances.methodMWArrayMWArrayMWArrayMWArrayMWArrayMWArray">
+            <summary>Sets the shim of demo.method(MWArray IM, MWArray num_gms, MWArray num_collapse, MWArray x_vals, MWArray theta, MWArray beta)</summary>
+        </member>
+        <member name="T:com.demo.Fakes.Stubdemo">
+            <summary>Stub type of com.demo.demo</summary>
+        </member>
+        <member name="M:com.demo.Fakes.Stubdemo.#ctor">
+            <summary>Initializes a new instance</summary>
+        </member>
+        <member name="M:com.demo.Fakes.Stubdemo.Dispose(System.Boolean)">
+            <summary>Sets the stub of demo.Dispose(Boolean disposing)</summary>
+        </member>
+        <member name="F:com.demo.Fakes.Stubdemo.DisposeBoolean">
+            <summary>Sets the stub of demo.Dispose(Boolean disposing)</summary>
+        </member>
+        <member name="M:com.demo.Fakes.Stubdemo.InitializeStub">
+            <summary>Initializes a new instance of type Stubdemo</summary>
+        </member>
+        <member name="P:com.demo.Fakes.Stubdemo.CallBase">
+            <summary>Gets or sets a value that indicates if the base method should be called instead of the fallback behavior</summary>
+        </member>
+        <member name="P:com.demo.Fakes.Stubdemo.InstanceBehavior">
+            <summary>Gets or sets the instance behavior.</summary>
+        </member>
+        <member name="P:com.demo.Fakes.Stubdemo.InstanceObserver">
+            <summary>Gets or sets the instance observer.</summary>
+        </member>
+    </members>
+</doc>
