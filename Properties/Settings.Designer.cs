@@ -2527,227 +2527,227 @@ namespace SampleWizard.Properties {
             ".0001pt\'><span\r\nstyle=\'font-size:12.0pt;line-height:115%;font-family:\"Times New " +
             "Roman\",\"serif\";\r\nmso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi" +
             ";mso-bidi-theme-font:\r\nmajor-bidi\'>The INSPECT developers would like to acknowle" +
-            "dge the following\r\nindividuals for their various and kind support to the INSPECT" +
-            " project: <o:p></o:p></span></p>\r\n\r\n<p class=MsoNormal style=\'margin-bottom:0in;" +
-            "margin-bottom:.0001pt\'><span\r\nstyle=\'font-size:6.0pt;line-height:115%;font-famil" +
-            "y:\"Times New Roman\",\"serif\";\r\nmso-ascii-theme-font:major-bidi;mso-hansi-theme-fo" +
-            "nt:major-bidi;mso-bidi-theme-font:\r\nmajor-bidi\'><o:p>&nbsp;</o:p></span></p>\r\n\r\n" +
-            "<p class=MsoListParagraphCxSpFirst style=\'margin-bottom:6.0pt;mso-add-space:\r\nau" +
-            "to;text-indent:-.25in;line-height:normal;mso-list:l1 level1 lfo1\'><![if !support" +
-            "Lists]><span\r\nstyle=\'font-size:12.0pt;font-family:Symbol;mso-fareast-font-family" +
-            ":Symbol;\r\nmso-bidi-font-family:Symbol;mso-bidi-font-weight:bold\'><span style=\'ms" +
-            "o-list:\r\nIgnore\'>·<span style=\'font:7.0pt \"Times New Roman\"\'>&nbsp;&nbsp;&nbsp;&" +
-            "nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span></span><![endif]><span dir=LTR></sp" +
-            "an><b><span style=\'font-size:\r\n12.0pt;font-family:\"Times New Roman\",\"serif\";mso-" +
-            "ascii-theme-font:major-bidi;\r\nmso-hansi-theme-font:major-bidi;mso-bidi-theme-fon" +
-            "t:major-bidi\'>Prof. Khaled\r\nGalal<o:p></o:p></span></b></p>\r\n\r\n<p class=MsoListP" +
-            "aragraphCxSpMiddle style=\'margin-bottom:6.0pt;mso-add-space:\r\nauto;line-height:n" +
-            "ormal\'><span style=\'font-size:12.0pt;font-family:\"Times New Roman\",\"serif\";\r\nmso" +
-            "-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font" +
-            ":\r\nmajor-bidi\'>Department of Building, Civil &amp; Environmental Engineering<o:p" +
-            "></o:p></span></p>\r\n\r\n<p class=MsoListParagraphCxSpMiddle style=\'margin-bottom:6" +
-            ".0pt;mso-add-space:\r\nauto;line-height:normal\'><span style=\'font-size:12.0pt;font" +
-            "-family:\"Times New Roman\",\"serif\";\r\nmso-ascii-theme-font:major-bidi;mso-hansi-th" +
-            "eme-font:major-bidi;mso-bidi-theme-font:\r\nmajor-bidi\'>Concordia University, Rm: " +
-            "EV-6.139<o:p></o:p></span></p>\r\n\r\n<p class=MsoListParagraphCxSpMiddle style=\'mar" +
-            "gin-bottom:6.0pt;mso-add-space:\r\nauto;line-height:normal\'><span style=\'font-size" +
-            ":12.0pt;font-family:\"Times New Roman\",\"serif\";\r\nmso-ascii-theme-font:major-bidi;" +
-            "mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:\r\nmajor-bidi\'>1455 de Maison" +
-            "neuve Blvd. West <o:p></o:p></span></p>\r\n\r\n<p class=MsoListParagraphCxSpMiddle s" +
-            "tyle=\'margin-bottom:6.0pt;mso-add-space:\r\nauto;line-height:normal\'><span style=\'" +
-            "font-size:12.0pt;font-family:\"Times New Roman\",\"serif\";\r\nmso-ascii-theme-font:ma" +
-            "jor-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:\r\nmajor-bidi\'>Montr" +
-            "éal, Québec, Canada, H3G 1M8 <o:p></o:p></span></p>\r\n\r\n<p class=MsoListParagraph" +
-            "CxSpMiddle style=\'margin-bottom:6.0pt;mso-add-space:\r\nauto;line-height:normal\'><" +
-            "span style=\'font-size:12.0pt;font-family:\"Times New Roman\",\"serif\";\r\nmso-ascii-t" +
-            "heme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:\r\nmajor" +
-            "-bidi\'>Tel: 514-848-2424 Ext 3196 <o:p></o:p></span></p>\r\n\r\n<p class=MsoListPara" +
-            "graphCxSpMiddle style=\'margin-bottom:6.0pt;mso-add-space:\r\nauto;line-height:norm" +
-            "al\'><span style=\'font-size:12.0pt;font-family:\"Times New Roman\",\"serif\";\r\nmso-as" +
-            "cii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:\r\n" +
-            "major-bidi\'>Fax: 514-848-7965<o:p></o:p></span></p>\r\n\r\n<p class=MsoListParagraph" +
-            "CxSpMiddle style=\'margin-bottom:6.0pt;mso-add-space:\r\nauto;line-height:normal\'><" +
-            "span style=\'font-size:12.0pt;font-family:\"Times New Roman\",\"serif\";\r\nmso-ascii-t" +
-            "heme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:\r\nmajor" +
-            "-bidi\'>Email: </span><a href=\"mailto:galal@bcee.concordia.ca\"><span\r\nstyle=\'font" +
-            "-size:12.0pt;font-family:\"Times New Roman\",\"serif\";mso-ascii-theme-font:\r\nmajor-" +
-            "bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi\'>galal@bcee." +
-            "concordia.ca</span></a><span\r\nclass=MsoHyperlink><span style=\'font-size:12.0pt;f" +
-            "ont-family:\"Times New Roman\",\"serif\";\r\nmso-ascii-theme-font:major-bidi;mso-hansi" +
-            "-theme-font:major-bidi;mso-bidi-theme-font:\r\nmajor-bidi\'><o:p></o:p></span></spa" +
+            "dge the following\r\nindividuals for their various and kind help with\r\n the INSPEC" +
+            "T project: <o:p></o:p></span></p>\r\n\r\n<p class=MsoNormal style=\'margin-bottom:0in" +
+            ";margin-bottom:.0001pt\'><span\r\nstyle=\'font-size:6.0pt;line-height:115%;font-fami" +
+            "ly:\"Times New Roman\",\"serif\";\r\nmso-ascii-theme-font:major-bidi;mso-hansi-theme-f" +
+            "ont:major-bidi;mso-bidi-theme-font:\r\nmajor-bidi\'><o:p>&nbsp;</o:p></span></p>\r\n\r" +
+            "\n<p class=MsoListParagraphCxSpFirst style=\'margin-bottom:6.0pt;mso-add-space:\r\na" +
+            "uto;text-indent:-.25in;line-height:normal;mso-list:l1 level1 lfo1\'><![if !suppor" +
+            "tLists]><span\r\nstyle=\'font-size:12.0pt;font-family:Symbol;mso-fareast-font-famil" +
+            "y:Symbol;\r\nmso-bidi-font-family:Symbol;mso-bidi-font-weight:bold\'><span style=\'m" +
+            "so-list:\r\nIgnore\'>·<span style=\'font:7.0pt \"Times New Roman\"\'>&nbsp;&nbsp;&nbsp;" +
+            "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span></span><![endif]><span dir=LTR></s" +
+            "pan><b><span style=\'font-size:\r\n12.0pt;font-family:\"Times New Roman\",\"serif\";mso" +
+            "-ascii-theme-font:major-bidi;\r\nmso-hansi-theme-font:major-bidi;mso-bidi-theme-fo" +
+            "nt:major-bidi\'>Prof. Khaled\r\nGalal<o:p></o:p></span></b></p>\r\n\r\n<p class=MsoList" +
+            "ParagraphCxSpMiddle style=\'margin-bottom:6.0pt;mso-add-space:\r\nauto;line-height:" +
+            "normal\'><span style=\'font-size:12.0pt;font-family:\"Times New Roman\",\"serif\";\r\nms" +
+            "o-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-fon" +
+            "t:\r\nmajor-bidi\'>Department of Building, Civil &amp; Environmental Engineering<o:" +
+            "p></o:p></span></p>\r\n\r\n<p class=MsoListParagraphCxSpMiddle style=\'margin-bottom:" +
+            "6.0pt;mso-add-space:\r\nauto;line-height:normal\'><span style=\'font-size:12.0pt;fon" +
+            "t-family:\"Times New Roman\",\"serif\";\r\nmso-ascii-theme-font:major-bidi;mso-hansi-t" +
+            "heme-font:major-bidi;mso-bidi-theme-font:\r\nmajor-bidi\'>Concordia University, Rm:" +
+            " EV-6.139<o:p></o:p></span></p>\r\n\r\n<p class=MsoListParagraphCxSpMiddle style=\'ma" +
+            "rgin-bottom:6.0pt;mso-add-space:\r\nauto;line-height:normal\'><span style=\'font-siz" +
+            "e:12.0pt;font-family:\"Times New Roman\",\"serif\";\r\nmso-ascii-theme-font:major-bidi" +
+            ";mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:\r\nmajor-bidi\'>1455 de Maiso" +
+            "nneuve Blvd. West <o:p></o:p></span></p>\r\n\r\n<p class=MsoListParagraphCxSpMiddle " +
+            "style=\'margin-bottom:6.0pt;mso-add-space:\r\nauto;line-height:normal\'><span style=" +
+            "\'font-size:12.0pt;font-family:\"Times New Roman\",\"serif\";\r\nmso-ascii-theme-font:m" +
+            "ajor-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:\r\nmajor-bidi\'>Mont" +
+            "réal, Québec, Canada, H3G 1M8 <o:p></o:p></span></p>\r\n\r\n<p class=MsoListParagrap" +
+            "hCxSpMiddle style=\'margin-bottom:6.0pt;mso-add-space:\r\nauto;line-height:normal\'>" +
+            "<span style=\'font-size:12.0pt;font-family:\"Times New Roman\",\"serif\";\r\nmso-ascii-" +
+            "theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:\r\nmajo" +
+            "r-bidi\'>Tel: 514-848-2424 Ext 3196 <o:p></o:p></span></p>\r\n\r\n<p class=MsoListPar" +
+            "agraphCxSpMiddle style=\'margin-bottom:6.0pt;mso-add-space:\r\nauto;line-height:nor" +
+            "mal\'><span style=\'font-size:12.0pt;font-family:\"Times New Roman\",\"serif\";\r\nmso-a" +
+            "scii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:\r" +
+            "\nmajor-bidi\'>Fax: 514-848-7965<o:p></o:p></span></p>\r\n\r\n<p class=MsoListParagrap" +
+            "hCxSpMiddle style=\'margin-bottom:6.0pt;mso-add-space:\r\nauto;line-height:normal\'>" +
+            "<span style=\'font-size:12.0pt;font-family:\"Times New Roman\",\"serif\";\r\nmso-ascii-" +
+            "theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:\r\nmajo" +
+            "r-bidi\'>Email: </span><a href=\"mailto:galal@bcee.concordia.ca\"><span\r\nstyle=\'fon" +
+            "t-size:12.0pt;font-family:\"Times New Roman\",\"serif\";mso-ascii-theme-font:\r\nmajor" +
+            "-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi\'>galal@bcee" +
+            ".concordia.ca</span></a><span\r\nclass=MsoHyperlink><span style=\'font-size:12.0pt;" +
+            "font-family:\"Times New Roman\",\"serif\";\r\nmso-ascii-theme-font:major-bidi;mso-hans" +
+            "i-theme-font:major-bidi;mso-bidi-theme-font:\r\nmajor-bidi\'><o:p></o:p></span></sp" +
+            "an></p>\r\n\r\n<p class=MsoListParagraphCxSpMiddle style=\'margin-bottom:6.0pt;mso-ad" +
+            "d-space:\r\nauto;line-height:normal\'><span style=\'font-size:6.0pt;font-family:\"Tim" +
+            "es New Roman\",\"serif\";\r\nmso-ascii-theme-font:major-bidi;mso-hansi-theme-font:maj" +
+            "or-bidi;mso-bidi-theme-font:\r\nmajor-bidi\'><o:p>&nbsp;</o:p></span></p>\r\n\r\n<p cla" +
+            "ss=MsoListParagraphCxSpMiddle style=\'margin-bottom:6.0pt;mso-add-space:\r\nauto;te" +
+            "xt-indent:-.25in;line-height:normal;mso-list:l1 level1 lfo1\'><![if !supportLists" +
+            "]><span\r\nstyle=\'font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:Symb" +
+            "ol;\r\nmso-bidi-font-family:Symbol\'><span style=\'mso-list:Ignore\'>·<span\r\nstyle=\'f" +
+            "ont:7.0pt \"Times New Roman\"\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n<" +
+            "/span></span></span><![endif]><span dir=LTR></span><b><span style=\'font-size:\r\n1" +
+            "2.0pt;font-family:\"Times New Roman\",\"serif\";mso-ascii-theme-font:major-bidi;\r\nms" +
+            "o-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi\'>Mr. Nader Aly<br>\r" +
+            "\n</span></b><span style=\'font-size:12.0pt;font-family:\"Times New Roman\",\"serif\";" +
+            "\r\nmso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme" +
+            "-font:\r\nmajor-bidi\'>Graduate Research Assistant<o:p></o:p></span></p>\r\n\r\n<p clas" +
+            "s=MsoListParagraphCxSpMiddle style=\'margin-bottom:6.0pt;mso-add-space:\r\nauto;lin" +
+            "e-height:normal\'><span style=\'font-size:12.0pt;font-family:\"Times New Roman\",\"se" +
+            "rif\";\r\nmso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-" +
+            "theme-font:\r\nmajor-bidi\'>Department of Civil Engineering<o:p></o:p></span></p>\r\n" +
+            "\r\n<p class=MsoListParagraphCxSpMiddle style=\'margin-bottom:6.0pt;mso-add-space:\r" +
+            "\nauto;line-height:normal\'><span style=\'font-size:12.0pt;font-family:\"Times New R" +
+            "oman\",\"serif\";\r\nmso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;" +
+            "mso-bidi-theme-font:\r\nmajor-bidi\'>American University of Sharjah<o:p></o:p></spa" +
             "n></p>\r\n\r\n<p class=MsoListParagraphCxSpMiddle style=\'margin-bottom:6.0pt;mso-add" +
-            "-space:\r\nauto;line-height:normal\'><span style=\'font-size:6.0pt;font-family:\"Time" +
-            "s New Roman\",\"serif\";\r\nmso-ascii-theme-font:major-bidi;mso-hansi-theme-font:majo" +
-            "r-bidi;mso-bidi-theme-font:\r\nmajor-bidi\'><o:p>&nbsp;</o:p></span></p>\r\n\r\n<p clas" +
-            "s=MsoListParagraphCxSpMiddle style=\'margin-bottom:6.0pt;mso-add-space:\r\nauto;tex" +
-            "t-indent:-.25in;line-height:normal;mso-list:l1 level1 lfo1\'><![if !supportLists]" +
-            "><span\r\nstyle=\'font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:Symbo" +
-            "l;\r\nmso-bidi-font-family:Symbol\'><span style=\'mso-list:Ignore\'>·<span\r\nstyle=\'fo" +
-            "nt:7.0pt \"Times New Roman\"\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</" +
-            "span></span></span><![endif]><span dir=LTR></span><b><span style=\'font-size:\r\n12" +
-            ".0pt;font-family:\"Times New Roman\",\"serif\";mso-ascii-theme-font:major-bidi;\r\nmso" +
-            "-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi\'>Mr. Nader Aly<br>\r\n" +
-            "</span></b><span style=\'font-size:12.0pt;font-family:\"Times New Roman\",\"serif\";\r" +
-            "\nmso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-" +
-            "font:\r\nmajor-bidi\'>Graduate Research Assistant<o:p></o:p></span></p>\r\n\r\n<p class" +
-            "=MsoListParagraphCxSpMiddle style=\'margin-bottom:6.0pt;mso-add-space:\r\nauto;line" +
-            "-height:normal\'><span style=\'font-size:12.0pt;font-family:\"Times New Roman\",\"ser" +
+            "-space:\r\nauto;line-height:normal\'><span style=\'font-size:12.0pt;font-family:\"Tim" +
+            "es New Roman\",\"serif\";\r\nmso-ascii-theme-font:major-bidi;mso-hansi-theme-font:maj" +
+            "or-bidi;mso-bidi-theme-font:\r\nmajor-bidi\'>Email: </span><a href=\"mailto:b0002814" +
+            "3@aus.edu\"><span\r\nstyle=\'font-size:12.0pt;font-family:\"Times New Roman\",\"serif\";" +
+            "mso-ascii-theme-font:\r\nmajor-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme" +
+            "-font:major-bidi\'>b00028143@aus.edu</span></a><span\r\nclass=MsoHyperlink><span st" +
+            "yle=\'font-size:12.0pt;font-family:\"Times New Roman\",\"serif\";\r\nmso-ascii-theme-fo" +
+            "nt:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:\r\nmajor-bidi\'>" +
+            " </span><span style=\'mso-spacerun:yes\'> </span><o:p></o:p></span></p>\r\n\r\n<p clas" +
+            "s=MsoListParagraphCxSpMiddle style=\'margin-bottom:6.0pt;mso-add-space:\r\nauto;lin" +
+            "e-height:normal\'><span style=\'font-size:6.0pt;font-family:\"Times New Roman\",\"ser" +
             "if\";\r\nmso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-t" +
-            "heme-font:\r\nmajor-bidi\'>Department of Civil Engineering<o:p></o:p></span></p>\r\n\r" +
-            "\n<p class=MsoListParagraphCxSpMiddle style=\'margin-bottom:6.0pt;mso-add-space:\r\n" +
-            "auto;line-height:normal\'><span style=\'font-size:12.0pt;font-family:\"Times New Ro" +
-            "man\",\"serif\";\r\nmso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;m" +
-            "so-bidi-theme-font:\r\nmajor-bidi\'>American University of Sharjah<o:p></o:p></span" +
+            "heme-font:\r\nmajor-bidi\'><o:p>&nbsp;</o:p></span></p>\r\n\r\n<p class=MsoListParagrap" +
+            "hCxSpMiddle style=\'margin-bottom:6.0pt;mso-add-space:\r\nauto;text-indent:-.25in;l" +
+            "ine-height:normal;mso-list:l1 level1 lfo1\'><![if !supportLists]><span\r\nstyle=\'fo" +
+            "nt-size:12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;\r\nmso-bidi-font" +
+            "-family:Symbol\'><span style=\'mso-list:Ignore\'>·<span\r\nstyle=\'font:7.0pt \"Times N" +
+            "ew Roman\"\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span></spa" +
+            "n><![endif]><span dir=LTR></span><b><span style=\'font-size:\r\n12.0pt;font-family:" +
+            "\"Times New Roman\",\"serif\";mso-ascii-theme-font:major-bidi;\r\nmso-hansi-theme-font" +
+            ":major-bidi;mso-bidi-theme-font:major-bidi\'>Mr. Abdullah <span\r\nclass=SpellE>Sag" +
+            "heer</span><br>\r\n</span></b><span style=\'font-size:12.0pt;font-family:\"Times New" +
+            " Roman\",\"serif\";\r\nmso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bid" +
+            "i;mso-bidi-theme-font:\r\nmajor-bidi\'>Graduate Research Assistant<o:p></o:p></span" +
             "></p>\r\n\r\n<p class=MsoListParagraphCxSpMiddle style=\'margin-bottom:6.0pt;mso-add-" +
             "space:\r\nauto;line-height:normal\'><span style=\'font-size:12.0pt;font-family:\"Time" +
             "s New Roman\",\"serif\";\r\nmso-ascii-theme-font:major-bidi;mso-hansi-theme-font:majo" +
-            "r-bidi;mso-bidi-theme-font:\r\nmajor-bidi\'>Email: </span><a href=\"mailto:b00028143" +
-            "@aus.edu\"><span\r\nstyle=\'font-size:12.0pt;font-family:\"Times New Roman\",\"serif\";m" +
-            "so-ascii-theme-font:\r\nmajor-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-" +
-            "font:major-bidi\'>b00028143@aus.edu</span></a><span\r\nclass=MsoHyperlink><span sty" +
-            "le=\'font-size:12.0pt;font-family:\"Times New Roman\",\"serif\";\r\nmso-ascii-theme-fon" +
-            "t:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:\r\nmajor-bidi\'> " +
-            "</span><span style=\'mso-spacerun:yes\'> </span><o:p></o:p></span></p>\r\n\r\n<p class" +
-            "=MsoListParagraphCxSpMiddle style=\'margin-bottom:6.0pt;mso-add-space:\r\nauto;line" +
-            "-height:normal\'><span style=\'font-size:6.0pt;font-family:\"Times New Roman\",\"seri" +
-            "f\";\r\nmso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-th" +
-            "eme-font:\r\nmajor-bidi\'><o:p>&nbsp;</o:p></span></p>\r\n\r\n<p class=MsoListParagraph" +
-            "CxSpMiddle style=\'margin-bottom:6.0pt;mso-add-space:\r\nauto;text-indent:-.25in;li" +
-            "ne-height:normal;mso-list:l1 level1 lfo1\'><![if !supportLists]><span\r\nstyle=\'fon" +
-            "t-size:12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;\r\nmso-bidi-font-" +
-            "family:Symbol\'><span style=\'mso-list:Ignore\'>·<span\r\nstyle=\'font:7.0pt \"Times Ne" +
-            "w Roman\"\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span></span" +
-            "><![endif]><span dir=LTR></span><b><span style=\'font-size:\r\n12.0pt;font-family:\"" +
-            "Times New Roman\",\"serif\";mso-ascii-theme-font:major-bidi;\r\nmso-hansi-theme-font:" +
-            "major-bidi;mso-bidi-theme-font:major-bidi\'>Mr. Abdullah <span\r\nclass=SpellE>Sagh" +
-            "eer</span><br>\r\n</span></b><span style=\'font-size:12.0pt;font-family:\"Times New " +
-            "Roman\",\"serif\";\r\nmso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi" +
-            ";mso-bidi-theme-font:\r\nmajor-bidi\'>Graduate Research Assistant<o:p></o:p></span>" +
-            "</p>\r\n\r\n<p class=MsoListParagraphCxSpMiddle style=\'margin-bottom:6.0pt;mso-add-s" +
-            "pace:\r\nauto;line-height:normal\'><span style=\'font-size:12.0pt;font-family:\"Times" +
-            " New Roman\",\"serif\";\r\nmso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major" +
-            "-bidi;mso-bidi-theme-font:\r\nmajor-bidi\'>Department of Civil Engineering<o:p></o:" +
-            "p></span></p>\r\n\r\n<p class=MsoListParagraphCxSpMiddle style=\'margin-bottom:6.0pt;" +
-            "mso-add-space:\r\nauto;line-height:normal\'><span style=\'font-size:12.0pt;font-fami" +
-            "ly:\"Times New Roman\",\"serif\";\r\nmso-ascii-theme-font:major-bidi;mso-hansi-theme-f" +
-            "ont:major-bidi;mso-bidi-theme-font:\r\nmajor-bidi\'>American University of Sharjah<" +
-            "o:p></o:p></span></p>\r\n\r\n<p class=MsoListParagraphCxSpMiddle style=\'margin-botto" +
-            "m:6.0pt;mso-add-space:\r\nauto;line-height:normal\'><span style=\'font-size:12.0pt;f" +
-            "ont-family:\"Times New Roman\",\"serif\";\r\nmso-ascii-theme-font:major-bidi;mso-hansi" +
-            "-theme-font:major-bidi;mso-bidi-theme-font:\r\nmajor-bidi\'>Email: <span class=MsoH" +
-            "yperlink>b00057425@aus.edu</span></span> <span\r\nstyle=\'font-size:12.0pt;font-fam" +
-            "ily:\"Times New Roman\",\"serif\";mso-ascii-theme-font:\r\nmajor-bidi;mso-hansi-theme-" +
-            "font:major-bidi;mso-bidi-theme-font:major-bidi\'><span\r\nstyle=\'mso-spacerun:yes\'>" +
-            " </span><o:p></o:p></span></p>\r\n\r\n<p class=MsoListParagraphCxSpMiddle style=\'mar" +
-            "gin-bottom:6.0pt;mso-add-space:\r\nauto;line-height:normal\'><span style=\'font-size" +
-            ":6.0pt;font-family:\"Times New Roman\",\"serif\";\r\nmso-ascii-theme-font:major-bidi;m" +
-            "so-hansi-theme-font:major-bidi;mso-bidi-theme-font:\r\nmajor-bidi\'><o:p>&nbsp;</o:" +
-            "p></span></p>\r\n\r\n<p class=MsoListParagraphCxSpMiddle style=\'margin-bottom:6.0pt;" +
-            "mso-add-space:\r\nauto;text-indent:-.25in;line-height:normal;mso-list:l1 level1 lf" +
-            "o1\'><![if !supportLists]><span\r\nstyle=\'font-size:12.0pt;font-family:Symbol;mso-f" +
-            "areast-font-family:Symbol;\r\nmso-bidi-font-family:Symbol\'><span style=\'mso-list:I" +
-            "gnore\'>·<span\r\nstyle=\'font:7.0pt \"Times New Roman\"\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbs" +
-            "p;&nbsp;&nbsp;&nbsp;\r\n</span></span></span><![endif]><span dir=LTR></span><b><sp" +
-            "an style=\'font-size:\r\n12.0pt;font-family:\"Times New Roman\",\"serif\";mso-ascii-the" +
-            "me-font:major-bidi;\r\nmso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-b" +
-            "idi\'>Mr. Laith\r\nElayyan<br>\r\n</span></b><span style=\'font-size:12.0pt;font-famil" +
-            "y:\"Times New Roman\",\"serif\";\r\nmso-ascii-theme-font:major-bidi;mso-hansi-theme-fo" +
-            "nt:major-bidi;mso-bidi-theme-font:\r\nmajor-bidi\'>Undergraduate Research Assistant" +
+            "r-bidi;mso-bidi-theme-font:\r\nmajor-bidi\'>Department of Civil Engineering<o:p></o" +
+            ":p></span></p>\r\n\r\n<p class=MsoListParagraphCxSpMiddle style=\'margin-bottom:6.0pt" +
+            ";mso-add-space:\r\nauto;line-height:normal\'><span style=\'font-size:12.0pt;font-fam" +
+            "ily:\"Times New Roman\",\"serif\";\r\nmso-ascii-theme-font:major-bidi;mso-hansi-theme-" +
+            "font:major-bidi;mso-bidi-theme-font:\r\nmajor-bidi\'>American University of Sharjah" +
             "<o:p></o:p></span></p>\r\n\r\n<p class=MsoListParagraphCxSpMiddle style=\'margin-bott" +
             "om:6.0pt;mso-add-space:\r\nauto;line-height:normal\'><span style=\'font-size:12.0pt;" +
             "font-family:\"Times New Roman\",\"serif\";\r\nmso-ascii-theme-font:major-bidi;mso-hans" +
-            "i-theme-font:major-bidi;mso-bidi-theme-font:\r\nmajor-bidi\'>Department of Civil En" +
-            "gineering<o:p></o:p></span></p>\r\n\r\n<p class=MsoListParagraphCxSpMiddle style=\'ma" +
-            "rgin-bottom:6.0pt;mso-add-space:\r\nauto;line-height:normal\'><span style=\'font-siz" +
-            "e:12.0pt;font-family:\"Times New Roman\",\"serif\";\r\nmso-ascii-theme-font:major-bidi" +
-            ";mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:\r\nmajor-bidi\'>American Univ" +
-            "ersity of Sharjah<o:p></o:p></span></p>\r\n\r\n<p class=MsoListParagraphCxSpLast sty" +
-            "le=\'margin-bottom:6.0pt;mso-add-space:\r\nauto;line-height:normal\'><span style=\'fo" +
-            "nt-size:12.0pt;font-family:\"Times New Roman\",\"serif\";\r\nmso-ascii-theme-font:majo" +
-            "r-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:\r\nmajor-bidi\'>Email: " +
-            "</span><a href=\"mailto:b00049702@aus.edu\"><span\r\nstyle=\'font-size:12.0pt;font-fa" +
+            "i-theme-font:major-bidi;mso-bidi-theme-font:\r\nmajor-bidi\'>Email: <span class=Mso" +
+            "Hyperlink>b00057425@aus.edu</span></span> <span\r\nstyle=\'font-size:12.0pt;font-fa" +
             "mily:\"Times New Roman\",\"serif\";mso-ascii-theme-font:\r\nmajor-bidi;mso-hansi-theme" +
-            "-font:major-bidi;mso-bidi-theme-font:major-bidi\'>b00049702@aus.edu</span></a><sp" +
-            "an\r\nstyle=\'font-size:12.0pt;font-family:\"Times New Roman\",\"serif\";mso-ascii-them" +
-            "e-font:\r\nmajor-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bi" +
-            "di\'> <o:p></o:p></span></p>\r\n\r\n<p class=MsoNormal style=\'margin-bottom:0in;margi" +
-            "n-bottom:.0001pt\'><span\r\nstyle=\'font-size:12.0pt;line-height:115%;font-family:\"T" +
-            "imes New Roman\",\"serif\";\r\nmso-bidi-font-family:Arial;mso-bidi-theme-font:minor-b" +
-            "idi\'>The splash screen\r\ncontains graphics designed by </span><a href=\"http://fre" +
-            "epik.com/\"><span\r\nstyle=\'font-size:12.0pt;line-height:115%;font-family:\"Times Ne" +
-            "w Roman\",\"serif\";\r\nmso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi\'>Fr" +
-            "eepik.com</span></a></p>\r\n\r\n<p class=MsoNormal style=\'margin-bottom:0in;margin-b" +
-            "ottom:.0001pt\'><span\r\nstyle=\'font-size:12.0pt;line-height:115%;font-family:\"Time" +
-            "s New Roman\",\"serif\";\r\nmso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi" +
-            "\'>The following\r\nsoftware components is used in INSPECT: </span></p>\r\n\r\n<p class" +
-            "=MsoListParagraphCxSpFirst style=\'margin-bottom:0in;margin-bottom:.0001pt;\r\nmso-" +
+            "-font:major-bidi;mso-bidi-theme-font:major-bidi\'><span\r\nstyle=\'mso-spacerun:yes\'" +
+            "> </span><o:p></o:p></span></p>\r\n\r\n<p class=MsoListParagraphCxSpMiddle style=\'ma" +
+            "rgin-bottom:6.0pt;mso-add-space:\r\nauto;line-height:normal\'><span style=\'font-siz" +
+            "e:6.0pt;font-family:\"Times New Roman\",\"serif\";\r\nmso-ascii-theme-font:major-bidi;" +
+            "mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:\r\nmajor-bidi\'><o:p>&nbsp;</o" +
+            ":p></span></p>\r\n\r\n<p class=MsoListParagraphCxSpMiddle style=\'margin-bottom:6.0pt" +
+            ";mso-add-space:\r\nauto;text-indent:-.25in;line-height:normal;mso-list:l1 level1 l" +
+            "fo1\'><![if !supportLists]><span\r\nstyle=\'font-size:12.0pt;font-family:Symbol;mso-" +
+            "fareast-font-family:Symbol;\r\nmso-bidi-font-family:Symbol\'><span style=\'mso-list:" +
+            "Ignore\'>·<span\r\nstyle=\'font:7.0pt \"Times New Roman\"\'>&nbsp;&nbsp;&nbsp;&nbsp;&nb" +
+            "sp;&nbsp;&nbsp;&nbsp;\r\n</span></span></span><![endif]><span dir=LTR></span><b><s" +
+            "pan style=\'font-size:\r\n12.0pt;font-family:\"Times New Roman\",\"serif\";mso-ascii-th" +
+            "eme-font:major-bidi;\r\nmso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-" +
+            "bidi\'>Mr. Laith\r\nElayyan<br>\r\n</span></b><span style=\'font-size:12.0pt;font-fami" +
+            "ly:\"Times New Roman\",\"serif\";\r\nmso-ascii-theme-font:major-bidi;mso-hansi-theme-f" +
+            "ont:major-bidi;mso-bidi-theme-font:\r\nmajor-bidi\'>Undergraduate Research Assistan" +
+            "t<o:p></o:p></span></p>\r\n\r\n<p class=MsoListParagraphCxSpMiddle style=\'margin-bot" +
+            "tom:6.0pt;mso-add-space:\r\nauto;line-height:normal\'><span style=\'font-size:12.0pt" +
+            ";font-family:\"Times New Roman\",\"serif\";\r\nmso-ascii-theme-font:major-bidi;mso-han" +
+            "si-theme-font:major-bidi;mso-bidi-theme-font:\r\nmajor-bidi\'>Department of Civil E" +
+            "ngineering<o:p></o:p></span></p>\r\n\r\n<p class=MsoListParagraphCxSpMiddle style=\'m" +
+            "argin-bottom:6.0pt;mso-add-space:\r\nauto;line-height:normal\'><span style=\'font-si" +
+            "ze:12.0pt;font-family:\"Times New Roman\",\"serif\";\r\nmso-ascii-theme-font:major-bid" +
+            "i;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:\r\nmajor-bidi\'>American Uni" +
+            "versity of Sharjah<o:p></o:p></span></p>\r\n\r\n<p class=MsoListParagraphCxSpLast st" +
+            "yle=\'margin-bottom:6.0pt;mso-add-space:\r\nauto;line-height:normal\'><span style=\'f" +
+            "ont-size:12.0pt;font-family:\"Times New Roman\",\"serif\";\r\nmso-ascii-theme-font:maj" +
+            "or-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:\r\nmajor-bidi\'>Email:" +
+            " </span><a href=\"mailto:b00049702@aus.edu\"><span\r\nstyle=\'font-size:12.0pt;font-f" +
+            "amily:\"Times New Roman\",\"serif\";mso-ascii-theme-font:\r\nmajor-bidi;mso-hansi-them" +
+            "e-font:major-bidi;mso-bidi-theme-font:major-bidi\'>b00049702@aus.edu</span></a><s" +
+            "pan\r\nstyle=\'font-size:12.0pt;font-family:\"Times New Roman\",\"serif\";mso-ascii-the" +
+            "me-font:\r\nmajor-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-b" +
+            "idi\'> <o:p></o:p></span></p>\r\n\r\n<p class=MsoNormal style=\'margin-bottom:0in;marg" +
+            "in-bottom:.0001pt\'><span\r\nstyle=\'font-size:12.0pt;line-height:115%;font-family:\"" +
+            "Times New Roman\",\"serif\";\r\nmso-bidi-font-family:Arial;mso-bidi-theme-font:minor-" +
+            "bidi\'>The splash screen\r\ncontains graphics designed by </span><a href=\"http://fr" +
+            "eepik.com/\"><span\r\nstyle=\'font-size:12.0pt;line-height:115%;font-family:\"Times N" +
+            "ew Roman\",\"serif\";\r\nmso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi\'>F" +
+            "reepik.com</span></a></p>\r\n\r\n<p class=MsoNormal style=\'margin-bottom:0in;margin-" +
+            "bottom:.0001pt\'><span\r\nstyle=\'font-size:12.0pt;line-height:115%;font-family:\"Tim" +
+            "es New Roman\",\"serif\";\r\nmso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bid" +
+            "i\'>The following\r\nsoftware components is used in INSPECT: </span></p>\r\n\r\n<p clas" +
+            "s=MsoListParagraphCxSpFirst style=\'margin-bottom:0in;margin-bottom:.0001pt;\r\nmso" +
+            "-add-space:auto;text-indent:-.25in\'><span style=\'font-size:12.0pt;\r\nline-height:" +
+            "115%;font-family:Symbol\'>·</span><span style=\'font-size:7.0pt;\r\nline-height:115%" +
+            ";font-family:\"Times New Roman\",\"serif\";mso-bidi-font-family:\r\nArial;mso-bidi-the" +
+            "me-font:minor-bidi\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span><sp" +
+            "an class=SpellE><span style=\'font-size:12.0pt;line-height:115%;\r\nfont-family:\"Ti" +
+            "mes New Roman\",\"serif\";mso-bidi-font-family:Arial;mso-bidi-theme-font:\r\nminor-bi" +
+            "di\'>Nelder</span></span><span style=\'font-size:12.0pt;line-height:115%;\r\nfont-fa" +
+            "mily:\"Times New Roman\",\"serif\";mso-bidi-font-family:Arial;mso-bidi-theme-font:\r\n" +
+            "minor-bidi\'>-Mead optimization method implementation by Kris <span\r\nclass=SpellE" +
+            ">Kniaz</span> [</span><a href=\"http://www.kniaz.net\"><span\r\nstyle=\'font-size:12." +
+            "0pt;line-height:115%;font-family:\"Times New Roman\",\"serif\";\r\nmso-bidi-font-famil" +
+            "y:Arial;mso-bidi-theme-font:minor-bidi\'>http://www.kniaz.net</span></a><span\r\nst" +
+            "yle=\'font-size:12.0pt;line-height:115%;font-family:\"Times New Roman\",\"serif\";\r\nm" +
+            "so-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi\'>]. </span></p>\r\n\r\n<p c" +
+            "lass=MsoListParagraphCxSpMiddle style=\'margin-bottom:0in;margin-bottom:\r\n.0001pt" +
+            ";mso-add-space:auto;text-indent:-.25in\'><span style=\'font-size:12.0pt;\r\nline-hei" +
+            "ght:115%;font-family:Symbol\'>·</span><span style=\'font-size:7.0pt;\r\nline-height:" +
+            "115%;font-family:\"Times New Roman\",\"serif\";mso-bidi-font-family:\r\nArial;mso-bidi" +
+            "-theme-font:minor-bidi\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span" +
+            "><span class=SpellE><span style=\'font-size:12.0pt;line-height:115%;\r\nfont-family" +
+            ":\"Times New Roman\",\"serif\";mso-bidi-font-family:Arial;mso-bidi-theme-font:\r\nmino" +
+            "r-bidi\'>ZedGraph</span></span><span style=\'font-size:12.0pt;line-height:\r\n115%;f" +
+            "ont-family:\"Times New Roman\",\"serif\";mso-bidi-font-family:Arial;\r\nmso-bidi-theme" +
+            "-font:minor-bidi\'> charting library [</span><a\r\nhref=\"http://sourceforge.net/pro" +
+            "jects/zedgraph\"><span style=\'font-size:12.0pt;\r\nline-height:115%;font-family:\"Ti" +
+            "mes New Roman\",\"serif\";mso-bidi-font-family:\r\nArial;mso-bidi-theme-font:minor-bi" +
+            "di\'>http://sourceforge.net/projects/zedgraph</span></a><span\r\nstyle=\'font-size:1" +
+            "2.0pt;line-height:115%;font-family:\"Times New Roman\",\"serif\";\r\nmso-bidi-font-fam" +
+            "ily:Arial;mso-bidi-theme-font:minor-bidi\'>] </span></p>\r\n\r\n<p class=MsoListParag" +
+            "raphCxSpMiddle style=\'margin-bottom:0in;margin-bottom:\r\n.0001pt;mso-add-space:au" +
+            "to;text-indent:-.25in\'><span style=\'font-size:12.0pt;\r\nline-height:115%;font-fam" +
+            "ily:Symbol\'>·</span><span style=\'font-size:7.0pt;\r\nline-height:115%;font-family:" +
+            "\"Times New Roman\",\"serif\";mso-bidi-font-family:\r\nArial;mso-bidi-theme-font:minor" +
+            "-bidi\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span><span style=\'fon" +
+            "t-size:12.0pt;line-height:115%;font-family:\"Times New Roman\",\"serif\";\r\nmso-bidi-" +
+            "font-family:Arial;mso-bidi-theme-font:minor-bidi\'>Math.Net computing\r\nlibrary [<" +
+            "/span><a href=\"http://www.mathdotnet.com/\"><span style=\'font-size:\r\n12.0pt;line-" +
+            "height:115%;font-family:\"Times New Roman\",\"serif\";mso-bidi-font-family:\r\nArial;m" +
+            "so-bidi-theme-font:minor-bidi\'>http://www.mathdotnet.com</span></a><span\r\nstyle=" +
+            "\'font-size:12.0pt;line-height:115%;font-family:\"Times New Roman\",\"serif\";\r\nmso-b" +
+            "idi-font-family:Arial;mso-bidi-theme-font:minor-bidi\'>] </span></p>\r\n\r\n<p class=" +
+            "MsoListParagraphCxSpMiddle style=\'margin-bottom:0in;margin-bottom:\r\n.0001pt;mso-" +
             "add-space:auto;text-indent:-.25in\'><span style=\'font-size:12.0pt;\r\nline-height:1" +
             "15%;font-family:Symbol\'>·</span><span style=\'font-size:7.0pt;\r\nline-height:115%;" +
             "font-family:\"Times New Roman\",\"serif\";mso-bidi-font-family:\r\nArial;mso-bidi-them" +
             "e-font:minor-bidi\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span><spa" +
             "n class=SpellE><span style=\'font-size:12.0pt;line-height:115%;\r\nfont-family:\"Tim" +
             "es New Roman\",\"serif\";mso-bidi-font-family:Arial;mso-bidi-theme-font:\r\nminor-bid" +
-            "i\'>Nelder</span></span><span style=\'font-size:12.0pt;line-height:115%;\r\nfont-fam" +
-            "ily:\"Times New Roman\",\"serif\";mso-bidi-font-family:Arial;mso-bidi-theme-font:\r\nm" +
-            "inor-bidi\'>-Mead optimization method implementation by Kris <span\r\nclass=SpellE>" +
-            "Kniaz</span> [</span><a href=\"http://www.kniaz.net\"><span\r\nstyle=\'font-size:12.0" +
-            "pt;line-height:115%;font-family:\"Times New Roman\",\"serif\";\r\nmso-bidi-font-family" +
-            ":Arial;mso-bidi-theme-font:minor-bidi\'>http://www.kniaz.net</span></a><span\r\nsty" +
-            "le=\'font-size:12.0pt;line-height:115%;font-family:\"Times New Roman\",\"serif\";\r\nms" +
-            "o-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi\'>]. </span></p>\r\n\r\n<p cl" +
-            "ass=MsoListParagraphCxSpMiddle style=\'margin-bottom:0in;margin-bottom:\r\n.0001pt;" +
-            "mso-add-space:auto;text-indent:-.25in\'><span style=\'font-size:12.0pt;\r\nline-heig" +
-            "ht:115%;font-family:Symbol\'>·</span><span style=\'font-size:7.0pt;\r\nline-height:1" +
-            "15%;font-family:\"Times New Roman\",\"serif\";mso-bidi-font-family:\r\nArial;mso-bidi-" +
-            "theme-font:minor-bidi\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span>" +
-            "<span class=SpellE><span style=\'font-size:12.0pt;line-height:115%;\r\nfont-family:" +
-            "\"Times New Roman\",\"serif\";mso-bidi-font-family:Arial;mso-bidi-theme-font:\r\nminor" +
-            "-bidi\'>ZedGraph</span></span><span style=\'font-size:12.0pt;line-height:\r\n115%;fo" +
-            "nt-family:\"Times New Roman\",\"serif\";mso-bidi-font-family:Arial;\r\nmso-bidi-theme-" +
-            "font:minor-bidi\'> charting library [</span><a\r\nhref=\"http://sourceforge.net/proj" +
-            "ects/zedgraph\"><span style=\'font-size:12.0pt;\r\nline-height:115%;font-family:\"Tim" +
-            "es New Roman\",\"serif\";mso-bidi-font-family:\r\nArial;mso-bidi-theme-font:minor-bid" +
-            "i\'>http://sourceforge.net/projects/zedgraph</span></a><span\r\nstyle=\'font-size:12" +
-            ".0pt;line-height:115%;font-family:\"Times New Roman\",\"serif\";\r\nmso-bidi-font-fami" +
-            "ly:Arial;mso-bidi-theme-font:minor-bidi\'>] </span></p>\r\n\r\n<p class=MsoListParagr" +
-            "aphCxSpMiddle style=\'margin-bottom:0in;margin-bottom:\r\n.0001pt;mso-add-space:aut" +
-            "o;text-indent:-.25in\'><span style=\'font-size:12.0pt;\r\nline-height:115%;font-fami" +
-            "ly:Symbol\'>·</span><span style=\'font-size:7.0pt;\r\nline-height:115%;font-family:\"" +
-            "Times New Roman\",\"serif\";mso-bidi-font-family:\r\nArial;mso-bidi-theme-font:minor-" +
-            "bidi\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span><span style=\'font" +
-            "-size:12.0pt;line-height:115%;font-family:\"Times New Roman\",\"serif\";\r\nmso-bidi-f" +
-            "ont-family:Arial;mso-bidi-theme-font:minor-bidi\'>Math.Net computing\r\nlibrary [</" +
-            "span><a href=\"http://www.mathdotnet.com/\"><span style=\'font-size:\r\n12.0pt;line-h" +
-            "eight:115%;font-family:\"Times New Roman\",\"serif\";mso-bidi-font-family:\r\nArial;ms" +
-            "o-bidi-theme-font:minor-bidi\'>http://www.mathdotnet.com</span></a><span\r\nstyle=\'" +
-            "font-size:12.0pt;line-height:115%;font-family:\"Times New Roman\",\"serif\";\r\nmso-bi" +
-            "di-font-family:Arial;mso-bidi-theme-font:minor-bidi\'>] </span></p>\r\n\r\n<p class=M" +
-            "soListParagraphCxSpMiddle style=\'margin-bottom:0in;margin-bottom:\r\n.0001pt;mso-a" +
-            "dd-space:auto;text-indent:-.25in\'><span style=\'font-size:12.0pt;\r\nline-height:11" +
-            "5%;font-family:Symbol\'>·</span><span style=\'font-size:7.0pt;\r\nline-height:115%;f" +
-            "ont-family:\"Times New Roman\",\"serif\";mso-bidi-font-family:\r\nArial;mso-bidi-theme" +
-            "-font:minor-bidi\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span><span" +
-            " class=SpellE><span style=\'font-size:12.0pt;line-height:115%;\r\nfont-family:\"Time" +
-            "s New Roman\",\"serif\";mso-bidi-font-family:Arial;mso-bidi-theme-font:\r\nminor-bidi" +
-            "\'>SqlLite</span></span><span style=\'font-size:12.0pt;line-height:\r\n115%;font-fam" +
-            "ily:\"Times New Roman\",\"serif\";mso-bidi-font-family:Arial;\r\nmso-bidi-theme-font:m" +
-            "inor-bidi\'> database engine [</span><a\r\nhref=\"https://www.sqlite.org/\"><span sty" +
-            "le=\'font-size:12.0pt;line-height:115%;\r\nfont-family:\"Times New Roman\",\"serif\";ms" +
-            "o-bidi-font-family:Arial;mso-bidi-theme-font:\r\nminor-bidi\'>https://www.sqlite.or" +
-            "g</span></a><span style=\'font-size:12.0pt;\r\nline-height:115%;font-family:\"Times " +
-            "New Roman\",\"serif\";mso-bidi-font-family:\r\nArial;mso-bidi-theme-font:minor-bidi\'>" +
-            "]</span></p>\r\n\r\n<p class=MsoListParagraphCxSpLast style=\'margin-bottom:0in;margi" +
-            "n-bottom:.0001pt;\r\nmso-add-space:auto\'><span style=\'font-size:12.0pt;line-height" +
-            ":115%;font-family:\r\n\"Times New Roman\",\"serif\";mso-bidi-font-family:Arial;mso-bid" +
-            "i-theme-font:minor-bidi\'>&nbsp;</span></p>\r\n\r\n<p class=MsoNormal style=\'margin-b" +
-            "ottom:6.0pt;line-height:normal\'><span\r\nstyle=\'font-size:12.0pt;font-family:\"Time" +
-            "s New Roman\",\"serif\";mso-ascii-theme-font:\r\nmajor-bidi;mso-hansi-theme-font:majo" +
-            "r-bidi;mso-bidi-theme-font:major-bidi\'><o:p>&nbsp;</o:p></span></p>\r\n\r\n<p class=" +
-            "MsoListParagraph style=\'margin-bottom:0in;margin-bottom:.0001pt;\r\nmso-add-space:" +
-            "auto\'><span style=\'font-size:12.0pt;line-height:115%;font-family:\r\n\"Times New Ro" +
-            "man\",\"serif\";mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:\r\nmajor-bidi;m" +
-            "so-bidi-theme-font:major-bidi\'><o:p>&nbsp;</o:p></span></p>\r\n\r\n</div>\r\n\r\n</body>" +
-            "\r\n\r\n</html>\r\n")]
+            "i\'>SqlLite</span></span><span style=\'font-size:12.0pt;line-height:\r\n115%;font-fa" +
+            "mily:\"Times New Roman\",\"serif\";mso-bidi-font-family:Arial;\r\nmso-bidi-theme-font:" +
+            "minor-bidi\'> database engine [</span><a\r\nhref=\"https://www.sqlite.org/\"><span st" +
+            "yle=\'font-size:12.0pt;line-height:115%;\r\nfont-family:\"Times New Roman\",\"serif\";m" +
+            "so-bidi-font-family:Arial;mso-bidi-theme-font:\r\nminor-bidi\'>https://www.sqlite.o" +
+            "rg</span></a><span style=\'font-size:12.0pt;\r\nline-height:115%;font-family:\"Times" +
+            " New Roman\",\"serif\";mso-bidi-font-family:\r\nArial;mso-bidi-theme-font:minor-bidi\'" +
+            ">]</span></p>\r\n\r\n<p class=MsoListParagraphCxSpLast style=\'margin-bottom:0in;marg" +
+            "in-bottom:.0001pt;\r\nmso-add-space:auto\'><span style=\'font-size:12.0pt;line-heigh" +
+            "t:115%;font-family:\r\n\"Times New Roman\",\"serif\";mso-bidi-font-family:Arial;mso-bi" +
+            "di-theme-font:minor-bidi\'>&nbsp;</span></p>\r\n\r\n<p class=MsoNormal style=\'margin-" +
+            "bottom:6.0pt;line-height:normal\'><span\r\nstyle=\'font-size:12.0pt;font-family:\"Tim" +
+            "es New Roman\",\"serif\";mso-ascii-theme-font:\r\nmajor-bidi;mso-hansi-theme-font:maj" +
+            "or-bidi;mso-bidi-theme-font:major-bidi\'><o:p>&nbsp;</o:p></span></p>\r\n\r\n<p class" +
+            "=MsoListParagraph style=\'margin-bottom:0in;margin-bottom:.0001pt;\r\nmso-add-space" +
+            ":auto\'><span style=\'font-size:12.0pt;line-height:115%;font-family:\r\n\"Times New R" +
+            "oman\",\"serif\";mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:\r\nmajor-bidi;" +
+            "mso-bidi-theme-font:major-bidi\'><o:p>&nbsp;</o:p></span></p>\r\n\r\n</div>\r\n\r\n</body" +
+            ">\r\n\r\n</html>")]
         public string ack {
             get {
                 return ((string)(this["ack"]));
