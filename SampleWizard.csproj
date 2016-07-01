@@ -814,7 +814,6 @@
     <None Include="FEMA\PEER\Near\EQ9-1.dat" />
     <None Include="FEMA\PEER\Near\EQ9-2.dat" />
     <None Include="FEMA\PEER\Near\EQ9-3.dat" />
-    <None Include="Installer\INSPECT.msi" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -866,7 +865,7 @@
     <None Include="Resources\Delete1.png" />
     <None Include="Resources\compare.png" />
     <Content Include="icon_1.ico" />
-    <Content Include="Installer\setup.exe" />
+    <Content Include="Installer\Installer.exe" />
     <Content Include="Resources\Help symbol.png" />
     <None Include="Resources\Lightning.png" />
     <None Include="Resources\Text preview.png" />
