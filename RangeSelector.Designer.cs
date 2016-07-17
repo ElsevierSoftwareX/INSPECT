@@ -91,9 +91,9 @@
             this.lbl_msg.AutoSize = true;
             this.lbl_msg.Location = new System.Drawing.Point(8, 7);
             this.lbl_msg.Name = "lbl_msg";
-            this.lbl_msg.Size = new System.Drawing.Size(49, 13);
+            this.lbl_msg.Size = new System.Drawing.Size(166, 13);
             this.lbl_msg.TabIndex = 6;
-            this.lbl_msg.Text = "message";
+            this.lbl_msg.Text = "Please select range for replication";
             // 
             // RangeSelector
             // 

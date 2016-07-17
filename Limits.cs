@@ -29,8 +29,8 @@ namespace SampleWizard
         public static int NZ2 = 8000;
         public static int NZ3 = 10;
         public static int NZ4 = 500;
-        public static DateTime LastDay = new DateTime(2016, 12, 31);// Limited version
-        //public static DateTime LastDay = DateTime.MaxValue; // for UNLIMITED Version 
+       // public static DateTime LastDay = new DateTime(2016, 12, 31);// Limited version
+        public static DateTime LastDay = DateTime.MaxValue; // for UNLIMITED Version 
         public static DateTime CurrentDay = new DateTime();
         public static double[] FEMA_NEAR_DETLA = { 0.005, 0.005, 0.005, 0.01, 0.005, 0.005, 0.02, 0.005, 0.01, 0.02, 0.005, 0.005, 0.005, 0.005, 0.005, 0.005, 0.01, 0.0025, 0.0025, 0.005, 0.005, 0.02, 0.005, 0.01, 0.005, 0.005, 0.005, 0.005 };
         public static double[] FEMA_FAR_DELTA = { 0.01, 0.01, 0.01, 0.01, 0.01, 0.005, 0.01, 0.01, 0.005, 0.005, 0.02, 0.0025, 0.005, 0.005, 0.02, 0.005, 0.01, 0.02, 0.005, 0.005, 0.01, 0.005 };

@@ -814,6 +814,7 @@
     <None Include="FEMA\PEER\Near\EQ9-1.dat" />
     <None Include="FEMA\PEER\Near\EQ9-2.dat" />
     <None Include="FEMA\PEER\Near\EQ9-3.dat" />
+    <None Include="Installer\Installation Instructions.pdf" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
