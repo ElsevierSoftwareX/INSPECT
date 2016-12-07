@@ -738,706 +738,259 @@ namespace SampleWizard.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("<html xmlns:v=\"urn:schemas-microsoft-com:vml\"\r\nxmlns:o=\"urn:schemas-microsoft-com" +
-            ":office:office\"\r\nxmlns:w=\"urn:schemas-microsoft-com:office:word\"\r\nxmlns:m=\"http:" +
-            "//schemas.microsoft.com/office/2004/12/omml\"\r\nxmlns=\"http://www.w3.org/TR/REC-ht" +
-            "ml40\">\r\n\r\n<head>\r\n<meta http-equiv=Content-Type content=\"text/html; charset=wind" +
-            "ows-1252\">\r\n<meta name=ProgId content=Word.Document>\r\n<meta name=Generator conte" +
-            "nt=\"Microsoft Word 14\">\r\n<meta name=Originator content=\"Microsoft Word 14\">\r\n<li" +
-            "nk rel=File-List href=\"about_files/filelist.xml\">\r\n<!--[if gte mso 9]><xml>\r\n <o" +
-            ":DocumentProperties>\r\n  <o:Author>m_najeeb</o:Author>\r\n  <o:LastAuthor>Profile</" +
-            "o:LastAuthor>\r\n  <o:Revision>2</o:Revision>\r\n  <o:TotalTime>1</o:TotalTime>\r\n  <" +
-            "o:Created>2016-05-02T16:29:00Z</o:Created>\r\n  <o:LastSaved>2016-05-02T16:29:00Z<" +
-            "/o:LastSaved>\r\n  <o:Pages>2</o:Pages>\r\n  <o:Words>910</o:Words>\r\n  <o:Characters" +
-            ">5189</o:Characters>\r\n  <o:Lines>43</o:Lines>\r\n  <o:Paragraphs>12</o:Paragraphs>" +
-            "\r\n  <o:CharactersWithSpaces>6087</o:CharactersWithSpaces>\r\n  <o:Version>14.00</o" +
-            ":Version>\r\n </o:DocumentProperties>\r\n <o:OfficeDocumentSettings>\r\n  <o:AllowPNG/" +
-            ">\r\n </o:OfficeDocumentSettings>\r\n</xml><![endif]-->\r\n<link rel=dataStoreItem hre" +
-            "f=\"about_files/item0001.xml\"\r\ntarget=\"about_files/props002.xml\">\r\n<link rel=them" +
-            "eData href=\"about_files/themedata.thmx\">\r\n<link rel=colorSchemeMapping href=\"abo" +
-            "ut_files/colorschememapping.xml\">\r\n<!--[if gte mso 9]><xml>\r\n <w:WordDocument>\r\n" +
-            "  <w:SpellingState>Clean</w:SpellingState>\r\n  <w:GrammarState>Clean</w:GrammarSt" +
-            "ate>\r\n  <w:TrackMoves>false</w:TrackMoves>\r\n  <w:TrackFormatting/>\r\n  <w:Punctua" +
-            "tionKerning/>\r\n  <w:ValidateAgainstSchemas/>\r\n  <w:SaveIfXMLInvalid>false</w:Sav" +
-            "eIfXMLInvalid>\r\n  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>\r\n  <w:Alway" +
-            "sShowPlaceholderText>false</w:AlwaysShowPlaceholderText>\r\n  <w:DoNotPromoteQF/>\r" +
-            "\n  <w:LidThemeOther>EN-US</w:LidThemeOther>\r\n  <w:LidThemeAsian>X-NONE</w:LidThe" +
-            "meAsian>\r\n  <w:LidThemeComplexScript>AR-SA</w:LidThemeComplexScript>\r\n  <w:Compa" +
-            "tibility>\r\n   <w:BreakWrappedTables/>\r\n   <w:SnapToGridInCell/>\r\n   <w:WrapTextW" +
-            "ithPunct/>\r\n   <w:UseAsianBreakRules/>\r\n   <w:DontGrowAutofit/>\r\n   <w:SplitPgBr" +
-            "eakAndParaMark/>\r\n   <w:EnableOpenTypeKerning/>\r\n   <w:DontFlipMirrorIndents/>\r\n" +
-            "   <w:OverrideTableStyleHps/>\r\n  </w:Compatibility>\r\n  <m:mathPr>\r\n   <m:mathFon" +
-            "t m:val=\"Cambria Math\"/>\r\n   <m:brkBin m:val=\"before\"/>\r\n   <m:brkBinSub m:val=\"" +
-            "&#45;-\"/>\r\n   <m:smallFrac m:val=\"off\"/>\r\n   <m:dispDef/>\r\n   <m:lMargin m:val=\"" +
-            "0\"/>\r\n   <m:rMargin m:val=\"0\"/>\r\n   <m:defJc m:val=\"centerGroup\"/>\r\n   <m:wrapIn" +
-            "dent m:val=\"1440\"/>\r\n   <m:intLim m:val=\"subSup\"/>\r\n   <m:naryLim m:val=\"undOvr\"" +
-            "/>\r\n  </m:mathPr></w:WordDocument>\r\n</xml><![endif]--><!--[if gte mso 9]><xml>\r\n" +
-            " <w:LatentStyles DefLockedState=\"false\" DefUnhideWhenUsed=\"true\"\r\n  DefSemiHidde" +
-            "n=\"true\" DefQFormat=\"false\" DefPriority=\"99\"\r\n  LatentStyleCount=\"267\">\r\n  <w:Ls" +
-            "dException Locked=\"false\" Priority=\"0\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"fa" +
-            "lse\" QFormat=\"true\" Name=\"Normal\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"" +
-            "9\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"heading 1\"" +
-            "/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 2" +
-            "\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading " +
-            "3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading" +
-            " 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"headin" +
-            "g 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"headi" +
-            "ng 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"head" +
-            "ing 7\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"hea" +
-            "ding 8\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"he" +
-            "ading 9\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 1\"/>\r\n  <w:" +
-            "LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 2\"/>\r\n  <w:LsdException Lock" +
-            "ed=\"false\" Priority=\"39\" Name=\"toc 3\"/>\r\n  <w:LsdException Locked=\"false\" Priori" +
-            "ty=\"39\" Name=\"toc 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc" +
-            " 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 6\"/>\r\n  <w:LsdEx" +
-            "ception Locked=\"false\" Priority=\"39\" Name=\"toc 7\"/>\r\n  <w:LsdException Locked=\"f" +
-            "alse\" Priority=\"39\" Name=\"toc 8\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"3" +
-            "9\" Name=\"toc 9\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"35\" QFormat=\"true\"" +
-            " Name=\"caption\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"10\" SemiHidden=\"fa" +
-            "lse\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Title\"/>\r\n  <w:LsdException" +
-            " Locked=\"false\" Priority=\"1\" Name=\"Default Paragraph Font\"/>\r\n  <w:LsdException " +
-            "Locked=\"false\" Priority=\"11\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QForm" +
-            "at=\"true\" Name=\"Subtitle\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"22\" Semi" +
-            "Hidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Strong\"/>\r\n  <w:L" +
-            "sdException Locked=\"false\" Priority=\"20\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"" +
-            "false\" QFormat=\"true\" Name=\"Emphasis\"/>\r\n  <w:LsdException Locked=\"false\" Priori" +
-            "ty=\"59\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Table Grid\"/>\r\n  <w:" +
-            "LsdException Locked=\"false\" UnhideWhenUsed=\"false\" Name=\"Placeholder Text\"/>\r\n  " +
-            "<w:LsdException Locked=\"false\" Priority=\"1\" SemiHidden=\"false\"\r\n   UnhideWhenUse" +
-            "d=\"false\" QFormat=\"true\" Name=\"No Spacing\"/>\r\n  <w:LsdException Locked=\"false\" P" +
-            "riority=\"60\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light Shading\"/" +
-            ">\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" SemiHidden=\"false\"\r\n   UnhideW" +
-            "henUsed=\"false\" Name=\"Light List\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"" +
-            "62\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light Grid\"/>\r\n  <w:LsdE" +
-            "xception Locked=\"false\" Priority=\"63\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"fal" +
-            "se\" Name=\"Medium Shading 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" Se" +
-            "miHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 2\"/>\r\n  <w:LsdE" +
-            "xception Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"fal" +
-            "se\" Name=\"Medium List 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" SemiH" +
-            "idden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 2\"/>\r\n  <w:LsdExcepti" +
-            "on Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Na" +
-            "me=\"Medium Grid 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" SemiHidden=" +
-            "\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 2\"/>\r\n  <w:LsdException Loc" +
-            "ked=\"false\" Priority=\"69\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Me" +
-            "dium Grid 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" SemiHidden=\"false" +
-            "\"\r\n   UnhideWhenUsed=\"false\" Name=\"Dark List\"/>\r\n  <w:LsdException Locked=\"false" +
-            "\" Priority=\"71\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Sha" +
-            "ding\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"\r\n   U" +
-            "nhideWhenUsed=\"false\" Name=\"Colorful List\"/>\r\n  <w:LsdException Locked=\"false\" P" +
-            "riority=\"73\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Grid\"/" +
-            ">\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"\r\n   UnhideW" +
-            "henUsed=\"false\" Name=\"Light Shading Accent 1\"/>\r\n  <w:LsdException Locked=\"false" +
-            "\" Priority=\"61\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light List A" +
-            "ccent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"\r\n " +
-            "  UnhideWhenUsed=\"false\" Name=\"Light Grid Accent 1\"/>\r\n  <w:LsdException Locked=" +
-            "\"false\" Priority=\"63\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium" +
-            " Shading 1 Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" SemiHidde" +
-            "n=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 2 Accent 1\"/>\r\n  <w:Ls" +
-            "dException Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"f" +
-            "alse\" Name=\"Medium List 1 Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" UnhideWh" +
-            "enUsed=\"false\" Name=\"Revision\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"34\"" +
-            " SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"List Paragra" +
-            "ph\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"29\" SemiHidden=\"false\"\r\n   Unh" +
-            "ideWhenUsed=\"false\" QFormat=\"true\" Name=\"Quote\"/>\r\n  <w:LsdException Locked=\"fal" +
-            "se\" Priority=\"30\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" N" +
-            "ame=\"Intense Quote\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" SemiHidden" +
-            "=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 2 Accent 1\"/>\r\n  <w:LsdExc" +
-            "eption Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false" +
-            "\" Name=\"Medium Grid 1 Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"68" +
-            "\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 2 Accent 1\"/>\r" +
-            "\n  <w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"\r\n   UnhideWhe" +
-            "nUsed=\"false\" Name=\"Medium Grid 3 Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" " +
-            "Priority=\"70\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Dark List Acce" +
-            "nt 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"\r\n   U" +
-            "nhideWhenUsed=\"false\" Name=\"Colorful Shading Accent 1\"/>\r\n  <w:LsdException Lock" +
-            "ed=\"false\" Priority=\"72\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Col" +
-            "orful List Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" SemiHidde" +
-            "n=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Grid Accent 1\"/>\r\n  <w:LsdEx" +
-            "ception Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"fals" +
-            "e\" Name=\"Light Shading Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"6" +
-            "1\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light List Accent 2\"/>\r\n " +
-            " <w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"\r\n   UnhideWhenU" +
-            "sed=\"false\" Name=\"Light Grid Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Prior" +
-            "ity=\"63\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 1 Ac" +
-            "cent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"false\"\r\n  " +
-            " UnhideWhenUsed=\"false\" Name=\"Medium Shading 2 Accent 2\"/>\r\n  <w:LsdException Lo" +
-            "cked=\"false\" Priority=\"65\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"M" +
-            "edium List 1 Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" SemiHid" +
-            "den=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 2 Accent 2\"/>\r\n  <w:Lsd" +
-            "Exception Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"fa" +
-            "lse\" Name=\"Medium Grid 1 Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=" +
-            "\"68\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 2 Accent 2\"" +
-            "/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"\r\n   Unhide" +
-            "WhenUsed=\"false\" Name=\"Medium Grid 3 Accent 2\"/>\r\n  <w:LsdException Locked=\"fals" +
-            "e\" Priority=\"70\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Dark List A" +
-            "ccent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"\r\n " +
-            "  UnhideWhenUsed=\"false\" Name=\"Colorful Shading Accent 2\"/>\r\n  <w:LsdException L" +
-            "ocked=\"false\" Priority=\"72\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"" +
-            "Colorful List Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" SemiHi" +
-            "dden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Grid Accent 2\"/>\r\n  <w:Ls" +
-            "dException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"f" +
-            "alse\" Name=\"Light Shading Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority" +
-            "=\"61\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light List Accent 3\"/>" +
-            "\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"\r\n   UnhideWh" +
-            "enUsed=\"false\" Name=\"Light Grid Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Pr" +
-            "iority=\"63\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 1" +
-            " Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"false\"\r" +
-            "\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 2 Accent 3\"/>\r\n  <w:LsdException" +
-            " Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name" +
-            "=\"Medium List 1 Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" Semi" +
-            "Hidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 2 Accent 3\"/>\r\n  <w:" +
-            "LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=" +
-            "\"false\" Name=\"Medium Grid 1 Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priori" +
-            "ty=\"68\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 2 Accent" +
-            " 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"\r\n   Unh" +
-            "ideWhenUsed=\"false\" Name=\"Medium Grid 3 Accent 3\"/>\r\n  <w:LsdException Locked=\"f" +
-            "alse\" Priority=\"70\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Dark Lis" +
-            "t Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"" +
-            "\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Shading Accent 3\"/>\r\n  <w:LsdExceptio" +
-            "n Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Nam" +
-            "e=\"Colorful List Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" Sem" +
-            "iHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Grid Accent 3\"/>\r\n  <w" +
-            ":LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"\r\n   UnhideWhenUsed" +
-            "=\"false\" Name=\"Light Shading Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Prior" +
-            "ity=\"61\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light List Accent 4" +
-            "\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"\r\n   Unhid" +
-            "eWhenUsed=\"false\" Name=\"Light Grid Accent 4\"/>\r\n  <w:LsdException Locked=\"false\"" +
-            " Priority=\"63\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shadin" +
-            "g 1 Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"fals" +
-            "e\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 2 Accent 4\"/>\r\n  <w:LsdExcept" +
-            "ion Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" N" +
-            "ame=\"Medium List 1 Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" S" +
-            "emiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 2 Accent 4\"/>\r\n  " +
-            "<w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"\r\n   UnhideWhenUs" +
-            "ed=\"false\" Name=\"Medium Grid 1 Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Pri" +
-            "ority=\"68\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 2 Acc" +
-            "ent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"\r\n   " +
-            "UnhideWhenUsed=\"false\" Name=\"Medium Grid 3 Accent 4\"/>\r\n  <w:LsdException Locked" +
-            "=\"false\" Priority=\"70\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Dark " +
-            "List Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"fal" +
-            "se\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Shading Accent 4\"/>\r\n  <w:LsdExcep" +
-            "tion Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" " +
-            "Name=\"Colorful List Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" " +
-            "SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Grid Accent 4\"/>\r\n " +
-            " <w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"\r\n   UnhideWhenU" +
-            "sed=\"false\" Name=\"Light Shading Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Pr" +
-            "iority=\"61\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light List Accen" +
-            "t 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"\r\n   Un" +
-            "hideWhenUsed=\"false\" Name=\"Light Grid Accent 5\"/>\r\n  <w:LsdException Locked=\"fal" +
-            "se\" Priority=\"63\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Sha" +
-            "ding 1 Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"f" +
-            "alse\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 2 Accent 5\"/>\r\n  <w:LsdExc" +
-            "eption Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false" +
-            "\" Name=\"Medium List 1 Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66" +
-            "\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 2 Accent 5\"/>\r" +
-            "\n  <w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"\r\n   UnhideWhe" +
-            "nUsed=\"false\" Name=\"Medium Grid 1 Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" " +
-            "Priority=\"68\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 2 " +
-            "Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"\r\n" +
-            "   UnhideWhenUsed=\"false\" Name=\"Medium Grid 3 Accent 5\"/>\r\n  <w:LsdException Loc" +
-            "ked=\"false\" Priority=\"70\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Da" +
-            "rk List Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"" +
-            "false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Shading Accent 5\"/>\r\n  <w:LsdEx" +
-            "ception Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"fals" +
-            "e\" Name=\"Colorful List Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"7" +
-            "3\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Grid Accent 5\"/>" +
-            "\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"\r\n   UnhideWh" +
-            "enUsed=\"false\" Name=\"Light Shading Accent 6\"/>\r\n  <w:LsdException Locked=\"false\"" +
-            " Priority=\"61\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light List Ac" +
-            "cent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"\r\n  " +
-            " UnhideWhenUsed=\"false\" Name=\"Light Grid Accent 6\"/>\r\n  <w:LsdException Locked=\"" +
-            "false\" Priority=\"63\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium " +
-            "Shading 1 Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden" +
-            "=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 2 Accent 6\"/>\r\n  <w:Lsd" +
-            "Exception Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"fa" +
-            "lse\" Name=\"Medium List 1 Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=" +
-            "\"66\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 2 Accent 6\"" +
-            "/>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"\r\n   Unhide" +
-            "WhenUsed=\"false\" Name=\"Medium Grid 1 Accent 6\"/>\r\n  <w:LsdException Locked=\"fals" +
-            "e\" Priority=\"68\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid" +
-            " 2 Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false" +
-            "\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 3 Accent 6\"/>\r\n  <w:LsdException " +
-            "Locked=\"false\" Priority=\"70\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=" +
-            "\"Dark List Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" SemiHidde" +
-            "n=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Shading Accent 6\"/>\r\n  <w:Ls" +
-            "dException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"f" +
-            "alse\" Name=\"Colorful List Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority" +
-            "=\"73\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Grid Accent 6" +
-            "\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"19\" SemiHidden=\"false\"\r\n   Unhid" +
-            "eWhenUsed=\"false\" QFormat=\"true\" Name=\"Subtle Emphasis\"/>\r\n  <w:LsdException Loc" +
-            "ked=\"false\" Priority=\"21\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=" +
-            "\"true\" Name=\"Intense Emphasis\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"31\"" +
-            " SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Subtle Refer" +
-            "ence\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"32\" SemiHidden=\"false\"\r\n   U" +
-            "nhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Intense Reference\"/>\r\n  <w:LsdExcepti" +
-            "on Locked=\"false\" Priority=\"33\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QF" +
-            "ormat=\"true\" Name=\"Book Title\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"37\"" +
-            " Name=\"Bibliography\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" QFormat=\"" +
-            "true\" Name=\"TOC Heading\"/>\r\n </w:LatentStyles>\r\n</xml><![endif]-->\r\n<style>\r\n<!-" +
-            "-\r\n /* Font Definitions */\r\n @font-face\r\n\t{font-family:Wingdings;\r\n\tpanose-1:5 0" +
-            " 0 0 0 0 0 0 0 0;\r\n\tmso-font-charset:2;\r\n\tmso-generic-font-family:auto;\r\n\tmso-fo" +
-            "nt-pitch:variable;\r\n\tmso-font-signature:0 268435456 0 0 -2147483648 0;}\r\n@font-f" +
-            "ace\r\n\t{font-family:Wingdings;\r\n\tpanose-1:5 0 0 0 0 0 0 0 0 0;\r\n\tmso-font-charset" +
-            ":2;\r\n\tmso-generic-font-family:auto;\r\n\tmso-font-pitch:variable;\r\n\tmso-font-signat" +
-            "ure:0 268435456 0 0 -2147483648 0;}\r\n@font-face\r\n\t{font-family:Calibri;\r\n\tpanose" +
-            "-1:2 15 5 2 2 2 4 3 2 4;\r\n\tmso-font-charset:0;\r\n\tmso-generic-font-family:swiss;\r" +
-            "\n\tmso-font-pitch:variable;\r\n\tmso-font-signature:-536870145 1073786111 1 0 415 0;" +
-            "}\r\n@font-face\r\n\t{font-family:Tahoma;\r\n\tpanose-1:2 11 6 4 3 5 4 4 2 4;\r\n\tmso-font" +
-            "-charset:0;\r\n\tmso-generic-font-family:swiss;\r\n\tmso-font-pitch:variable;\r\n\tmso-fo" +
-            "nt-signature:-520081665 -1073717157 41 0 66047 0;}\r\n /* Style Definitions */\r\n p" +
-            ".MsoNormal, li.MsoNormal, div.MsoNormal\r\n\t{mso-style-unhide:no;\r\n\tmso-style-qfor" +
-            "mat:yes;\r\n\tmso-style-parent:\"\";\r\n\tmargin-top:0in;\r\n\tmargin-right:0in;\r\n\tmargin-b" +
-            "ottom:10.0pt;\r\n\tmargin-left:0in;\r\n\tline-height:115%;\r\n\tmso-pagination:widow-orph" +
-            "an;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",\"sans-serif\";\r\n\tmso-ascii-font-f" +
-            "amily:Calibri;\r\n\tmso-ascii-theme-font:minor-latin;\r\n\tmso-fareast-font-family:Cal" +
-            "ibri;\r\n\tmso-fareast-theme-font:minor-latin;\r\n\tmso-hansi-font-family:Calibri;\r\n\tm" +
-            "so-hansi-theme-font:minor-latin;\r\n\tmso-bidi-font-family:Arial;\r\n\tmso-bidi-theme-" +
-            "font:minor-bidi;}\r\na:link, span.MsoHyperlink\r\n\t{mso-style-priority:99;\r\n\tcolor:b" +
-            "lue;\r\n\tmso-themecolor:hyperlink;\r\n\ttext-decoration:underline;\r\n\ttext-underline:s" +
-            "ingle;}\r\na:visited, span.MsoHyperlinkFollowed\r\n\t{mso-style-noshow:yes;\r\n\tmso-sty" +
-            "le-priority:99;\r\n\tcolor:purple;\r\n\tmso-themecolor:followedhyperlink;\r\n\ttext-decor" +
-            "ation:underline;\r\n\ttext-underline:single;}\r\np\r\n\t{mso-style-noshow:yes;\r\n\tmso-sty" +
-            "le-priority:99;\r\n\tmso-margin-top-alt:auto;\r\n\tmargin-right:0in;\r\n\tmso-margin-bott" +
-            "om-alt:auto;\r\n\tmargin-left:0in;\r\n\tmso-pagination:widow-orphan;\r\n\tfont-size:12.0p" +
-            "t;\r\n\tfont-family:\"Times New Roman\",\"serif\";\r\n\tmso-fareast-font-family:\"Times New" +
-            " Roman\";}\r\np.MsoAcetate, li.MsoAcetate, div.MsoAcetate\r\n\t{mso-style-noshow:yes;\r" +
-            "\n\tmso-style-priority:99;\r\n\tmso-style-link:\"Balloon Text Char\";\r\n\tmargin:0in;\r\n\tm" +
-            "argin-bottom:.0001pt;\r\n\tmso-pagination:widow-orphan;\r\n\tfont-size:8.0pt;\r\n\tfont-f" +
-            "amily:\"Tahoma\",\"sans-serif\";\r\n\tmso-fareast-font-family:Calibri;\r\n\tmso-fareast-th" +
-            "eme-font:minor-latin;}\r\np.MsoListParagraph, li.MsoListParagraph, div.MsoListPara" +
-            "graph\r\n\t{mso-style-priority:34;\r\n\tmso-style-unhide:no;\r\n\tmso-style-qformat:yes;\r" +
-            "\n\tmargin-top:0in;\r\n\tmargin-right:0in;\r\n\tmargin-bottom:10.0pt;\r\n\tmargin-left:.5in" +
-            ";\r\n\tmso-add-space:auto;\r\n\tline-height:115%;\r\n\tmso-pagination:widow-orphan;\r\n\tfon" +
-            "t-size:11.0pt;\r\n\tfont-family:\"Calibri\",\"sans-serif\";\r\n\tmso-ascii-font-family:Cal" +
-            "ibri;\r\n\tmso-ascii-theme-font:minor-latin;\r\n\tmso-fareast-font-family:Calibri;\r\n\tm" +
-            "so-fareast-theme-font:minor-latin;\r\n\tmso-hansi-font-family:Calibri;\r\n\tmso-hansi-" +
-            "theme-font:minor-latin;\r\n\tmso-bidi-font-family:Arial;\r\n\tmso-bidi-theme-font:mino" +
-            "r-bidi;}\r\np.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoList" +
-            "ParagraphCxSpFirst\r\n\t{mso-style-priority:34;\r\n\tmso-style-unhide:no;\r\n\tmso-style-" +
-            "qformat:yes;\r\n\tmso-style-type:export-only;\r\n\tmargin-top:0in;\r\n\tmargin-right:0in;" +
-            "\r\n\tmargin-bottom:0in;\r\n\tmargin-left:.5in;\r\n\tmargin-bottom:.0001pt;\r\n\tmso-add-spa" +
-            "ce:auto;\r\n\tline-height:115%;\r\n\tmso-pagination:widow-orphan;\r\n\tfont-size:11.0pt;\r" +
-            "\n\tfont-family:\"Calibri\",\"sans-serif\";\r\n\tmso-ascii-font-family:Calibri;\r\n\tmso-asc" +
-            "ii-theme-font:minor-latin;\r\n\tmso-fareast-font-family:Calibri;\r\n\tmso-fareast-them" +
-            "e-font:minor-latin;\r\n\tmso-hansi-font-family:Calibri;\r\n\tmso-hansi-theme-font:mino" +
-            "r-latin;\r\n\tmso-bidi-font-family:Arial;\r\n\tmso-bidi-theme-font:minor-bidi;}\r\np.Mso" +
-            "ListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSp" +
-            "Middle\r\n\t{mso-style-priority:34;\r\n\tmso-style-unhide:no;\r\n\tmso-style-qformat:yes;" +
-            "\r\n\tmso-style-type:export-only;\r\n\tmargin-top:0in;\r\n\tmargin-right:0in;\r\n\tmargin-bo" +
-            "ttom:0in;\r\n\tmargin-left:.5in;\r\n\tmargin-bottom:.0001pt;\r\n\tmso-add-space:auto;\r\n\tl" +
-            "ine-height:115%;\r\n\tmso-pagination:widow-orphan;\r\n\tfont-size:11.0pt;\r\n\tfont-famil" +
-            "y:\"Calibri\",\"sans-serif\";\r\n\tmso-ascii-font-family:Calibri;\r\n\tmso-ascii-theme-fon" +
-            "t:minor-latin;\r\n\tmso-fareast-font-family:Calibri;\r\n\tmso-fareast-theme-font:minor" +
-            "-latin;\r\n\tmso-hansi-font-family:Calibri;\r\n\tmso-hansi-theme-font:minor-latin;\r\n\tm" +
-            "so-bidi-font-family:Arial;\r\n\tmso-bidi-theme-font:minor-bidi;}\r\np.MsoListParagrap" +
-            "hCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast\r\n\t{mso-styl" +
-            "e-priority:34;\r\n\tmso-style-unhide:no;\r\n\tmso-style-qformat:yes;\r\n\tmso-style-type:" +
-            "export-only;\r\n\tmargin-top:0in;\r\n\tmargin-right:0in;\r\n\tmargin-bottom:10.0pt;\r\n\tmar" +
-            "gin-left:.5in;\r\n\tmso-add-space:auto;\r\n\tline-height:115%;\r\n\tmso-pagination:widow-" +
-            "orphan;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",\"sans-serif\";\r\n\tmso-ascii-fo" +
-            "nt-family:Calibri;\r\n\tmso-ascii-theme-font:minor-latin;\r\n\tmso-fareast-font-family" +
-            ":Calibri;\r\n\tmso-fareast-theme-font:minor-latin;\r\n\tmso-hansi-font-family:Calibri;" +
-            "\r\n\tmso-hansi-theme-font:minor-latin;\r\n\tmso-bidi-font-family:Arial;\r\n\tmso-bidi-th" +
-            "eme-font:minor-bidi;}\r\nspan.BalloonTextChar\r\n\t{mso-style-name:\"Balloon Text Char" +
-            "\";\r\n\tmso-style-noshow:yes;\r\n\tmso-style-priority:99;\r\n\tmso-style-unhide:no;\r\n\tmso" +
-            "-style-locked:yes;\r\n\tmso-style-link:\"Balloon Text\";\r\n\tmso-ansi-font-size:8.0pt;\r" +
-            "\n\tmso-bidi-font-size:8.0pt;\r\n\tfont-family:\"Tahoma\",\"sans-serif\";\r\n\tmso-ascii-fon" +
-            "t-family:Tahoma;\r\n\tmso-hansi-font-family:Tahoma;\r\n\tmso-bidi-font-family:Tahoma;}" +
-            "\r\nspan.SpellE\r\n\t{mso-style-name:\"\";\r\n\tmso-spl-e:yes;}\r\n.MsoChpDefault\r\n\t{mso-sty" +
-            "le-type:export-only;\r\n\tmso-default-props:yes;\r\n\tfont-family:\"Calibri\",\"sans-seri" +
-            "f\";\r\n\tmso-ascii-font-family:Calibri;\r\n\tmso-ascii-theme-font:minor-latin;\r\n\tmso-f" +
-            "areast-font-family:Calibri;\r\n\tmso-fareast-theme-font:minor-latin;\r\n\tmso-hansi-fo" +
-            "nt-family:Calibri;\r\n\tmso-hansi-theme-font:minor-latin;\r\n\tmso-bidi-font-family:Ar" +
-            "ial;\r\n\tmso-bidi-theme-font:minor-bidi;}\r\n.MsoPapDefault\r\n\t{mso-style-type:export" +
-            "-only;\r\n\tmargin-bottom:10.0pt;\r\n\tline-height:115%;}\r\n@page WordSection1\r\n\t{size:" +
-            "8.5in 11.0in;\r\n\tmargin:.5in .5in .5in .5in;\r\n\tmso-header-margin:.5in;\r\n\tmso-foot" +
-            "er-margin:.5in;\r\n\tmso-paper-source:0;}\r\ndiv.WordSection1\r\n\t{page:WordSection1;}\r" +
-            "\n /* List Definitions */\r\n @list l0\r\n\t{mso-list-id:39793431;\r\n\tmso-list-template" +
-            "-ids:1613264498;}\r\n@list l1\r\n\t{mso-list-id:1038354090;\r\n\tmso-list-type:hybrid;\r\n" +
-            "\tmso-list-template-ids:-1292199276 67698689 67698691 67698693 67698689 67698691 " +
-            "67698693 67698689 67698691 67698693;}\r\n@list l1:level1\r\n\t{mso-level-number-forma" +
-            "t:bullet;\r\n\tmso-level-text:\\F0B7;\r\n\tmso-level-tab-stop:none;\r\n\tmso-level-number-" +
-            "position:left;\r\n\ttext-indent:-.25in;\r\n\tfont-family:Symbol;}\r\n@list l1:level2\r\n\t{" +
-            "mso-level-number-format:bullet;\r\n\tmso-level-text:o;\r\n\tmso-level-tab-stop:none;\r\n" +
-            "\tmso-level-number-position:left;\r\n\ttext-indent:-.25in;\r\n\tfont-family:\"Courier Ne" +
-            "w\";}\r\n@list l1:level3\r\n\t{mso-level-number-format:bullet;\r\n\tmso-level-text:\\F0A7;" +
-            "\r\n\tmso-level-tab-stop:none;\r\n\tmso-level-number-position:left;\r\n\ttext-indent:-.25" +
-            "in;\r\n\tfont-family:Wingdings;}\r\n@list l1:level4\r\n\t{mso-level-number-format:bullet" +
-            ";\r\n\tmso-level-text:\\F0B7;\r\n\tmso-level-tab-stop:none;\r\n\tmso-level-number-position" +
-            ":left;\r\n\ttext-indent:-.25in;\r\n\tfont-family:Symbol;}\r\n@list l1:level5\r\n\t{mso-leve" +
-            "l-number-format:bullet;\r\n\tmso-level-text:o;\r\n\tmso-level-tab-stop:none;\r\n\tmso-lev" +
-            "el-number-position:left;\r\n\ttext-indent:-.25in;\r\n\tfont-family:\"Courier New\";}\r\n@l" +
-            "ist l1:level6\r\n\t{mso-level-number-format:bullet;\r\n\tmso-level-text:\\F0A7;\r\n\tmso-l" +
-            "evel-tab-stop:none;\r\n\tmso-level-number-position:left;\r\n\ttext-indent:-.25in;\r\n\tfo" +
-            "nt-family:Wingdings;}\r\n@list l1:level7\r\n\t{mso-level-number-format:bullet;\r\n\tmso-" +
-            "level-text:\\F0B7;\r\n\tmso-level-tab-stop:none;\r\n\tmso-level-number-position:left;\r\n" +
-            "\ttext-indent:-.25in;\r\n\tfont-family:Symbol;}\r\n@list l1:level8\r\n\t{mso-level-number" +
-            "-format:bullet;\r\n\tmso-level-text:o;\r\n\tmso-level-tab-stop:none;\r\n\tmso-level-numbe" +
-            "r-position:left;\r\n\ttext-indent:-.25in;\r\n\tfont-family:\"Courier New\";}\r\n@list l1:l" +
-            "evel9\r\n\t{mso-level-number-format:bullet;\r\n\tmso-level-text:\\F0A7;\r\n\tmso-level-tab" +
-            "-stop:none;\r\n\tmso-level-number-position:left;\r\n\ttext-indent:-.25in;\r\n\tfont-famil" +
-            "y:Wingdings;}\r\n@list l2\r\n\t{mso-list-id:1398161780;\r\n\tmso-list-type:hybrid;\r\n\tmso" +
-            "-list-template-ids:262434926 67698703 67698713 67698715 67698703 67698713 676987" +
-            "15 67698703 67698713 67698715;}\r\n@list l2:level1\r\n\t{mso-level-tab-stop:none;\r\n\tm" +
-            "so-level-number-position:left;\r\n\ttext-indent:-.25in;}\r\nol\r\n\t{margin-bottom:0in;}" +
-            "\r\nul\r\n\t{margin-bottom:0in;}\r\n-->\r\n</style>\r\n<!--[if gte mso 10]>\r\n<style>\r\n /* S" +
-            "tyle Definitions */\r\n table.MsoNormalTable\r\n\t{mso-style-name:\"Table Normal\";\r\n\tm" +
-            "so-tstyle-rowband-size:0;\r\n\tmso-tstyle-colband-size:0;\r\n\tmso-style-noshow:yes;\r\n" +
-            "\tmso-style-priority:99;\r\n\tmso-style-parent:\"\";\r\n\tmso-padding-alt:0in 5.4pt 0in 5" +
-            ".4pt;\r\n\tmso-para-margin-top:0in;\r\n\tmso-para-margin-right:0in;\r\n\tmso-para-margin-" +
-            "bottom:10.0pt;\r\n\tmso-para-margin-left:0in;\r\n\tline-height:115%;\r\n\tmso-pagination:" +
-            "widow-orphan;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",\"sans-serif\";\r\n\tmso-as" +
-            "cii-font-family:Calibri;\r\n\tmso-ascii-theme-font:minor-latin;\r\n\tmso-hansi-font-fa" +
-            "mily:Calibri;\r\n\tmso-hansi-theme-font:minor-latin;}\r\ntable.MsoTableGrid\r\n\t{mso-st" +
-            "yle-name:\"Table Grid\";\r\n\tmso-tstyle-rowband-size:0;\r\n\tmso-tstyle-colband-size:0;" +
-            "\r\n\tmso-style-priority:59;\r\n\tmso-style-unhide:no;\r\n\tborder:solid windowtext 1.0pt" +
-            ";\r\n\tmso-border-alt:solid windowtext .5pt;\r\n\tmso-padding-alt:0in 5.4pt 0in 5.4pt;" +
-            "\r\n\tmso-border-insideh:.5pt solid windowtext;\r\n\tmso-border-insidev:.5pt solid win" +
-            "dowtext;\r\n\tmso-para-margin:0in;\r\n\tmso-para-margin-bottom:.0001pt;\r\n\tmso-paginati" +
-            "on:widow-orphan;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",\"sans-serif\";\r\n\tmso" +
-            "-ascii-font-family:Calibri;\r\n\tmso-ascii-theme-font:minor-latin;\r\n\tmso-hansi-font" +
-            "-family:Calibri;\r\n\tmso-hansi-theme-font:minor-latin;}\r\n</style>\r\n<![endif]--><!-" +
-            "-[if gte mso 9]><xml>\r\n <o:shapedefaults v:ext=\"edit\" spidmax=\"1026\"/>\r\n</xml><!" +
-            "[endif]--><!--[if gte mso 9]><xml>\r\n <o:shapelayout v:ext=\"edit\">\r\n  <o:idmap v:" +
-            "ext=\"edit\" data=\"1\"/>\r\n </o:shapelayout></xml><![endif]-->\r\n</head>\r\n\r\n<body lan" +
-            "g=EN-US link=blue vlink=purple style=\'tab-interval:.5in\'>\r\n\r\n<div class=WordSect" +
-            "ion1>\r\n\r\n<p class=MsoNormal style=\'margin-bottom:0in;margin-bottom:.0001pt;text-" +
-            "align:\r\njustify;line-height:normal;mso-layout-grid-align:none;text-autospace:non" +
-            "e\'><b><i><u><span\r\nstyle=\'font-size:17.0pt;font-family:\"Times New Roman\",\"serif\"" +
-            ";mso-ascii-theme-font:\r\nmajor-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-them" +
-            "e-font:major-bidi\'>INSPECT</span></u></i></b><i><span\r\nstyle=\'font-size:17.0pt;f" +
-            "ont-family:\"Times New Roman\",\"serif\";mso-ascii-theme-font:\r\nmajor-bidi;mso-hansi" +
-            "-theme-font:major-bidi;mso-bidi-theme-font:major-bidi\'>: <span\r\nclass=SpellE><b>" +
-            "<u>IN</u></b>elastic</span> <b><u>S</u></b>eismic <b><u>P</u></b>erformance\r\n<b>" +
-            "<u>E</u></b>valuation <b><u>C</u></b>omputational <b><u>T</u></b>ool<o:p></o:p><" +
-            "/span></i></p>\r\n\r\n<p class=MsoNormal style=\'margin-bottom:0in;margin-bottom:.000" +
-            "1pt;text-align:\r\njustify;line-height:normal;mso-layout-grid-align:none;text-auto" +
-            "space:none\'><span\r\nstyle=\'font-size:12.0pt;font-family:\"Times New Roman\",\"serif\"" +
-            ";mso-ascii-theme-font:\r\nmajor-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-them" +
-            "e-font:major-bidi\'><o:p>&nbsp;</o:p></span></p>\r\n\r\n<p class=MsoNormal style=\'mar" +
-            "gin-bottom:0in;margin-bottom:.0001pt;line-height:\r\nnormal\'><span style=\'font-siz" +
-            "e:12.0pt;font-family:\"Times New Roman\",\"serif\";\r\nmso-ascii-theme-font:major-bidi" +
-            ";mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:\r\nmajor-bidi\'>Copyright © 2" +
-            "016, Dr. Mohammad AlHamaydeh et al. <o:p></o:p></span></p>\r\n\r\n<p class=MsoNormal" +
-            " style=\'margin-bottom:0in;margin-bottom:.0001pt;line-height:\r\nnormal\'><span styl" +
-            "e=\'font-size:12.0pt;font-family:\"Times New Roman\",\"serif\";\r\nmso-ascii-theme-font" +
-            ":major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:\r\nmajor-bidi\'>Al" +
-            "l rights reserved.<o:p></o:p></span></p>\r\n\r\n<p class=MsoNormal style=\'margin-top" +
-            ":10.0pt;margin-right:0in;margin-bottom:\r\n0in;margin-left:0in;margin-bottom:.0001" +
-            "pt;text-align:justify\'><span\r\nstyle=\'font-size:12.0pt;line-height:115%;font-fami" +
-            "ly:\"Times New Roman\",\"serif\";\r\nmso-ascii-theme-font:major-bidi;mso-hansi-theme-f" +
-            "ont:major-bidi;mso-bidi-theme-font:\r\nmajor-bidi\'>The INSPECT program is designed" +
-            " to simplify the structural modeling\r\nprocess utilizing the IDARC-2D program. Th" +
-            "e creation of the input text file for\r\nIDARC-2D is facilitated by the graphical-" +
-            "user interface in INSPECT. Several\r\nfeatures provided by INSPECT simplify and au" +
-            "tomate the creation and pre-processing\r\nof input to the IDARC-2D program, which " +
-            "would otherwise have to be performed\r\nmanually by the user. INSPECT would be fou" +
-            "nd useful and appealing to\r\nstructural/earthquake engineering students, research" +
-            "ers and practitioners\r\nalike. The freely distributed executable version of the I" +
-            "DRAC-2D program [which\r\nis made free and publically available at this webpage: [" +
-            "</span><a\r\nhref=\"http://civil.eng.buffalo.edu/idarc2d50/\"><span style=\'font-size" +
-            ":12.0pt;\r\nline-height:115%;font-family:\"Times New Roman\",\"serif\";mso-ascii-theme" +
-            "-font:\r\nmajor-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bid" +
-            "i\'>http://civil.eng.buffalo.edu/idarc2d50/</span></a><span\r\nstyle=\'font-size:12." +
-            "0pt;line-height:115%;font-family:\"Times New Roman\",\"serif\";\r\nmso-ascii-theme-fon" +
-            "t:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:\r\nmajor-bidi\'>]" +
-            ", is included within the INSPECT package. The redistribution of the\r\nIDRAC-2D ex" +
-            "ecutable is done with the explicit written permission from the IDARC-2D\r\ncopyrig" +
-            "ht holders, represented by Prof. Andrei M. Reinhorn of the University at\r\nBuffal" +
-            "o-SUNY. <o:p></o:p></span></p>\r\n\r\n<p class=MsoNormal style=\'mso-margin-top-alt:a" +
-            "uto;mso-margin-bottom-alt:auto;\r\nline-height:normal\'><span style=\'font-size:12.0" +
-            "pt;font-family:\"Times New Roman\",\"serif\";\r\nmso-fareast-font-family:\"Times New Ro" +
-            "man\"\'>Redistribution and use in source and\r\nbinary forms, with or without modifi" +
-            "cation, are permitted provided that the\r\nfollowing conditions are met:<o:p></o:p" +
-            "></span></p>\r\n\r\n<ol start=1 type=1>\r\n <li class=MsoNormal style=\'mso-margin-top-" +
-            "alt:auto;mso-margin-bottom-alt:auto;\r\n     line-height:normal;mso-list:l0 level1" +
-            " lfo3;tab-stops:list .5in\'><span\r\n     style=\'font-size:12.0pt;font-family:\"Time" +
-            "s New Roman\",\"serif\";mso-fareast-font-family:\r\n     \"Times New Roman\"\'>Redistrib" +
-            "utions of source code must retain the above\r\n     copyright notice, this list of" +
-            " conditions and the following disclaimers. Redistributions\r\n     in binary form " +
-            "must reproduce the above copyright notice, this list of\r\n     conditions and the" +
-            " following disclaimers in the documentation and/or other\r\n     materials provide" +
-            "d with the distribution.<o:p></o:p></span></li>\r\n</ol>\r\n\r\n<p class=MsoListParagr" +
-            "aphCxSpFirst style=\'mso-margin-top-alt:auto;mso-margin-bottom-alt:\r\nauto;mso-add" +
-            "-space:auto;text-indent:-.25in;line-height:normal;mso-list:l0 level1 lfo3;\r\ntab-" +
-            "stops:list .5in\'><![if !supportLists]><span style=\'font-size:12.0pt;\r\nfont-famil" +
-            "y:\"Times New Roman\",\"serif\";mso-fareast-font-family:\"Times New Roman\"\'><span\r\nst" +
-            "yle=\'mso-list:Ignore\'>2.<span style=\'font:7.0pt \"Times New Roman\"\'>&nbsp;&nbsp;&" +
-            "nbsp;&nbsp;&nbsp;\r\n</span></span></span><![endif]><span dir=LTR></span><span sty" +
-            "le=\'font-size:\r\n12.0pt;font-family:\"Times New Roman\",\"serif\";mso-fareast-font-fa" +
-            "mily:\"Times New Roman\"\'>All\r\npublications resulting from the use of the INSPECT " +
-            "software in any of its forms\r\nmust make reference to the INSPECT package and its" +
-            " developers. Proper reference\r\nfor the INSPECT software package and its develope" +
-            "rs is: <o:p></o:p></span></p>\r\n\r\n<p class=MsoListParagraphCxSpMiddle style=\'mso-" +
-            "margin-top-alt:auto;mso-margin-bottom-alt:\r\nauto;mso-add-space:auto;line-height:" +
-            "normal\'><span style=\'font-size:12.0pt;\r\nfont-family:\"Times New Roman\",\"serif\";ms" +
-            "o-fareast-font-family:\"Times New Roman\"\'>AlHamaydeh,\r\nM., Najib, M., Alawnah, S." +
-            " (2016). “INSPECT: A Graphical User Interface Software\r\nPackage for IDARC-2D.” <" +
-            "i>SoftwareX Journal</i>, Vol. XX, Issue YY. doi:10.1016/Z.softx.2016.ZZ.ZZZ.<o:p" +
-            "></o:p></span></p>\r\n\r\n<p class=MsoListParagraphCxSpLast style=\'mso-margin-top-al" +
-            "t:auto;mso-margin-bottom-alt:\r\nauto;mso-add-space:auto;text-indent:-.25in;line-h" +
-            "eight:normal;mso-list:l0 level1 lfo3;\r\ntab-stops:list .5in\'><![if !supportLists]" +
-            "><span style=\'font-size:12.0pt;\r\nfont-family:\"Times New Roman\",\"serif\";mso-farea" +
-            "st-font-family:\"Times New Roman\"\'><span\r\nstyle=\'mso-list:Ignore\'>3.<span style=\'" +
-            "font:7.0pt \"Times New Roman\"\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span></sp" +
-            "an><![endif]><span dir=LTR></span><span style=\'font-size:\r\n12.0pt;font-family:\"T" +
-            "imes New Roman\",\"serif\";mso-fareast-font-family:\"Times New Roman\"\'>Neither\r\nthe " +
-            "name of the copyright holder nor the names of its contributors may be used\r\nto e" +
-            "ndorse or promote products derived from this software without specific\r\nprior wr" +
-            "itten permission.&nbsp;<o:p></o:p></span></p>\r\n\r\n<p class=MsoNormal style=\'mso-m" +
-            "argin-top-alt:auto;mso-margin-bottom-alt:auto;\r\ntext-align:justify;line-height:n" +
-            "ormal\'><span style=\'font-size:12.0pt;\r\nfont-family:\"Times New Roman\",\"serif\";mso" +
-            "-fareast-font-family:\"Times New Roman\"\'>THIS\r\nSOFTWARE IS PROVIDED BY THE COPYRI" +
-            "GHT HOLDERS AND CONTRIBUTORS &quot;AS\r\nIS&quot; AND ANY EXPRESS OR IMPLIED WARRA" +
-            "NTIES, INCLUDING, BUT NOT LIMITED TO,\r\nTHE IMPLIED WARRANTIES OF MERCHANTABILITY" +
-            " AND FITNESS FOR A PARTICULAR PURPOSE\r\nARE DISCLAIMED. IN NO EVENT SHALL THE COP" +
-            "YRIGHT HOLDER OR CONTRIBUTORS BE\r\nLIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, S" +
-            "PECIAL, EXEMPLARY, OR\r\nCONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PRO" +
-            "CUREMENT OF SUBSTITUTE\r\nGOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUS" +
-            "INESS INTERRUPTION)\r\nHOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN C" +
-            "ONTRACT, STRICT\r\nLIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING " +
-            "IN ANY WAY OUT\r\nOF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY " +
-            "OF SUCH DAMAGE.<o:p></o:p></span></p>\r\n\r\n<p class=MsoNormal style=\'margin-bottom" +
-            ":0in;margin-bottom:.0001pt;text-align:\r\njustify;line-height:normal;mso-layout-gr" +
-            "id-align:none;text-autospace:none\'><span\r\nstyle=\'font-size:12.0pt;font-family:\"T" +
-            "imes New Roman\",\"serif\";mso-ascii-theme-font:\r\nmajor-bidi;mso-hansi-theme-font:m" +
-            "ajor-bidi;mso-bidi-theme-font:major-bidi\'><o:p>&nbsp;</o:p></span></p>\r\n\r\n<p cla" +
-            "ss=MsoNormal align=center style=\'text-align:center;mso-layout-grid-align:\r\nnone;" +
-            "text-autospace:none\'><b><u><span style=\'font-size:12.0pt;line-height:115%;\r\nfont" +
-            "-family:\"Times New Roman\",\"serif\";mso-ascii-theme-font:major-bidi;\r\nmso-hansi-th" +
-            "eme-font:major-bidi;mso-bidi-theme-font:major-bidi\'>SUPPLEMENTAL DISCLAIMER<o:p>" +
-            "</o:p></span></u></b></p>\r\n\r\n<p class=MsoNormal style=\'margin-bottom:0in;margin-" +
-            "bottom:.0001pt;text-align:\r\njustify;line-height:normal;mso-layout-grid-align:non" +
-            "e;text-autospace:none\'><span\r\nstyle=\'font-size:12.0pt;font-family:\"Times New Rom" +
-            "an\",\"serif\";mso-ascii-theme-font:\r\nmajor-bidi;mso-hansi-theme-font:major-bidi;ms" +
-            "o-bidi-theme-font:major-bidi\'>The\r\ncomputational tool [program] <b><i>“<u>INSPEC" +
-            "T</u>”</i></b>, herein referred to\r\nas the program. The ownership of the program" +
-            " remains with the developers. Whether\r\nsubroutines of the program or the whole p" +
-            "rogram is incorporated into the\r\nexecutable binary code or the source code of an" +
-            "y other program(s), any\r\nprogram(s) utilizing or containing INSPECT or any of it" +
-            "s subroutines shall\r\nexplicitly acknowledge acceptance of the subsequent DISCLAI" +
-            "MER OF WARRANTY.\r\nFurthermore, such incorporation of the INSPECT program does no" +
-            "t create any\r\nbusiness relationship between the developers of INSPECT, nor their" +
-            "\r\ninstitutions, and the developed or derived program’s user(s). The names of\r\nIN" +
-            "SPECT program, its authors and their institutions, shall not be used in the\r\npro" +
-            "motion of any such developed or derived products without prior explicit\r\nwritten" +
-            " permission from the authors of INSPECT. <o:p></o:p></span></p>\r\n\r\n<p class=MsoN" +
-            "ormal style=\'margin-bottom:0in;margin-bottom:.0001pt;text-align:\r\njustify;line-h" +
-            "eight:normal;mso-layout-grid-align:none;text-autospace:none\'><span\r\nstyle=\'font-" +
-            "size:12.0pt;font-family:\"Times New Roman\",\"serif\";mso-ascii-theme-font:\r\nmajor-b" +
-            "idi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi\'><o:p>&nbsp;<" +
-            "/o:p></span></p>\r\n\r\n<p class=MsoNormal style=\'margin-bottom:0in;margin-bottom:.0" +
-            "001pt;text-align:\r\njustify;line-height:normal;mso-layout-grid-align:none;text-au" +
-            "tospace:none\'><span\r\nstyle=\'font-size:12.0pt;font-family:\"Times New Roman\",\"seri" +
-            "f\";mso-ascii-theme-font:\r\nmajor-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-th" +
-            "eme-font:major-bidi\'>The\r\ncreators of the INSPECT program spared no effort in ve" +
-            "rifying it; significant\r\ntime and effort have been put towards its development a" +
-            "nd testing. However, the\r\nauthors do not accept any responsibility for inadequat" +
-            "e use of the program or\r\nany analysis results produced by it. The ultimate respo" +
-            "nsibility of verifying\r\nanalysis results rests solely upon the user. The user sh" +
-            "ould have adequate\r\nknowledge of structural dynamics, nonlinear analysis and mod" +
-            "eling, earthquake\r\nengineering as well performance-based seismic design and eval" +
-            "uation techniques.\r\nThe subsequent DISCLAIMER OF WARRANTY applies to the user of" +
-            " the program\r\nINSPECT and all of its associated subroutines.<o:p></o:p></span></" +
-            "p>\r\n\r\n<p class=MsoNormal style=\'margin-bottom:0in;margin-bottom:.0001pt;text-ali" +
-            "gn:\r\njustify;line-height:normal;mso-layout-grid-align:none;text-autospace:none\'>" +
-            "<span\r\nstyle=\'font-size:12.0pt;font-family:\"Times New Roman\",\"serif\";mso-ascii-t" +
-            "heme-font:\r\nmajor-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major" +
-            "-bidi\'><o:p>&nbsp;</o:p></span></p>\r\n\r\n<p class=MsoNormal style=\'margin-bottom:0" +
-            "in;margin-bottom:.0001pt;text-align:\r\njustify;line-height:normal;mso-layout-grid" +
-            "-align:none;text-autospace:none\'><span\r\nstyle=\'font-size:12.0pt;font-family:\"Tim" +
-            "es New Roman\",\"serif\";mso-ascii-theme-font:\r\nmajor-bidi;mso-hansi-theme-font:maj" +
-            "or-bidi;mso-bidi-theme-font:major-bidi\'><o:p>&nbsp;</o:p></span></p>\r\n\r\n<p class" +
-            "=MsoNormal align=center style=\'text-align:center;mso-layout-grid-align:\r\nnone;te" +
-            "xt-autospace:none\'><b><u><span style=\'font-size:12.0pt;line-height:115%;\r\nfont-f" +
-            "amily:\"Times New Roman\",\"serif\";mso-ascii-theme-font:major-bidi;\r\nmso-hansi-them" +
-            "e-font:major-bidi;mso-bidi-theme-font:major-bidi\'>DISCLAIMER OF\r\nWARRANTY<o:p></" +
-            "o:p></span></u></b></p>\r\n\r\n<p class=MsoNormal style=\'text-align:justify\'><span s" +
-            "tyle=\'font-size:12.0pt;\r\nline-height:115%;font-family:\"Times New Roman\",\"serif\";" +
-            "mso-ascii-theme-font:\r\nmajor-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme" +
-            "-font:major-bidi\'>The\r\nINSPECT program, all its data files, and all its associat" +
-            "ed subroutines, are\r\nprovided on an <b><i>“<u>AS-IS</u>”</i></b> basis without a" +
-            "ny warranty. The\r\nauthors and their institutions disclaim any and all liability " +
-            "for direct or\r\nindirect damages resulting from use of the program. The authors a" +
-            "nd their\r\ninstitutions make no warranties, explicitly or implicitly, that the pr" +
-            "ogram is\r\nerror-free or is consistent with any particular set of standards, or t" +
-            "hat the\r\nprogram will meet any particular application requirements. The program " +
-            "should\r\nnot be relied on for solving any engineering problems where an erroneous" +
-            "\r\nsolution may cause potential personal injury or property loss. If the program\r" +
-            "\nis used in such a manner, it should be explicitly understood that it is done at" +
-            "\r\nthe user’s discretion and own risk.<span style=\'color:red\'><o:p></o:p></span><" +
-            "/span></p>\r\n\r\n<p class=MsoNormal><span style=\'font-size:12.0pt;line-height:115%;" +
-            "font-family:\r\n\"Times New Roman\",\"serif\";mso-ascii-theme-font:major-bidi;mso-hans" +
-            "i-theme-font:\r\nmajor-bidi;mso-bidi-theme-font:major-bidi\'><o:p>&nbsp;</o:p></spa" +
-            "n></p>\r\n\r\n<p class=MsoNormal><b><i><u><span style=\'font-size:12.0pt;line-height:" +
-            "115%;\r\nfont-family:\"Times New Roman\",\"serif\";mso-ascii-theme-font:major-bidi;\r\nm" +
-            "so-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi\'>INSPECT</span></u" +
-            "></i></b><span\r\nstyle=\'font-size:12.0pt;line-height:115%;font-family:\"Times New " +
-            "Roman\",\"serif\";\r\nmso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi" +
-            ";mso-bidi-theme-font:\r\nmajor-bidi\'> is developed by:<o:p></o:p></span></p>\r\n\r\n<t" +
-            "able class=MsoTableGrid border=1 cellspacing=0 cellpadding=0\r\n style=\'margin-lef" +
-            "t:-.4pt;border-collapse:collapse;border:none;mso-border-alt:\r\n solid windowtext " +
-            ".5pt;mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt\'>\r\n <tr style=\'ms" +
-            "o-yfti-irow:0;mso-yfti-firstrow:yes;height:46.45pt\'>\r\n  <td width=386 style=\'wid" +
-            "th:289.3pt;border:solid windowtext 1.0pt;mso-border-alt:\r\n  solid windowtext .5p" +
-            "t;padding:0in 5.4pt 0in 5.4pt;height:46.45pt\'>\r\n  <p class=MsoNormal align=cente" +
-            "r style=\'margin-top:0in;margin-right:-5.75pt;\r\n  margin-bottom:0in;margin-left:0" +
-            "in;margin-bottom:.0001pt;text-align:center;\r\n  line-height:normal\'><b><span styl" +
-            "e=\'font-size:12.0pt;font-family:\"Times New Roman\",\"serif\";\r\n  mso-ascii-theme-fo" +
-            "nt:major-bidi;mso-fareast-font-family:\"Times New Roman\";\r\n  mso-fareast-theme-fo" +
-            "nt:minor-fareast;mso-hansi-theme-font:major-bidi;\r\n  mso-bidi-theme-font:major-b" +
-            "idi;color:#545553;mso-no-proof:yes\'>Mohammad\r\n  AlHamaydeh, Ph.D., P.E.<br>\r\n  <" +
-            "/span></b><span style=\'font-size:12.0pt;font-family:\"Times New Roman\",\"serif\";\r\n" +
-            "  mso-ascii-theme-font:major-bidi;mso-fareast-font-family:\"Times New Roman\";\r\n  " +
-            "mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:major-bidi;\r\n  mso-bid" +
-            "i-theme-font:major-bidi;color:#545553;mso-no-proof:yes\'>Associate\r\n  Professor o" +
-            "f Structural/Earthquake Engineering<o:p></o:p></span></p>\r\n  <p class=MsoNormal " +
-            "align=center style=\'margin-top:0in;margin-right:-5.75pt;\r\n  margin-bottom:0in;ma" +
-            "rgin-left:0in;margin-bottom:.0001pt;text-align:center;\r\n  line-height:normal\'><a" +
-            " href=\"mailto:malhamaydeh@aus.edu\"><span\r\n  style=\'font-size:12.0pt;font-family:" +
-            "\"Times New Roman\",\"serif\";mso-ascii-theme-font:\r\n  major-bidi;mso-fareast-font-f" +
-            "amily:\"Times New Roman\";mso-fareast-theme-font:\r\n  minor-fareast;mso-hansi-theme" +
-            "-font:major-bidi;mso-bidi-theme-font:major-bidi;\r\n  mso-no-proof:yes\'>malhamayde" +
-            "h@aus.edu</span></a><span style=\'font-size:12.0pt;\r\n  font-family:\"Times New Rom" +
-            "an\",\"serif\";mso-ascii-theme-font:major-bidi;\r\n  mso-fareast-font-family:\"Times N" +
-            "ew Roman\";mso-fareast-theme-font:minor-fareast;\r\n  mso-hansi-theme-font:major-bi" +
-            "di;mso-bidi-theme-font:major-bidi;color:#1F497D;\r\n  mso-no-proof:yes\'><o:p></o:p" +
-            "></span></p>\r\n  </td>\r\n  <td width=329 rowspan=2 style=\'width:247.1pt;border:sol" +
-            "id windowtext 1.0pt;\r\n  border-left:none;mso-border-left-alt:solid windowtext .5" +
-            "pt;mso-border-alt:\r\n  solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:4" +
+        [global::System.Configuration.DefaultSettingValueAttribute("<html>\r\n\r\n<head>\r\n<meta http-equiv=Content-Type content=\"text/html; charset=windo" +
+            "ws-1252\">\r\n<meta name=Generator content=\"Microsoft Word 14 (filtered)\">\r\n<style>" +
+            "\r\n<!--\r\n /* Font Definitions */\r\n @font-face\r\n\t{font-family:Wingdings;\r\n\tpanose-" +
+            "1:5 0 0 0 0 0 0 0 0 0;}\r\n@font-face\r\n\t{font-family:Wingdings;\r\n\tpanose-1:5 0 0 0" +
+            " 0 0 0 0 0 0;}\r\n@font-face\r\n\t{font-family:Calibri;\r\n\tpanose-1:2 15 5 2 2 2 4 3 2" +
+            " 4;}\r\n@font-face\r\n\t{font-family:Tahoma;\r\n\tpanose-1:2 11 6 4 3 5 4 4 2 4;}\r\n /* S" +
+            "tyle Definitions */\r\n p.MsoNormal, li.MsoNormal, div.MsoNormal\r\n\t{margin-top:0in" +
+            ";\r\n\tmargin-right:0in;\r\n\tmargin-bottom:10.0pt;\r\n\tmargin-left:0in;\r\n\tline-height:1" +
+            "15%;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",\"sans-serif\";}\r\na:link, span.Ms" +
+            "oHyperlink\r\n\t{color:blue;\r\n\ttext-decoration:underline;}\r\na:visited, span.MsoHype" +
+            "rlinkFollowed\r\n\t{color:purple;\r\n\ttext-decoration:underline;}\r\np\r\n\t{margin-right:" +
+            "0in;\r\n\tmargin-left:0in;\r\n\tfont-size:12.0pt;\r\n\tfont-family:\"Times New Roman\",\"ser" +
+            "if\";}\r\np.MsoAcetate, li.MsoAcetate, div.MsoAcetate\r\n\t{mso-style-link:\"Balloon Te" +
+            "xt Char\";\r\n\tmargin:0in;\r\n\tmargin-bottom:.0001pt;\r\n\tfont-size:8.0pt;\r\n\tfont-famil" +
+            "y:\"Tahoma\",\"sans-serif\";}\r\np.MsoListParagraph, li.MsoListParagraph, div.MsoListP" +
+            "aragraph\r\n\t{margin-top:0in;\r\n\tmargin-right:0in;\r\n\tmargin-bottom:10.0pt;\r\n\tmargin" +
+            "-left:.5in;\r\n\tline-height:115%;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",\"san" +
+            "s-serif\";}\r\np.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoLi" +
+            "stParagraphCxSpFirst\r\n\t{margin-top:0in;\r\n\tmargin-right:0in;\r\n\tmargin-bottom:0in;" +
+            "\r\n\tmargin-left:.5in;\r\n\tmargin-bottom:.0001pt;\r\n\tline-height:115%;\r\n\tfont-size:11" +
+            ".0pt;\r\n\tfont-family:\"Calibri\",\"sans-serif\";}\r\np.MsoListParagraphCxSpMiddle, li.M" +
+            "soListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle\r\n\t{margin-top:0in;\r\n\tm" +
+            "argin-right:0in;\r\n\tmargin-bottom:0in;\r\n\tmargin-left:.5in;\r\n\tmargin-bottom:.0001p" +
+            "t;\r\n\tline-height:115%;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",\"sans-serif\";" +
+            "}\r\np.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraph" +
+            "CxSpLast\r\n\t{margin-top:0in;\r\n\tmargin-right:0in;\r\n\tmargin-bottom:10.0pt;\r\n\tmargin" +
+            "-left:.5in;\r\n\tline-height:115%;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",\"san" +
+            "s-serif\";}\r\nspan.BalloonTextChar\r\n\t{mso-style-name:\"Balloon Text Char\";\r\n\tmso-st" +
+            "yle-link:\"Balloon Text\";\r\n\tfont-family:\"Tahoma\",\"sans-serif\";}\r\n.MsoPapDefault\r\n" +
+            "\t{margin-bottom:10.0pt;\r\n\tline-height:115%;}\r\n@page WordSection1\r\n\t{size:8.5in 1" +
+            "1.0in;\r\n\tmargin:.5in .5in .5in .5in;}\r\ndiv.WordSection1\r\n\t{page:WordSection1;}\r\n" +
+            " /* List Definitions */\r\n ol\r\n\t{margin-bottom:0in;}\r\nul\r\n\t{margin-bottom:0in;}\r\n" +
+            "-->\r\n</style>\r\n\r\n</head>\r\n\r\n<body lang=EN-US link=blue vlink=purple>\r\n\r\n<div cla" +
+            "ss=WordSection1>\r\n\r\n<p class=MsoNormal style=\'margin-bottom:0in;margin-bottom:.0" +
+            "001pt;text-align:\r\njustify;line-height:normal;text-autospace:none\'><b><i><u><spa" +
+            "n\r\nstyle=\'font-size:17.0pt;font-family:\"Times New Roman\",\"serif\"\'>INSPECT</span>" +
+            "</u></i></b><i><span\r\nstyle=\'font-size:17.0pt;font-family:\"Times New Roman\",\"ser" +
+            "if\"\'>: <b><u>IN</u></b>elastic\r\n<b><u>S</u></b>eismic <b><u>P</u></b>erformance " +
+            "<b><u>E</u></b>valuation <b><u>C</u></b>omputational\r\n<b><u>T</u></b>ool</span><" +
+            "/i></p>\r\n\r\n<p class=MsoNormal style=\'margin-bottom:0in;margin-bottom:.0001pt;tex" +
+            "t-align:\r\njustify;line-height:normal;text-autospace:none\'><span style=\'font-size" +
+            ":12.0pt;\r\nfont-family:\"Times New Roman\",\"serif\"\'>&nbsp;</span></p>\r\n\r\n<p class=M" +
+            "soNormal style=\'margin-bottom:0in;margin-bottom:.0001pt;line-height:\r\nnormal\'><s" +
+            "pan style=\'font-size:12.0pt;font-family:\"Times New Roman\",\"serif\"\'>Copyright\r\n© " +
+            "2016, Dr. Mohammad AlHamaydeh et al. </span></p>\r\n\r\n<p class=MsoNormal style=\'ma" +
+            "rgin-bottom:0in;margin-bottom:.0001pt;line-height:\r\nnormal\'><span style=\'font-si" +
+            "ze:12.0pt;font-family:\"Times New Roman\",\"serif\"\'>All\r\nrights reserved.</span></p" +
+            ">\r\n\r\n<p class=MsoNormal style=\'margin-top:10.0pt;margin-right:0in;margin-bottom:" +
+            "\r\n0in;margin-left:0in;margin-bottom:.0001pt;text-align:justify\'><span\r\nstyle=\'fo" +
+            "nt-size:12.0pt;line-height:115%;font-family:\"Times New Roman\",\"serif\"\'>The\r\nINSP" +
+            "ECT program is designed to simplify the structural modeling process utilizing\r\nt" +
+            "he IDARC-2D program. The creation of the input text file for IDARC-2D is\r\nfacili" +
+            "tated by the graphical-user interface in INSPECT. Several features\r\nprovided by " +
+            "INSPECT simplify and automate the creation and pre-processing of input\r\nto the I" +
+            "DARC-2D program, which would otherwise have to be performed manually by\r\nthe use" +
+            "r. INSPECT would be found useful and appealing to structural/earthquake\r\nenginee" +
+            "ring students, researchers and practitioners alike. The freely\r\ndistributed exec" +
+            "utable version of the IDRAC-2D program [which is made free and publically\r\navail" +
+            "able at this webpage: [</span><a\r\nhref=\"http://civil.eng.buffalo.edu/idarc2d50/\"" +
+            "><span style=\'font-size:12.0pt;\r\nline-height:115%;font-family:\"Times New Roman\"," +
+            "\"serif\"\'>http://civil.eng.buffalo.edu/idarc2d50/</span></a><span\r\nstyle=\'font-si" +
+            "ze:12.0pt;line-height:115%;font-family:\"Times New Roman\",\"serif\"\'>],\r\nis include" +
+            "d within the INSPECT package. The redistribution of the IDRAC-2D executable\r\nis " +
+            "done with the explicit written permission from the IDARC-2D copyright\r\nholders, " +
+            "represented by Prof. Andrei M. Reinhorn of the University at\r\nBuffalo-SUNY. </sp" +
+            "an></p>\r\n\r\n<p class=MsoNormal style=\'line-height:normal\'><span style=\'font-size:" +
+            "12.0pt;\r\nfont-family:\"Times New Roman\",\"serif\"\'>Redistribution and use in source" +
+            " and\r\nbinary forms, with or without modification, are permitted provided that th" +
+            "e\r\nfollowing conditions are met:</span></p>\r\n\r\n<p class=MsoListParagraphCxSpFirs" +
+            "t style=\'text-indent:-.25in\'><span\r\nstyle=\'font-size:12.0pt;line-height:115%;fon" +
+            "t-family:\"Times New Roman\",\"serif\"\'>1.<span\r\nstyle=\'font:7.0pt \"Times New Roman\"" +
+            "\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span\r\ndir=LTR></span><span style" +
+            "=\'font-size:12.0pt;line-height:115%;font-family:\"Times New Roman\",\"serif\"\'>Redis" +
+            "tributions\r\nof source code must retain the above copyright notice, this list of " +
+            "conditions\r\nand the following disclaimers. Redistributions in binary form must r" +
+            "eproduce\r\nthe above copyright notice, this list of conditions and the following\r" +
+            "\ndisclaimers in the documentation and/or other materials provided with the\r\ndist" +
+            "ribution.</span></p>\r\n\r\n<p class=MsoListParagraphCxSpMiddle style=\'text-indent:-" +
+            ".25in\'><span\r\nstyle=\'font-size:12.0pt;line-height:115%;font-family:\"Times New Ro" +
+            "man\",\"serif\"\'>2.<span\r\nstyle=\'font:7.0pt \"Times New Roman\"\'>&nbsp;&nbsp;&nbsp;&n" +
+            "bsp;&nbsp; </span></span><span\r\ndir=LTR></span><span style=\'font-size:12.0pt;lin" +
+            "e-height:115%;font-family:\"Times New Roman\",\"serif\"\'>All\r\npublications resulting" +
+            " from the use of the INSPECT software in any of its forms\r\nmust make reference t" +
+            "o the INSPECT package and its developers. Proper reference\r\nfor the INSPECT soft" +
+            "ware package and its developers is: <br>\r\nAlHamaydeh, M., Najib, M., Alawnah, S." +
+            " (2016). “INSPECT: A Graphical User\r\nInterface Software Package for IDARC-2D.” S" +
+            "oftwareX, DOI:\r\n10.1016/j.softx.2016.10.004</span></p>\r\n\r\n<p class=MsoListParagr" +
+            "aphCxSpLast style=\'text-indent:-.25in\'><span\r\nstyle=\'font-size:12.0pt;line-heigh" +
+            "t:115%;font-family:\"Times New Roman\",\"serif\"\'>3.<span\r\nstyle=\'font:7.0pt \"Times " +
+            "New Roman\"\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span\r\ndir=LTR></span><" +
+            "span style=\'font-size:12.0pt;line-height:115%;font-family:\"Times New Roman\",\"ser" +
+            "if\"\'>Neither\r\nthe name of the copyright holder nor the names of its contributors" +
+            " may be used\r\nto endorse or promote products derived from this software without " +
+            "specific\r\nprior written permission.&nbsp;</span></p>\r\n\r\n<p class=MsoNormal style" +
+            "=\'text-align:justify;line-height:normal\'><span\r\nstyle=\'font-size:12.0pt;font-fam" +
+            "ily:\"Times New Roman\",\"serif\"\'>THIS SOFTWARE IS\r\nPROVIDED BY THE COPYRIGHT HOLDE" +
+            "RS AND CONTRIBUTORS &quot;AS IS&quot; AND ANY\r\nEXPRESS OR IMPLIED WARRANTIES, IN" +
+            "CLUDING, BUT NOT LIMITED TO, THE IMPLIED\r\nWARRANTIES OF MERCHANTABILITY AND FITN" +
+            "ESS FOR A PARTICULAR PURPOSE ARE\r\nDISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HO" +
+            "LDER OR CONTRIBUTORS BE LIABLE\r\nFOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, E" +
+            "XEMPLARY, OR CONSEQUENTIAL\r\nDAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT " +
+            "OF SUBSTITUTE GOODS OR\r\nSERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INT" +
+            "ERRUPTION) HOWEVER\r\nCAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, " +
+            "STRICT LIABILITY,\r\nOR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WA" +
+            "Y OUT OF THE USE\r\nOF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH D" +
+            "AMAGE.</span></p>\r\n\r\n<p class=MsoNormal style=\'margin-bottom:0in;margin-bottom:." +
+            "0001pt;text-align:\r\njustify;line-height:normal;text-autospace:none\'><span style=" +
+            "\'font-size:12.0pt;\r\nfont-family:\"Times New Roman\",\"serif\"\'>&nbsp;</span></p>\r\n\r\n" +
+            "<p class=MsoNormal align=center style=\'text-align:center;text-autospace:none\'><b" +
+            "><u><span\r\nstyle=\'font-size:12.0pt;line-height:115%;font-family:\"Times New Roman" +
+            "\",\"serif\"\'>SUPPLEMENTAL\r\nDISCLAIMER</span></u></b></p>\r\n\r\n<p class=MsoNormal sty" +
+            "le=\'margin-bottom:0in;margin-bottom:.0001pt;text-align:\r\njustify;line-height:nor" +
+            "mal;text-autospace:none\'><span style=\'font-size:12.0pt;\r\nfont-family:\"Times New " +
+            "Roman\",\"serif\"\'>The computational tool [program] <b><i>“<u>INSPECT</u>”</i></b>," +
+            "\r\nherein referred to as the program. The ownership of the program remains with\r\n" +
+            "the developers. Whether subroutines of the program or the whole program is\r\ninco" +
+            "rporated into the executable binary code or the source code of any other\r\nprogra" +
+            "m(s), any program(s) utilizing or containing INSPECT or any of its\r\nsubroutines " +
+            "shall explicitly acknowledge acceptance of the subsequent\r\nDISCLAIMER OF WARRANT" +
+            "Y. Furthermore, such incorporation of the INSPECT program\r\ndoes not create any b" +
+            "usiness relationship between the developers of INSPECT,\r\nnor their institutions," +
+            " and the developed or derived program’s user(s). The\r\nnames of INSPECT program, " +
+            "its authors and their institutions, shall not be used\r\nin the promotion of any s" +
+            "uch developed or derived products without prior\r\nexplicit written permission fro" +
+            "m the authors of INSPECT. </span></p>\r\n\r\n<p class=MsoNormal style=\'margin-bottom" +
+            ":0in;margin-bottom:.0001pt;text-align:\r\njustify;line-height:normal;text-autospac" +
+            "e:none\'><span style=\'font-size:12.0pt;\r\nfont-family:\"Times New Roman\",\"serif\"\'>&" +
+            "nbsp;</span></p>\r\n\r\n<p class=MsoNormal style=\'margin-bottom:0in;margin-bottom:.0" +
+            "001pt;text-align:\r\njustify;line-height:normal;text-autospace:none\'><span style=\'" +
+            "font-size:12.0pt;\r\nfont-family:\"Times New Roman\",\"serif\"\'>The creators of the IN" +
+            "SPECT program\r\nspared no effort in verifying it; significant time and effort hav" +
+            "e been put\r\ntowards its development and testing. However, the authors do not acc" +
+            "ept any\r\nresponsibility for inadequate use of the program or any analysis result" +
+            "s\r\nproduced by it. The ultimate responsibility of verifying analysis results res" +
+            "ts\r\nsolely upon the user. The user should have adequate knowledge of structural\r" +
+            "\ndynamics, nonlinear analysis and modeling, earthquake engineering as well perfo" +
+            "rmance-based\r\nseismic design and evaluation techniques. The subsequent DISCLAIME" +
+            "R OF WARRANTY\r\napplies to the user of the program INSPECT and all of its associa" +
+            "ted\r\nsubroutines.</span></p>\r\n\r\n<p class=MsoNormal style=\'margin-bottom:0in;marg" +
+            "in-bottom:.0001pt;text-align:\r\njustify;line-height:normal;text-autospace:none\'><" +
+            "span style=\'font-size:12.0pt;\r\nfont-family:\"Times New Roman\",\"serif\"\'>&nbsp;</sp" +
+            "an></p>\r\n\r\n<p class=MsoNormal style=\'margin-bottom:0in;margin-bottom:.0001pt;tex" +
+            "t-align:\r\njustify;line-height:normal;text-autospace:none\'><span style=\'font-size" +
+            ":12.0pt;\r\nfont-family:\"Times New Roman\",\"serif\"\'>&nbsp;</span></p>\r\n\r\n<p class=M" +
+            "soNormal align=center style=\'text-align:center;text-autospace:none\'><b><u><span\r" +
+            "\nstyle=\'font-size:12.0pt;line-height:115%;font-family:\"Times New Roman\",\"serif\"\'" +
+            ">DISCLAIMER\r\nOF WARRANTY</span></u></b></p>\r\n\r\n<p class=MsoNormal style=\'text-al" +
+            "ign:justify\'><span style=\'font-size:12.0pt;\r\nline-height:115%;font-family:\"Times" +
+            " New Roman\",\"serif\"\'>The INSPECT program,\r\nall its data files, and all its assoc" +
+            "iated subroutines, are provided on an <b><i>“<u>AS-IS</u>”</i></b>\r\nbasis withou" +
+            "t any warranty. The authors and their institutions disclaim any and\r\nall liabili" +
+            "ty for direct or indirect damages resulting from use of the program.\r\nThe author" +
+            "s and their institutions make no warranties, explicitly or\r\nimplicitly, that the" +
+            " program is error-free or is consistent with any particular\r\nset of standards, o" +
+            "r that the program will meet any particular application\r\nrequirements. The progr" +
+            "am should not be relied on for solving any engineering problems\r\nwhere an errone" +
+            "ous solution may cause potential personal injury or property\r\nloss. If the progr" +
+            "am is used in such a manner, it should be explicitly\r\nunderstood that it is done" +
+            " at the user’s discretion and own risk.</span></p>\r\n\r\n<p class=MsoNormal><span s" +
+            "tyle=\'font-size:12.0pt;line-height:115%;font-family:\r\n\"Times New Roman\",\"serif\"\'" +
+            ">&nbsp;</span></p>\r\n\r\n<p class=MsoNormal><b><i><u><span style=\'font-size:12.0pt;" +
+            "line-height:115%;\r\nfont-family:\"Times New Roman\",\"serif\"\'>INSPECT</span></u></i>" +
+            "</b><span\r\nstyle=\'font-size:12.0pt;line-height:115%;font-family:\"Times New Roman" +
+            "\",\"serif\"\'>\r\nis developed by:</span></p>\r\n\r\n<table class=MsoTableGrid border=1 c" +
+            "ellspacing=0 cellpadding=0\r\n style=\'margin-left:-.4pt;border-collapse:collapse;b" +
+            "order:none\'>\r\n <tr style=\'height:46.45pt\'>\r\n  <td width=386 style=\'width:289.3pt" +
+            ";border:solid windowtext 1.0pt;padding:\r\n  0in 5.4pt 0in 5.4pt;height:46.45pt\'>\r" +
+            "\n  <p class=MsoNormal align=center style=\'margin-top:0in;margin-right:-5.75pt;\r\n" +
+            "  margin-bottom:0in;margin-left:0in;margin-bottom:.0001pt;text-align:center;\r\n  " +
+            "line-height:normal\'><b><span style=\'font-size:12.0pt;font-family:\"Times New Roma" +
+            "n\",\"serif\";\r\n  color:#545553\'>Mohammad AlHamaydeh, Ph.D., P.E.<br>\r\n  </span></b" +
+            "><span style=\'font-size:12.0pt;font-family:\"Times New Roman\",\"serif\";\r\n  color:#" +
+            "545553\'>Associate Professor of Structural/Earthquake Engineering</span></p>\r\n  <" +
+            "p class=MsoNormal align=center style=\'margin-top:0in;margin-right:-5.75pt;\r\n  ma" +
+            "rgin-bottom:0in;margin-left:0in;margin-bottom:.0001pt;text-align:center;\r\n  line" +
+            "-height:normal\'><a href=\"mailto:malhamaydeh@aus.edu\"><span\r\n  style=\'font-size:1" +
+            "2.0pt;font-family:\"Times New Roman\",\"serif\"\'>malhamaydeh@aus.edu</span></a></p>\r" +
+            "\n  </td>\r\n  <td width=329 rowspan=2 style=\'width:247.1pt;border:solid windowtext" +
+            " 1.0pt;\r\n  border-left:none;padding:0in 5.4pt 0in 5.4pt;height:46.45pt\'>\r\n  <p c" +
+            "lass=MsoNormal align=center style=\'margin-top:0in;margin-right:-5.8pt;\r\n  margin" +
+            "-bottom:0in;margin-left:0in;margin-bottom:.0001pt;text-align:center;\r\n  line-hei" +
+            "ght:normal\'><b><span style=\'font-size:16.0pt;font-family:\"Times New Roman\",\"seri" +
+            "f\";\r\n  color:#545553\'>American University of Sharjah</span></b></p>\r\n  <p class=" +
+            "MsoNormal align=center style=\'margin-top:0in;margin-right:-5.8pt;\r\n  margin-bott" +
+            "om:0in;margin-left:0in;margin-bottom:.0001pt;text-align:center;\r\n  line-height:n" +
+            "ormal\'><b><span style=\'font-size:12.0pt;font-family:\"Times New Roman\",\"serif\";\r\n" +
+            "  color:#545553\'>Department of Civil Engineering</span></b></p>\r\n  <p class=MsoN" +
+            "ormal align=center style=\'margin-top:0in;margin-right:-5.8pt;\r\n  margin-bottom:0" +
+            "in;margin-left:0in;margin-bottom:.0001pt;text-align:center;\r\n  line-height:norma" +
+            "l\'><span style=\'font-size:12.0pt;font-family:\"Times New Roman\",\"serif\";\r\n  color" +
+            ":#545553\'>PO Box 26666, Sharjah<br>\r\n  United Arab Emirates</span></p>\r\n  <p cla" +
+            "ss=MsoNormal align=center style=\'margin-top:0in;margin-right:-5.8pt;\r\n  margin-b" +
+            "ottom:0in;margin-left:0in;margin-bottom:.0001pt;text-align:center;\r\n  line-heigh" +
+            "t:normal\'><span style=\'font-size:12.0pt;font-family:\"Times New Roman\",\"serif\";\r\n" +
+            "  color:#545553\'>Tel +971 6 515 2647</span></p>\r\n  </td>\r\n </tr>\r\n <tr style=\'he" +
+            "ight:46.45pt\'>\r\n  <td width=386 style=\'width:289.3pt;border:solid windowtext 1.0" +
+            "pt;border-top:\r\n  none;padding:0in 5.4pt 0in 5.4pt;height:46.45pt\'>\r\n  <p class=" +
+            "MsoNormal align=center style=\'margin-top:0in;margin-right:-5.75pt;\r\n  margin-bot" +
+            "tom:0in;margin-left:0in;margin-bottom:.0001pt;text-align:center;\r\n  line-height:" +
+            "normal\'><b><span style=\'font-size:12.0pt;font-family:\"Times New Roman\",\"serif\";\r" +
+            "\n  color:#545553\'>Mohamad Najib<br>\r\n  </span></b><span style=\'font-size:12.0pt;" +
+            "font-family:\"Times New Roman\",\"serif\";\r\n  color:#545553\'>Undergraduate Research " +
+            "Assistant</span></p>\r\n  <p class=MsoNormal align=center style=\'margin-top:0in;ma" +
+            "rgin-right:-5.75pt;\r\n  margin-bottom:0in;margin-left:0in;margin-bottom:.0001pt;t" +
+            "ext-align:center;\r\n  line-height:normal\'><a href=\"mailto:b00045708@aus.edu\"><spa" +
+            "n\r\n  style=\'font-size:12.0pt;font-family:\"Times New Roman\",\"serif\"\'>b00045708@au" +
+            "s.edu</span></a></p>\r\n  </td>\r\n </tr>\r\n <tr style=\'height:46.45pt\'>\r\n  <td width" +
+            "=386 style=\'width:289.3pt;border:solid windowtext 1.0pt;border-top:\r\n  none;padd" +
+            "ing:0in 5.4pt 0in 5.4pt;height:46.45pt\'>\r\n  <p class=MsoNormal align=center styl" +
+            "e=\'margin-top:0in;margin-right:-5.75pt;\r\n  margin-bottom:0in;margin-left:0in;mar" +
+            "gin-bottom:.0001pt;text-align:center;\r\n  line-height:normal\'><b><span style=\'fon" +
+            "t-size:12.0pt;font-family:\"Times New Roman\",\"serif\";\r\n  color:#545553\'>Sameer Al" +
+            "awnah, MSc.<br>\r\n  </span></b><span style=\'font-size:12.0pt;font-family:\"Times N" +
+            "ew Roman\",\"serif\";\r\n  color:#545553\'>Laboratory Instructor/Research Associate</s" +
+            "pan></p>\r\n  <p class=MsoNormal align=center style=\'margin-top:0in;margin-right:-" +
+            "5.75pt;\r\n  margin-bottom:0in;margin-left:0in;margin-bottom:.0001pt;text-align:ce" +
+            "nter;\r\n  line-height:normal\'><a href=\"mailto:salawnah@aus.edu\"><span style=\'font" +
+            "-size:\r\n  12.0pt;font-family:\"Times New Roman\",\"serif\"\'>salawnah@aus.edu</span><" +
+            "/a><span\r\n  class=MsoHyperlink><span style=\'font-size:12.0pt;font-family:\"Times " +
+            "New Roman\",\"serif\"\'>\r\n  </span></span></p>\r\n  </td>\r\n  <td width=329 style=\'widt" +
+            "h:247.1pt;border-top:none;border-left:none;\r\n  border-bottom:solid windowtext 1." +
+            "0pt;border-right:solid windowtext 1.0pt;\r\n  padding:0in 5.4pt 0in 5.4pt;height:4" +
             "6.45pt\'>\r\n  <p class=MsoNormal align=center style=\'margin-top:0in;margin-right:-" +
             "5.8pt;\r\n  margin-bottom:0in;margin-left:0in;margin-bottom:.0001pt;text-align:cen" +
-            "ter;\r\n  line-height:normal\'><b><span style=\'font-size:16.0pt;font-family:\"Times " +
-            "New Roman\",\"serif\";\r\n  mso-ascii-theme-font:major-bidi;mso-fareast-font-family:\"" +
-            "Times New Roman\";\r\n  mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:m" +
-            "ajor-bidi;\r\n  mso-bidi-theme-font:major-bidi;color:#545553;mso-no-proof:yes\'>Ame" +
-            "rican\r\n  University of Sharjah<o:p></o:p></span></b></p>\r\n  <p class=MsoNormal a" +
-            "lign=center style=\'margin-top:0in;margin-right:-5.8pt;\r\n  margin-bottom:0in;marg" +
-            "in-left:0in;margin-bottom:.0001pt;text-align:center;\r\n  line-height:normal\'><b><" +
-            "span style=\'font-size:12.0pt;font-family:\"Times New Roman\",\"serif\";\r\n  mso-ascii" +
-            "-theme-font:major-bidi;mso-fareast-font-family:\"Times New Roman\";\r\n  mso-fareast" +
-            "-theme-font:minor-fareast;mso-hansi-theme-font:major-bidi;\r\n  mso-bidi-theme-fon" +
-            "t:major-bidi;color:#545553;mso-no-proof:yes\'>Department of\r\n  Civil Engineering<" +
-            "o:p></o:p></span></b></p>\r\n  <p class=MsoNormal align=center style=\'margin-top:0" +
-            "in;margin-right:-5.8pt;\r\n  margin-bottom:0in;margin-left:0in;margin-bottom:.0001" +
-            "pt;text-align:center;\r\n  line-height:normal\'><span style=\'font-size:12.0pt;font-" +
-            "family:\"Times New Roman\",\"serif\";\r\n  mso-ascii-theme-font:major-bidi;mso-fareast" +
-            "-font-family:\"Times New Roman\";\r\n  mso-fareast-theme-font:minor-fareast;mso-hans" +
-            "i-theme-font:major-bidi;\r\n  mso-bidi-theme-font:major-bidi;color:#545553;mso-no-" +
-            "proof:yes\'>PO Box 26666,\r\n  Sharjah<br>\r\n  United Arab Emirates<o:p></o:p></span" +
-            "></p>\r\n  <p class=MsoNormal align=center style=\'margin-top:0in;margin-right:-5.8" +
-            "pt;\r\n  margin-bottom:0in;margin-left:0in;margin-bottom:.0001pt;text-align:center" +
-            ";\r\n  line-height:normal\'><span style=\'font-size:12.0pt;font-family:\"Times New Ro" +
-            "man\",\"serif\";\r\n  mso-ascii-theme-font:major-bidi;mso-fareast-font-family:\"Times " +
-            "New Roman\";\r\n  mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:major-b" +
-            "idi;\r\n  mso-bidi-theme-font:major-bidi;color:#545553;mso-no-proof:yes\'>Tel +971 " +
-            "6 515\r\n  2647<b><o:p></o:p></b></span></p>\r\n  </td>\r\n </tr>\r\n <tr style=\'mso-yft" +
-            "i-irow:1;height:46.45pt\'>\r\n  <td width=386 style=\'width:289.3pt;border:solid win" +
-            "dowtext 1.0pt;border-top:\r\n  none;mso-border-top-alt:solid windowtext .5pt;mso-b" +
-            "order-alt:solid windowtext .5pt;\r\n  padding:0in 5.4pt 0in 5.4pt;height:46.45pt\'>" +
-            "\r\n  <p class=MsoNormal align=center style=\'margin-top:0in;margin-right:-5.75pt;\r" +
-            "\n  margin-bottom:0in;margin-left:0in;margin-bottom:.0001pt;text-align:center;\r\n " +
-            " line-height:normal\'><b><span style=\'font-size:12.0pt;font-family:\"Times New Rom" +
-            "an\",\"serif\";\r\n  mso-ascii-theme-font:major-bidi;mso-fareast-font-family:\"Times N" +
-            "ew Roman\";\r\n  mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:major-bi" +
-            "di;\r\n  mso-bidi-theme-font:major-bidi;color:#545553;mso-no-proof:yes\'>Mohamad Na" +
-            "jib<br>\r\n  </span></b><span style=\'font-size:12.0pt;font-family:\"Times New Roman" +
-            "\",\"serif\";\r\n  mso-ascii-theme-font:major-bidi;mso-fareast-font-family:\"Times New" +
-            " Roman\";\r\n  mso-fareast-theme-font:minor-fareast;mso-hansi-theme-font:major-bidi" +
-            ";\r\n  mso-bidi-theme-font:major-bidi;color:#545553;mso-no-proof:yes\'>Undergraduat" +
-            "e\r\n  Research Assistant<o:p></o:p></span></p>\r\n  <p class=MsoNormal align=center" +
-            " style=\'margin-top:0in;margin-right:-5.75pt;\r\n  margin-bottom:0in;margin-left:0i" +
-            "n;margin-bottom:.0001pt;text-align:center;\r\n  line-height:normal\'><a href=\"mailt" +
-            "o:b00045708@aus.edu\"><span\r\n  style=\'font-size:12.0pt;font-family:\"Times New Rom" +
-            "an\",\"serif\";mso-ascii-theme-font:\r\n  major-bidi;mso-fareast-font-family:\"Times N" +
-            "ew Roman\";mso-fareast-theme-font:\r\n  minor-fareast;mso-hansi-theme-font:major-bi" +
-            "di;mso-bidi-theme-font:major-bidi;\r\n  mso-no-proof:yes\'>b00045708@aus.edu</span>" +
-            "</a><span style=\'font-size:12.0pt;\r\n  font-family:\"Times New Roman\",\"serif\";mso-" +
-            "ascii-theme-font:major-bidi;\r\n  mso-hansi-theme-font:major-bidi;mso-bidi-theme-f" +
-            "ont:major-bidi\'><o:p></o:p></span></p>\r\n  </td>\r\n </tr>\r\n <tr style=\'mso-yfti-ir" +
-            "ow:2;mso-yfti-lastrow:yes;height:46.45pt\'>\r\n  <td width=386 style=\'width:289.3pt" +
-            ";border:solid windowtext 1.0pt;border-top:\r\n  none;mso-border-top-alt:solid wind" +
-            "owtext .5pt;mso-border-alt:solid windowtext .5pt;\r\n  padding:0in 5.4pt 0in 5.4pt" +
-            ";height:46.45pt\'>\r\n  <p class=MsoNormal align=center style=\'margin-top:0in;margi" +
-            "n-right:-5.75pt;\r\n  margin-bottom:0in;margin-left:0in;margin-bottom:.0001pt;text" +
-            "-align:center;\r\n  line-height:normal\'><b><span style=\'font-size:12.0pt;font-fami" +
-            "ly:\"Times New Roman\",\"serif\";\r\n  mso-ascii-theme-font:major-bidi;mso-fareast-fon" +
-            "t-family:\"Times New Roman\";\r\n  mso-fareast-theme-font:minor-fareast;mso-hansi-th" +
-            "eme-font:major-bidi;\r\n  mso-bidi-theme-font:major-bidi;color:#545553;mso-no-proo" +
-            "f:yes\'>Sameer\r\n  Alawnah, MSc.<br>\r\n  </span></b><span style=\'font-size:12.0pt;f" +
-            "ont-family:\"Times New Roman\",\"serif\";\r\n  mso-ascii-theme-font:major-bidi;mso-far" +
-            "east-font-family:\"Times New Roman\";\r\n  mso-fareast-theme-font:minor-fareast;mso-" +
-            "hansi-theme-font:major-bidi;\r\n  mso-bidi-theme-font:major-bidi;color:#545553;mso" +
-            "-no-proof:yes\'>Laboratory\r\n  Instructor/Research Associate<o:p></o:p></span></p>" +
-            "\r\n  <p class=MsoNormal align=center style=\'margin-top:0in;margin-right:-5.75pt;\r" +
-            "\n  margin-bottom:0in;margin-left:0in;margin-bottom:.0001pt;text-align:center;\r\n " +
-            " line-height:normal\'><a href=\"mailto:salawnah@aus.edu\"><span style=\'font-size:\r\n" +
-            "  12.0pt;font-family:\"Times New Roman\",\"serif\";mso-ascii-theme-font:major-bidi;\r" +
-            "\n  mso-fareast-font-family:\"Times New Roman\";mso-fareast-theme-font:minor-fareas" +
-            "t;\r\n  mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi;mso-no-proo" +
-            "f:\r\n  yes\'>salawnah@aus.edu</span></a><span class=MsoHyperlink><span\r\n  style=\'f" +
-            "ont-size:12.0pt;font-family:\"Times New Roman\",\"serif\";mso-ascii-theme-font:\r\n  m" +
-            "ajor-bidi;mso-fareast-font-family:\"Times New Roman\";mso-fareast-theme-font:\r\n  m" +
-            "inor-fareast;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi;\r\n  " +
-            "mso-no-proof:yes\'> </span></span><b><span style=\'font-size:12.0pt;font-family:\r\n" +
-            "  \"Times New Roman\",\"serif\";mso-ascii-theme-font:major-bidi;mso-fareast-font-fam" +
-            "ily:\r\n  \"Times New Roman\";mso-fareast-theme-font:minor-fareast;mso-hansi-theme-f" +
-            "ont:\r\n  major-bidi;mso-bidi-theme-font:major-bidi;color:#545553;mso-no-proof:yes" +
-            "\'><o:p></o:p></span></b></p>\r\n  </td>\r\n  <td width=329 style=\'width:247.1pt;bord" +
-            "er-top:none;border-left:none;\r\n  border-bottom:solid windowtext 1.0pt;border-rig" +
-            "ht:solid windowtext 1.0pt;\r\n  mso-border-top-alt:solid windowtext .5pt;mso-borde" +
-            "r-left-alt:solid windowtext .5pt;\r\n  mso-border-alt:solid windowtext .5pt;paddin" +
-            "g:0in 5.4pt 0in 5.4pt;height:46.45pt\'>\r\n  <p class=MsoNormal align=center style=" +
-            "\'margin-top:0in;margin-right:-5.8pt;\r\n  margin-bottom:0in;margin-left:0in;margin" +
-            "-bottom:.0001pt;text-align:center;\r\n  line-height:normal\'><b><span style=\'font-s" +
-            "ize:12.0pt;font-family:\"Times New Roman\",\"serif\";\r\n  mso-ascii-theme-font:major-" +
-            "bidi;mso-fareast-font-family:\"Times New Roman\";\r\n  mso-fareast-theme-font:minor-" +
-            "fareast;mso-hansi-theme-font:major-bidi;\r\n  mso-bidi-theme-font:major-bidi;color" +
-            ":#545553;mso-no-proof:yes\'>Department of\r\n  Computer Science &amp; Eng.<o:p></o:" +
-            "p></span></b></p>\r\n  <p class=MsoNormal align=center style=\'margin-top:0in;margi" +
-            "n-right:-5.8pt;\r\n  margin-bottom:0in;margin-left:0in;margin-bottom:.0001pt;text-" +
-            "align:center;\r\n  line-height:normal\'><span style=\'font-size:12.0pt;font-family:\"" +
-            "Times New Roman\",\"serif\";\r\n  mso-ascii-theme-font:major-bidi;mso-fareast-font-fa" +
-            "mily:\"Times New Roman\";\r\n  mso-fareast-theme-font:minor-fareast;mso-hansi-theme-" +
-            "font:major-bidi;\r\n  mso-bidi-theme-font:major-bidi;color:#545553;mso-no-proof:ye" +
-            "s\'>Tel +971 6 515\r\n  2974<b><o:p></o:p></b></span></p>\r\n  </td>\r\n </tr>\r\n</table" +
-            ">\r\n\r\n<p class=MsoNormal align=center style=\'margin-bottom:0in;margin-bottom:.000" +
-            "1pt;\r\ntext-align:center\'><b><span style=\'font-size:6.0pt;line-height:115%;font-f" +
-            "amily:\r\n\"Times New Roman\",\"serif\";mso-ascii-theme-font:major-bidi;mso-hansi-them" +
-            "e-font:\r\nmajor-bidi;mso-bidi-theme-font:major-bidi\'><o:p>&nbsp;</o:p></span></b>" +
-            "</p>\r\n\r\n<p class=MsoNormal align=center style=\'margin-bottom:0in;margin-bottom:." +
-            "0001pt;\r\ntext-align:center\'><b><span style=\'font-size:12.0pt;line-height:115%;\r\n" +
-            "font-family:\"Times New Roman\",\"serif\";mso-ascii-theme-font:major-bidi;\r\nmso-hans" +
-            "i-theme-font:major-bidi;mso-bidi-theme-font:major-bidi\'>INSPECT<o:p></o:p></span" +
-            "></b></p>\r\n\r\n<p class=MsoNormal align=center style=\'margin-bottom:0in;margin-bot" +
-            "tom:.0001pt;\r\ntext-align:center\'><b><span style=\'font-size:12.0pt;line-height:11" +
-            "5%;\r\nfont-family:\"Times New Roman\",\"serif\";mso-ascii-theme-font:major-bidi;\r\nmso" +
-            "-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi\'>Version 1.0 2016<o:" +
-            "p></o:p></span></b></p>\r\n\r\n<p class=MsoNormal align=center style=\'margin-bottom:" +
-            "0in;margin-bottom:.0001pt;\r\ntext-align:center\'><span style=\'font-size:12.0pt;lin" +
-            "e-height:115%;font-family:\r\n\"Times New Roman\",\"serif\";mso-ascii-theme-font:major" +
-            "-bidi;mso-hansi-theme-font:\r\nmajor-bidi;mso-bidi-theme-font:major-bidi\'>Kindly r" +
-            "eport problems and bugs to:<o:p></o:p></span></p>\r\n\r\n<p class=MsoNormal align=ce" +
-            "nter style=\'margin-bottom:0in;margin-bottom:.0001pt;\r\ntext-align:center\'><a href" +
-            "=\"mailto:malhamaydeh@aus.edu\"><span style=\'font-size:\r\n12.0pt;line-height:115%;f" +
-            "ont-family:\"Times New Roman\",\"serif\";mso-ascii-theme-font:\r\nmajor-bidi;mso-hansi" +
-            "-theme-font:major-bidi;mso-bidi-theme-font:major-bidi\'>malhamaydeh@aus.edu</span" +
-            "></a><span\r\nstyle=\'font-size:12.0pt;line-height:115%;font-family:\"Times New Roma" +
-            "n\",\"serif\";\r\nmso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso" +
-            "-bidi-theme-font:\r\nmajor-bidi\'><o:p></o:p></span></p>\r\n\r\n<p class=MsoNormal alig" +
-            "n=center style=\'margin-bottom:0in;margin-bottom:.0001pt;\r\ntext-align:center;line" +
-            "-height:normal\'><span style=\'font-size:12.0pt;font-family:\r\n\"Times New Roman\",\"s" +
-            "erif\";mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:\r\nmajor-bidi;mso-bidi" +
-            "-theme-font:major-bidi\'>Copyright © 2016 All rights\r\nreserved.<o:p></o:p></span>" +
-            "</p>\r\n\r\n<p class=MsoNormal style=\'margin-bottom:0in;margin-bottom:.0001pt\'><b><s" +
-            "pan\r\nstyle=\'font-size:6.0pt;line-height:115%;font-family:\"Times New Roman\",\"seri" +
-            "f\";\r\nmso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-th" +
-            "eme-font:\r\nmajor-bidi\'><o:p>&nbsp;</o:p></span></b></p>\r\n\r\n<p class=MsoListParag" +
-            "raph style=\'margin-bottom:0in;margin-bottom:.0001pt;\r\nmso-add-space:auto\'><span " +
-            "style=\'font-size:12.0pt;line-height:115%;font-family:\r\n\"Times New Roman\",\"serif\"" +
-            ";mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:\r\nmajor-bidi;mso-bidi-them" +
-            "e-font:major-bidi\'><o:p>&nbsp;</o:p></span></p>\r\n\r\n</div>\r\n\r\n</body>\r\n\r\n</html>\r" +
-            "\n")]
+            "ter;\r\n  line-height:normal\'><b><span style=\'font-size:12.0pt;font-family:\"Times " +
+            "New Roman\",\"serif\";\r\n  color:#545553\'>Department of Computer Science &amp; Eng.<" +
+            "/span></b></p>\r\n  <p class=MsoNormal align=center style=\'margin-top:0in;margin-r" +
+            "ight:-5.8pt;\r\n  margin-bottom:0in;margin-left:0in;margin-bottom:.0001pt;text-ali" +
+            "gn:center;\r\n  line-height:normal\'><span style=\'font-size:12.0pt;font-family:\"Tim" +
+            "es New Roman\",\"serif\";\r\n  color:#545553\'>Tel +971 6 515 2974</span></p>\r\n  </td>" +
+            "\r\n </tr>\r\n</table>\r\n\r\n<p class=MsoNormal align=center style=\'margin-bottom:0in;m" +
+            "argin-bottom:.0001pt;\r\ntext-align:center\'><b><span style=\'font-size:6.0pt;line-h" +
+            "eight:115%;font-family:\r\n\"Times New Roman\",\"serif\"\'>&nbsp;</span></b></p>\r\n\r\n<p " +
+            "class=MsoNormal align=center style=\'margin-bottom:0in;margin-bottom:.0001pt;\r\nte" +
+            "xt-align:center\'><b><span style=\'font-size:12.0pt;line-height:115%;\r\nfont-family" +
+            ":\"Times New Roman\",\"serif\"\'>INSPECT</span></b></p>\r\n\r\n<p class=MsoNormal align=c" +
+            "enter style=\'margin-bottom:0in;margin-bottom:.0001pt;\r\ntext-align:center\'><b><sp" +
+            "an style=\'font-size:12.0pt;line-height:115%;\r\nfont-family:\"Times New Roman\",\"ser" +
+            "if\"\'>Version 1.0 2016</span></b></p>\r\n\r\n<p class=MsoNormal align=center style=\'m" +
+            "argin-bottom:0in;margin-bottom:.0001pt;\r\ntext-align:center\'><span style=\'font-si" +
+            "ze:12.0pt;line-height:115%;font-family:\r\n\"Times New Roman\",\"serif\"\'>Kindly repor" +
+            "t problems and bugs to:</span></p>\r\n\r\n<p class=MsoNormal align=center style=\'mar" +
+            "gin-bottom:0in;margin-bottom:.0001pt;\r\ntext-align:center\'><a href=\"mailto:malham" +
+            "aydeh@aus.edu\"><span style=\'font-size:\r\n12.0pt;line-height:115%;font-family:\"Tim" +
+            "es New Roman\",\"serif\"\'>malhamaydeh@aus.edu</span></a></p>\r\n\r\n<p class=MsoNormal " +
+            "align=center style=\'margin-bottom:0in;margin-bottom:.0001pt;\r\ntext-align:center;" +
+            "line-height:normal\'><span style=\'font-size:12.0pt;font-family:\r\n\"Times New Roman" +
+            "\",\"serif\"\'>Copyright © 2016 All rights reserved.</span></p>\r\n\r\n<p class=MsoNorma" +
+            "l style=\'margin-bottom:0in;margin-bottom:.0001pt\'><b><span\r\nstyle=\'font-size:6.0" +
+            "pt;line-height:115%;font-family:\"Times New Roman\",\"serif\"\'>&nbsp;</span></b></p>" +
+            "\r\n\r\n<p class=MsoListParagraph style=\'margin-bottom:0in;margin-bottom:.0001pt\'><s" +
+            "pan\r\nstyle=\'font-size:12.0pt;line-height:115%;font-family:\"Times New Roman\",\"ser" +
+            "if\"\'>&nbsp;</span></p>\r\n\r\n</div>\r\n\r\n</body>\r\n\r\n</html>\r\n")]
         public string about {
             get {
                 return ((string)(this["about"]));
@@ -1470,583 +1023,196 @@ namespace SampleWizard.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("<html xmlns:v=\"urn:schemas-microsoft-com:vml\"\r\nxmlns:o=\"urn:schemas-microsoft-com" +
-            ":office:office\"\r\nxmlns:w=\"urn:schemas-microsoft-com:office:word\"\r\nxmlns:m=\"http:" +
-            "//schemas.microsoft.com/office/2004/12/omml\"\r\nxmlns=\"http://www.w3.org/TR/REC-ht" +
-            "ml40\">\r\n\r\n<head>\r\n<meta http-equiv=Content-Type content=\"text/html; charset=wind" +
-            "ows-1252\">\r\n<meta name=ProgId content=Word.Document>\r\n<meta name=Generator conte" +
-            "nt=\"Microsoft Word 14\">\r\n<meta name=Originator content=\"Microsoft Word 14\">\r\n<li" +
-            "nk rel=File-List href=\"lic_agre_files/filelist.xml\">\r\n<!--[if gte mso 9]><xml>\r\n" +
-            " <o:DocumentProperties>\r\n  <o:Author>m_najeeb</o:Author>\r\n  <o:LastAuthor>Profil" +
-            "e</o:LastAuthor>\r\n  <o:Revision>2</o:Revision>\r\n  <o:TotalTime>1</o:TotalTime>\r\n" +
-            "  <o:Created>2016-05-02T16:24:00Z</o:Created>\r\n  <o:LastSaved>2016-05-02T16:24:0" +
-            "0Z</o:LastSaved>\r\n  <o:Pages>2</o:Pages>\r\n  <o:Words>822</o:Words>\r\n  <o:Charact" +
-            "ers>4687</o:Characters>\r\n  <o:Lines>39</o:Lines>\r\n  <o:Paragraphs>10</o:Paragrap" +
-            "hs>\r\n  <o:CharactersWithSpaces>5499</o:CharactersWithSpaces>\r\n  <o:Version>14.00" +
-            "</o:Version>\r\n </o:DocumentProperties>\r\n <o:OfficeDocumentSettings>\r\n  <o:AllowP" +
-            "NG/>\r\n </o:OfficeDocumentSettings>\r\n</xml><![endif]-->\r\n<link rel=dataStoreItem " +
-            "href=\"lic_agre_files/item0001.xml\"\r\ntarget=\"lic_agre_files/props002.xml\">\r\n<link" +
-            " rel=themeData href=\"lic_agre_files/themedata.thmx\">\r\n<link rel=colorSchemeMappi" +
-            "ng href=\"lic_agre_files/colorschememapping.xml\">\r\n<!--[if gte mso 9]><xml>\r\n <w:" +
-            "WordDocument>\r\n  <w:SpellingState>Clean</w:SpellingState>\r\n  <w:GrammarState>Cle" +
-            "an</w:GrammarState>\r\n  <w:TrackMoves>false</w:TrackMoves>\r\n  <w:TrackFormatting/" +
-            ">\r\n  <w:PunctuationKerning/>\r\n  <w:ValidateAgainstSchemas/>\r\n  <w:SaveIfXMLInval" +
-            "id>false</w:SaveIfXMLInvalid>\r\n  <w:IgnoreMixedContent>false</w:IgnoreMixedConte" +
-            "nt>\r\n  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>\r\n  <w:Do" +
-            "NotPromoteQF/>\r\n  <w:LidThemeOther>EN-US</w:LidThemeOther>\r\n  <w:LidThemeAsian>X" +
-            "-NONE</w:LidThemeAsian>\r\n  <w:LidThemeComplexScript>AR-SA</w:LidThemeComplexScri" +
-            "pt>\r\n  <w:Compatibility>\r\n   <w:BreakWrappedTables/>\r\n   <w:SnapToGridInCell/>\r\n" +
-            "   <w:WrapTextWithPunct/>\r\n   <w:UseAsianBreakRules/>\r\n   <w:DontGrowAutofit/>\r\n" +
-            "   <w:SplitPgBreakAndParaMark/>\r\n   <w:EnableOpenTypeKerning/>\r\n   <w:DontFlipMi" +
-            "rrorIndents/>\r\n   <w:OverrideTableStyleHps/>\r\n  </w:Compatibility>\r\n  <m:mathPr>" +
-            "\r\n   <m:mathFont m:val=\"Cambria Math\"/>\r\n   <m:brkBin m:val=\"before\"/>\r\n   <m:br" +
-            "kBinSub m:val=\"&#45;-\"/>\r\n   <m:smallFrac m:val=\"off\"/>\r\n   <m:dispDef/>\r\n   <m:" +
-            "lMargin m:val=\"0\"/>\r\n   <m:rMargin m:val=\"0\"/>\r\n   <m:defJc m:val=\"centerGroup\"/" +
-            ">\r\n   <m:wrapIndent m:val=\"1440\"/>\r\n   <m:intLim m:val=\"subSup\"/>\r\n   <m:naryLim" +
-            " m:val=\"undOvr\"/>\r\n  </m:mathPr></w:WordDocument>\r\n</xml><![endif]--><!--[if gte" +
-            " mso 9]><xml>\r\n <w:LatentStyles DefLockedState=\"false\" DefUnhideWhenUsed=\"true\"\r" +
-            "\n  DefSemiHidden=\"true\" DefQFormat=\"false\" DefPriority=\"99\"\r\n  LatentStyleCount=" +
-            "\"267\">\r\n  <w:LsdException Locked=\"false\" Priority=\"0\" SemiHidden=\"false\"\r\n   Unh" +
-            "ideWhenUsed=\"false\" QFormat=\"true\" Name=\"Normal\"/>\r\n  <w:LsdException Locked=\"fa" +
-            "lse\" Priority=\"9\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" N" +
-            "ame=\"heading 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" " +
-            "Name=\"heading 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\"" +
-            " Name=\"heading 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true" +
-            "\" Name=\"heading 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"tru" +
-            "e\" Name=\"heading 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"tr" +
-            "ue\" Name=\"heading 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"t" +
-            "rue\" Name=\"heading 7\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"" +
-            "true\" Name=\"heading 8\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=" +
-            "\"true\" Name=\"heading 9\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"" +
-            "toc 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 2\"/>\r\n  <w:Ls" +
-            "dException Locked=\"false\" Priority=\"39\" Name=\"toc 3\"/>\r\n  <w:LsdException Locked" +
-            "=\"false\" Priority=\"39\" Name=\"toc 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority" +
-            "=\"39\" Name=\"toc 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 6" +
-            "\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 7\"/>\r\n  <w:LsdExce" +
-            "ption Locked=\"false\" Priority=\"39\" Name=\"toc 8\"/>\r\n  <w:LsdException Locked=\"fal" +
-            "se\" Priority=\"39\" Name=\"toc 9\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"35\"" +
-            " QFormat=\"true\" Name=\"caption\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"10\"" +
-            " SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Title\"/>\r\n  " +
-            "<w:LsdException Locked=\"false\" Priority=\"1\" Name=\"Default Paragraph Font\"/>\r\n  <" +
-            "w:LsdException Locked=\"false\" Priority=\"11\" SemiHidden=\"false\"\r\n   UnhideWhenUse" +
-            "d=\"false\" QFormat=\"true\" Name=\"Subtitle\"/>\r\n  <w:LsdException Locked=\"false\" Pri" +
-            "ority=\"22\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"St" +
-            "rong\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"20\" SemiHidden=\"false\"\r\n   U" +
-            "nhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Emphasis\"/>\r\n  <w:LsdException Locked" +
-            "=\"false\" Priority=\"59\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Table" +
-            " Grid\"/>\r\n  <w:LsdException Locked=\"false\" UnhideWhenUsed=\"false\" Name=\"Placehol" +
-            "der Text\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"1\" SemiHidden=\"false\"\r\n " +
-            "  UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"No Spacing\"/>\r\n  <w:LsdException L" +
-            "ocked=\"false\" Priority=\"60\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"" +
-            "Light Shading\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" SemiHidden=\"fal" +
-            "se\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light List\"/>\r\n  <w:LsdException Locked=\"fa" +
-            "lse\" Priority=\"62\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light Gri" +
-            "d\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" SemiHidden=\"false\"\r\n   Unhi" +
-            "deWhenUsed=\"false\" Name=\"Medium Shading 1\"/>\r\n  <w:LsdException Locked=\"false\" P" +
-            "riority=\"64\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading " +
-            "2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"\r\n   Unhi" +
-            "deWhenUsed=\"false\" Name=\"Medium List 1\"/>\r\n  <w:LsdException Locked=\"false\" Prio" +
-            "rity=\"66\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 2\"/>\r\n" +
-            "  <w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"\r\n   UnhideWhen" +
-            "Used=\"false\" Name=\"Medium Grid 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"" +
-            "68\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 2\"/>\r\n  <w:L" +
-            "sdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"" +
-            "false\" Name=\"Medium Grid 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" Se" +
-            "miHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Dark List\"/>\r\n  <w:LsdExceptio" +
-            "n Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Nam" +
-            "e=\"Colorful Shading\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" SemiHidde" +
-            "n=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful List\"/>\r\n  <w:LsdException L" +
-            "ocked=\"false\" Priority=\"73\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"" +
-            "Colorful Grid\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"fal" +
-            "se\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light Shading Accent 1\"/>\r\n  <w:LsdExceptio" +
-            "n Locked=\"false\" Priority=\"61\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Nam" +
-            "e=\"Light List Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" SemiHi" +
-            "dden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light Grid Accent 1\"/>\r\n  <w:LsdEx" +
-            "ception Locked=\"false\" Priority=\"63\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"fals" +
-            "e\" Name=\"Medium Shading 1 Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority" +
-            "=\"64\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 2 Accen" +
-            "t 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"\r\n   Un" +
-            "hideWhenUsed=\"false\" Name=\"Medium List 1 Accent 1\"/>\r\n  <w:LsdException Locked=\"" +
-            "false\" UnhideWhenUsed=\"false\" Name=\"Revision\"/>\r\n  <w:LsdException Locked=\"false" +
-            "\" Priority=\"34\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Nam" +
-            "e=\"List Paragraph\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"29\" SemiHidden=" +
-            "\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Quote\"/>\r\n  <w:LsdExcept" +
-            "ion Locked=\"false\" Priority=\"30\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Q" +
-            "Format=\"true\" Name=\"Intense Quote\"/>\r\n  <w:LsdException Locked=\"false\" Priority=" +
-            "\"66\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 2 Accent 1\"" +
-            "/>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"\r\n   Unhide" +
-            "WhenUsed=\"false\" Name=\"Medium Grid 1 Accent 1\"/>\r\n  <w:LsdException Locked=\"fals" +
-            "e\" Priority=\"68\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid" +
-            " 2 Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false" +
-            "\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 3 Accent 1\"/>\r\n  <w:LsdException " +
-            "Locked=\"false\" Priority=\"70\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=" +
-            "\"Dark List Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" SemiHidde" +
-            "n=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Shading Accent 1\"/>\r\n  <w:Ls" +
-            "dException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"f" +
-            "alse\" Name=\"Colorful List Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority" +
-            "=\"73\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Grid Accent 1" +
-            "\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"\r\n   Unhid" +
-            "eWhenUsed=\"false\" Name=\"Light Shading Accent 2\"/>\r\n  <w:LsdException Locked=\"fal" +
-            "se\" Priority=\"61\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light List" +
-            " Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"\r" +
-            "\n   UnhideWhenUsed=\"false\" Name=\"Light Grid Accent 2\"/>\r\n  <w:LsdException Locke" +
-            "d=\"false\" Priority=\"63\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medi" +
-            "um Shading 1 Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" SemiHid" +
-            "den=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 2 Accent 2\"/>\r\n  <w:" +
-            "LsdException Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=" +
-            "\"false\" Name=\"Medium List 1 Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priori" +
-            "ty=\"66\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 2 Accent" +
-            " 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"\r\n   Unh" +
-            "ideWhenUsed=\"false\" Name=\"Medium Grid 1 Accent 2\"/>\r\n  <w:LsdException Locked=\"f" +
-            "alse\" Priority=\"68\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium G" +
-            "rid 2 Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"fa" +
-            "lse\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 3 Accent 2\"/>\r\n  <w:LsdExcepti" +
-            "on Locked=\"false\" Priority=\"70\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Na" +
-            "me=\"Dark List Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" SemiHi" +
-            "dden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Shading Accent 2\"/>\r\n  <w" +
-            ":LsdException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"\r\n   UnhideWhenUsed" +
-            "=\"false\" Name=\"Colorful List Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Prior" +
-            "ity=\"73\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Grid Accen" +
-            "t 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"\r\n   Un" +
-            "hideWhenUsed=\"false\" Name=\"Light Shading Accent 3\"/>\r\n  <w:LsdException Locked=\"" +
-            "false\" Priority=\"61\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light L" +
-            "ist Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"fals" +
-            "e\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light Grid Accent 3\"/>\r\n  <w:LsdException Lo" +
-            "cked=\"false\" Priority=\"63\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"M" +
-            "edium Shading 1 Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" Semi" +
-            "Hidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 2 Accent 3\"/>\r\n  " +
-            "<w:LsdException Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"\r\n   UnhideWhenUs" +
-            "ed=\"false\" Name=\"Medium List 1 Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Pri" +
-            "ority=\"66\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 2 Acc" +
-            "ent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"\r\n   " +
-            "UnhideWhenUsed=\"false\" Name=\"Medium Grid 1 Accent 3\"/>\r\n  <w:LsdException Locked" +
-            "=\"false\" Priority=\"68\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Mediu" +
-            "m Grid 2 Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=" +
-            "\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 3 Accent 3\"/>\r\n  <w:LsdExce" +
-            "ption Locked=\"false\" Priority=\"70\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\"" +
-            " Name=\"Dark List Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" Sem" +
-            "iHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Shading Accent 3\"/>\r\n " +
-            " <w:LsdException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"\r\n   UnhideWhenU" +
-            "sed=\"false\" Name=\"Colorful List Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Pr" +
-            "iority=\"73\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Grid Ac" +
-            "cent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"\r\n  " +
-            " UnhideWhenUsed=\"false\" Name=\"Light Shading Accent 4\"/>\r\n  <w:LsdException Locke" +
-            "d=\"false\" Priority=\"61\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Ligh" +
-            "t List Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"f" +
-            "alse\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light Grid Accent 4\"/>\r\n  <w:LsdException" +
-            " Locked=\"false\" Priority=\"63\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name" +
-            "=\"Medium Shading 1 Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" S" +
-            "emiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 2 Accent 4\"/>\r" +
-            "\n  <w:LsdException Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"\r\n   UnhideWhe" +
-            "nUsed=\"false\" Name=\"Medium List 1 Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" " +
-            "Priority=\"66\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 2 " +
-            "Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"\r\n" +
-            "   UnhideWhenUsed=\"false\" Name=\"Medium Grid 1 Accent 4\"/>\r\n  <w:LsdException Loc" +
-            "ked=\"false\" Priority=\"68\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Me" +
-            "dium Grid 2 Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" SemiHidd" +
-            "en=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 3 Accent 4\"/>\r\n  <w:LsdE" +
-            "xception Locked=\"false\" Priority=\"70\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"fal" +
-            "se\" Name=\"Dark List Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" " +
-            "SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Shading Accent 4\"/>" +
-            "\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"\r\n   UnhideWh" +
-            "enUsed=\"false\" Name=\"Colorful List Accent 4\"/>\r\n  <w:LsdException Locked=\"false\"" +
-            " Priority=\"73\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Grid" +
-            " Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"\r" +
-            "\n   UnhideWhenUsed=\"false\" Name=\"Light Shading Accent 5\"/>\r\n  <w:LsdException Lo" +
-            "cked=\"false\" Priority=\"61\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"L" +
-            "ight List Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden" +
-            "=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light Grid Accent 5\"/>\r\n  <w:LsdExcept" +
-            "ion Locked=\"false\" Priority=\"63\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" N" +
-            "ame=\"Medium Shading 1 Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64" +
-            "\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 2 Accent 5\"" +
-            "/>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"\r\n   Unhide" +
-            "WhenUsed=\"false\" Name=\"Medium List 1 Accent 5\"/>\r\n  <w:LsdException Locked=\"fals" +
-            "e\" Priority=\"66\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List" +
-            " 2 Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"false" +
-            "\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 1 Accent 5\"/>\r\n  <w:LsdException " +
-            "Locked=\"false\" Priority=\"68\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=" +
-            "\"Medium Grid 2 Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" SemiH" +
-            "idden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 3 Accent 5\"/>\r\n  <w:L" +
-            "sdException Locked=\"false\" Priority=\"70\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"" +
-            "false\" Name=\"Dark List Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"7" +
-            "1\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Shading Accent 5" +
-            "\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"\r\n   Unhid" +
-            "eWhenUsed=\"false\" Name=\"Colorful List Accent 5\"/>\r\n  <w:LsdException Locked=\"fal" +
-            "se\" Priority=\"73\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful G" +
-            "rid Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"60\" SemiHidden=\"fals" +
-            "e\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light Shading Accent 6\"/>\r\n  <w:LsdException" +
-            " Locked=\"false\" Priority=\"61\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name" +
-            "=\"Light List Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" SemiHid" +
-            "den=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light Grid Accent 6\"/>\r\n  <w:LsdExc" +
-            "eption Locked=\"false\" Priority=\"63\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false" +
-            "\" Name=\"Medium Shading 1 Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=" +
-            "\"64\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 2 Accent" +
-            " 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"\r\n   Unh" +
-            "ideWhenUsed=\"false\" Name=\"Medium List 1 Accent 6\"/>\r\n  <w:LsdException Locked=\"f" +
-            "alse\" Priority=\"66\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium L" +
-            "ist 2 Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"67\" SemiHidden=\"fa" +
-            "lse\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 1 Accent 6\"/>\r\n  <w:LsdExcepti" +
-            "on Locked=\"false\" Priority=\"68\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Na" +
-            "me=\"Medium Grid 2 Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" Se" +
-            "miHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 3 Accent 6\"/>\r\n  <" +
-            "w:LsdException Locked=\"false\" Priority=\"70\" SemiHidden=\"false\"\r\n   UnhideWhenUse" +
-            "d=\"false\" Name=\"Dark List Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority" +
-            "=\"71\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Shading Accen" +
-            "t 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"\r\n   Un" +
-            "hideWhenUsed=\"false\" Name=\"Colorful List Accent 6\"/>\r\n  <w:LsdException Locked=\"" +
-            "false\" Priority=\"73\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorfu" +
-            "l Grid Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"19\" SemiHidden=\"f" +
-            "alse\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Subtle Emphasis\"/>\r\n  <w:L" +
-            "sdException Locked=\"false\" Priority=\"21\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"" +
-            "false\" QFormat=\"true\" Name=\"Intense Emphasis\"/>\r\n  <w:LsdException Locked=\"false" +
-            "\" Priority=\"31\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Nam" +
-            "e=\"Subtle Reference\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"32\" SemiHidde" +
-            "n=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Intense Reference\"/>\r\n" +
-            "  <w:LsdException Locked=\"false\" Priority=\"33\" SemiHidden=\"false\"\r\n   UnhideWhen" +
-            "Used=\"false\" QFormat=\"true\" Name=\"Book Title\"/>\r\n  <w:LsdException Locked=\"false" +
-            "\" Priority=\"37\" Name=\"Bibliography\"/>\r\n  <w:LsdException Locked=\"false\" Priority" +
-            "=\"39\" QFormat=\"true\" Name=\"TOC Heading\"/>\r\n </w:LatentStyles>\r\n</xml><![endif]--" +
-            ">\r\n<style>\r\n<!--\r\n /* Font Definitions */\r\n @font-face\r\n\t{font-family:Wingdings;" +
-            "\r\n\tpanose-1:5 0 0 0 0 0 0 0 0 0;\r\n\tmso-font-charset:2;\r\n\tmso-generic-font-family" +
-            ":auto;\r\n\tmso-font-pitch:variable;\r\n\tmso-font-signature:0 268435456 0 0 -21474836" +
-            "48 0;}\r\n@font-face\r\n\t{font-family:Wingdings;\r\n\tpanose-1:5 0 0 0 0 0 0 0 0 0;\r\n\tm" +
-            "so-font-charset:2;\r\n\tmso-generic-font-family:auto;\r\n\tmso-font-pitch:variable;\r\n\t" +
-            "mso-font-signature:0 268435456 0 0 -2147483648 0;}\r\n@font-face\r\n\t{font-family:Ca" +
-            "libri;\r\n\tpanose-1:2 15 5 2 2 2 4 3 2 4;\r\n\tmso-font-charset:0;\r\n\tmso-generic-font" +
-            "-family:swiss;\r\n\tmso-font-pitch:variable;\r\n\tmso-font-signature:-536870145 107378" +
-            "6111 1 0 415 0;}\r\n@font-face\r\n\t{font-family:Tahoma;\r\n\tpanose-1:2 11 6 4 3 5 4 4 " +
-            "2 4;\r\n\tmso-font-charset:0;\r\n\tmso-generic-font-family:swiss;\r\n\tmso-font-pitch:var" +
-            "iable;\r\n\tmso-font-signature:-520081665 -1073717157 41 0 66047 0;}\r\n /* Style Def" +
-            "initions */\r\n p.MsoNormal, li.MsoNormal, div.MsoNormal\r\n\t{mso-style-unhide:no;\r\n" +
-            "\tmso-style-qformat:yes;\r\n\tmso-style-parent:\"\";\r\n\tmargin-top:0in;\r\n\tmargin-right:" +
-            "0in;\r\n\tmargin-bottom:10.0pt;\r\n\tmargin-left:0in;\r\n\tline-height:115%;\r\n\tmso-pagina" +
-            "tion:widow-orphan;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",\"sans-serif\";\r\n\tm" +
-            "so-ascii-font-family:Calibri;\r\n\tmso-ascii-theme-font:minor-latin;\r\n\tmso-fareast-" +
-            "font-family:Calibri;\r\n\tmso-fareast-theme-font:minor-latin;\r\n\tmso-hansi-font-fami" +
-            "ly:Calibri;\r\n\tmso-hansi-theme-font:minor-latin;\r\n\tmso-bidi-font-family:Arial;\r\n\t" +
-            "mso-bidi-theme-font:minor-bidi;}\r\na:link, span.MsoHyperlink\r\n\t{mso-style-priorit" +
-            "y:99;\r\n\tcolor:blue;\r\n\tmso-themecolor:hyperlink;\r\n\ttext-decoration:underline;\r\n\tt" +
-            "ext-underline:single;}\r\na:visited, span.MsoHyperlinkFollowed\r\n\t{mso-style-noshow" +
-            ":yes;\r\n\tmso-style-priority:99;\r\n\tcolor:purple;\r\n\tmso-themecolor:followedhyperlin" +
-            "k;\r\n\ttext-decoration:underline;\r\n\ttext-underline:single;}\r\np\r\n\t{mso-style-noshow" +
-            ":yes;\r\n\tmso-style-priority:99;\r\n\tmso-margin-top-alt:auto;\r\n\tmargin-right:0in;\r\n\t" +
-            "mso-margin-bottom-alt:auto;\r\n\tmargin-left:0in;\r\n\tmso-pagination:widow-orphan;\r\n\t" +
-            "font-size:12.0pt;\r\n\tfont-family:\"Times New Roman\",\"serif\";\r\n\tmso-fareast-font-fa" +
-            "mily:\"Times New Roman\";}\r\np.MsoAcetate, li.MsoAcetate, div.MsoAcetate\r\n\t{mso-sty" +
-            "le-noshow:yes;\r\n\tmso-style-priority:99;\r\n\tmso-style-link:\"Balloon Text Char\";\r\n\t" +
-            "margin:0in;\r\n\tmargin-bottom:.0001pt;\r\n\tmso-pagination:widow-orphan;\r\n\tfont-size:" +
-            "8.0pt;\r\n\tfont-family:\"Tahoma\",\"sans-serif\";\r\n\tmso-fareast-font-family:Calibri;\r\n" +
-            "\tmso-fareast-theme-font:minor-latin;}\r\np.MsoListParagraph, li.MsoListParagraph, " +
-            "div.MsoListParagraph\r\n\t{mso-style-priority:34;\r\n\tmso-style-unhide:no;\r\n\tmso-styl" +
-            "e-qformat:yes;\r\n\tmargin-top:0in;\r\n\tmargin-right:0in;\r\n\tmargin-bottom:10.0pt;\r\n\tm" +
-            "argin-left:.5in;\r\n\tmso-add-space:auto;\r\n\tline-height:115%;\r\n\tmso-pagination:wido" +
-            "w-orphan;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",\"sans-serif\";\r\n\tmso-ascii-" +
-            "font-family:Calibri;\r\n\tmso-ascii-theme-font:minor-latin;\r\n\tmso-fareast-font-fami" +
-            "ly:Calibri;\r\n\tmso-fareast-theme-font:minor-latin;\r\n\tmso-hansi-font-family:Calibr" +
-            "i;\r\n\tmso-hansi-theme-font:minor-latin;\r\n\tmso-bidi-font-family:Arial;\r\n\tmso-bidi-" +
-            "theme-font:minor-bidi;}\r\np.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFir" +
-            "st, div.MsoListParagraphCxSpFirst\r\n\t{mso-style-priority:34;\r\n\tmso-style-unhide:n" +
-            "o;\r\n\tmso-style-qformat:yes;\r\n\tmso-style-type:export-only;\r\n\tmargin-top:0in;\r\n\tma" +
-            "rgin-right:0in;\r\n\tmargin-bottom:0in;\r\n\tmargin-left:.5in;\r\n\tmargin-bottom:.0001pt" +
-            ";\r\n\tmso-add-space:auto;\r\n\tline-height:115%;\r\n\tmso-pagination:widow-orphan;\r\n\tfon" +
-            "t-size:11.0pt;\r\n\tfont-family:\"Calibri\",\"sans-serif\";\r\n\tmso-ascii-font-family:Cal" +
-            "ibri;\r\n\tmso-ascii-theme-font:minor-latin;\r\n\tmso-fareast-font-family:Calibri;\r\n\tm" +
-            "so-fareast-theme-font:minor-latin;\r\n\tmso-hansi-font-family:Calibri;\r\n\tmso-hansi-" +
-            "theme-font:minor-latin;\r\n\tmso-bidi-font-family:Arial;\r\n\tmso-bidi-theme-font:mino" +
-            "r-bidi;}\r\np.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoLi" +
-            "stParagraphCxSpMiddle\r\n\t{mso-style-priority:34;\r\n\tmso-style-unhide:no;\r\n\tmso-sty" +
-            "le-qformat:yes;\r\n\tmso-style-type:export-only;\r\n\tmargin-top:0in;\r\n\tmargin-right:0" +
-            "in;\r\n\tmargin-bottom:0in;\r\n\tmargin-left:.5in;\r\n\tmargin-bottom:.0001pt;\r\n\tmso-add-" +
-            "space:auto;\r\n\tline-height:115%;\r\n\tmso-pagination:widow-orphan;\r\n\tfont-size:11.0p" +
-            "t;\r\n\tfont-family:\"Calibri\",\"sans-serif\";\r\n\tmso-ascii-font-family:Calibri;\r\n\tmso-" +
-            "ascii-theme-font:minor-latin;\r\n\tmso-fareast-font-family:Calibri;\r\n\tmso-fareast-t" +
-            "heme-font:minor-latin;\r\n\tmso-hansi-font-family:Calibri;\r\n\tmso-hansi-theme-font:m" +
-            "inor-latin;\r\n\tmso-bidi-font-family:Arial;\r\n\tmso-bidi-theme-font:minor-bidi;}\r\np." +
-            "MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpL" +
-            "ast\r\n\t{mso-style-priority:34;\r\n\tmso-style-unhide:no;\r\n\tmso-style-qformat:yes;\r\n\t" +
-            "mso-style-type:export-only;\r\n\tmargin-top:0in;\r\n\tmargin-right:0in;\r\n\tmargin-botto" +
-            "m:10.0pt;\r\n\tmargin-left:.5in;\r\n\tmso-add-space:auto;\r\n\tline-height:115%;\r\n\tmso-pa" +
-            "gination:widow-orphan;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",\"sans-serif\";" +
-            "\r\n\tmso-ascii-font-family:Calibri;\r\n\tmso-ascii-theme-font:minor-latin;\r\n\tmso-fare" +
-            "ast-font-family:Calibri;\r\n\tmso-fareast-theme-font:minor-latin;\r\n\tmso-hansi-font-" +
-            "family:Calibri;\r\n\tmso-hansi-theme-font:minor-latin;\r\n\tmso-bidi-font-family:Arial" +
-            ";\r\n\tmso-bidi-theme-font:minor-bidi;}\r\nspan.BalloonTextChar\r\n\t{mso-style-name:\"Ba" +
-            "lloon Text Char\";\r\n\tmso-style-noshow:yes;\r\n\tmso-style-priority:99;\r\n\tmso-style-u" +
-            "nhide:no;\r\n\tmso-style-locked:yes;\r\n\tmso-style-link:\"Balloon Text\";\r\n\tmso-ansi-fo" +
-            "nt-size:8.0pt;\r\n\tmso-bidi-font-size:8.0pt;\r\n\tfont-family:\"Tahoma\",\"sans-serif\";\r" +
-            "\n\tmso-ascii-font-family:Tahoma;\r\n\tmso-hansi-font-family:Tahoma;\r\n\tmso-bidi-font-" +
-            "family:Tahoma;}\r\nspan.SpellE\r\n\t{mso-style-name:\"\";\r\n\tmso-spl-e:yes;}\r\n.MsoChpDef" +
-            "ault\r\n\t{mso-style-type:export-only;\r\n\tmso-default-props:yes;\r\n\tfont-family:\"Cali" +
-            "bri\",\"sans-serif\";\r\n\tmso-ascii-font-family:Calibri;\r\n\tmso-ascii-theme-font:minor" +
-            "-latin;\r\n\tmso-fareast-font-family:Calibri;\r\n\tmso-fareast-theme-font:minor-latin;" +
-            "\r\n\tmso-hansi-font-family:Calibri;\r\n\tmso-hansi-theme-font:minor-latin;\r\n\tmso-bidi" +
-            "-font-family:Arial;\r\n\tmso-bidi-theme-font:minor-bidi;}\r\n.MsoPapDefault\r\n\t{mso-st" +
-            "yle-type:export-only;\r\n\tmargin-bottom:10.0pt;\r\n\tline-height:115%;}\r\n@page WordSe" +
-            "ction1\r\n\t{size:8.5in 11.0in;\r\n\tmargin:.5in .5in .5in .5in;\r\n\tmso-header-margin:." +
-            "5in;\r\n\tmso-footer-margin:.5in;\r\n\tmso-paper-source:0;}\r\ndiv.WordSection1\r\n\t{page:" +
-            "WordSection1;}\r\n /* List Definitions */\r\n @list l0\r\n\t{mso-list-id:39793431;\r\n\tms" +
-            "o-list-template-ids:1613264498;}\r\n@list l1\r\n\t{mso-list-id:1038354090;\r\n\tmso-list" +
-            "-type:hybrid;\r\n\tmso-list-template-ids:-1292199276 67698689 67698691 67698693 676" +
-            "98689 67698691 67698693 67698689 67698691 67698693;}\r\n@list l1:level1\r\n\t{mso-lev" +
-            "el-number-format:bullet;\r\n\tmso-level-text:\\F0B7;\r\n\tmso-level-tab-stop:none;\r\n\tms" +
-            "o-level-number-position:left;\r\n\ttext-indent:-.25in;\r\n\tfont-family:Symbol;}\r\n@lis" +
-            "t l1:level2\r\n\t{mso-level-number-format:bullet;\r\n\tmso-level-text:o;\r\n\tmso-level-t" +
-            "ab-stop:none;\r\n\tmso-level-number-position:left;\r\n\ttext-indent:-.25in;\r\n\tfont-fam" +
-            "ily:\"Courier New\";}\r\n@list l1:level3\r\n\t{mso-level-number-format:bullet;\r\n\tmso-le" +
-            "vel-text:\\F0A7;\r\n\tmso-level-tab-stop:none;\r\n\tmso-level-number-position:left;\r\n\tt" +
-            "ext-indent:-.25in;\r\n\tfont-family:Wingdings;}\r\n@list l1:level4\r\n\t{mso-level-numbe" +
-            "r-format:bullet;\r\n\tmso-level-text:\\F0B7;\r\n\tmso-level-tab-stop:none;\r\n\tmso-level-" +
-            "number-position:left;\r\n\ttext-indent:-.25in;\r\n\tfont-family:Symbol;}\r\n@list l1:lev" +
-            "el5\r\n\t{mso-level-number-format:bullet;\r\n\tmso-level-text:o;\r\n\tmso-level-tab-stop:" +
-            "none;\r\n\tmso-level-number-position:left;\r\n\ttext-indent:-.25in;\r\n\tfont-family:\"Cou" +
-            "rier New\";}\r\n@list l1:level6\r\n\t{mso-level-number-format:bullet;\r\n\tmso-level-text" +
-            ":\\F0A7;\r\n\tmso-level-tab-stop:none;\r\n\tmso-level-number-position:left;\r\n\ttext-inde" +
-            "nt:-.25in;\r\n\tfont-family:Wingdings;}\r\n@list l1:level7\r\n\t{mso-level-number-format" +
-            ":bullet;\r\n\tmso-level-text:\\F0B7;\r\n\tmso-level-tab-stop:none;\r\n\tmso-level-number-p" +
-            "osition:left;\r\n\ttext-indent:-.25in;\r\n\tfont-family:Symbol;}\r\n@list l1:level8\r\n\t{m" +
-            "so-level-number-format:bullet;\r\n\tmso-level-text:o;\r\n\tmso-level-tab-stop:none;\r\n\t" +
-            "mso-level-number-position:left;\r\n\ttext-indent:-.25in;\r\n\tfont-family:\"Courier New" +
-            "\";}\r\n@list l1:level9\r\n\t{mso-level-number-format:bullet;\r\n\tmso-level-text:\\F0A7;\r" +
-            "\n\tmso-level-tab-stop:none;\r\n\tmso-level-number-position:left;\r\n\ttext-indent:-.25i" +
-            "n;\r\n\tfont-family:Wingdings;}\r\n@list l2\r\n\t{mso-list-id:1398161780;\r\n\tmso-list-typ" +
-            "e:hybrid;\r\n\tmso-list-template-ids:262434926 67698703 67698713 67698715 67698703 " +
-            "67698713 67698715 67698703 67698713 67698715;}\r\n@list l2:level1\r\n\t{mso-level-tab" +
-            "-stop:none;\r\n\tmso-level-number-position:left;\r\n\ttext-indent:-.25in;}\r\nol\r\n\t{marg" +
-            "in-bottom:0in;}\r\nul\r\n\t{margin-bottom:0in;}\r\n-->\r\n</style>\r\n<!--[if gte mso 10]>\r" +
-            "\n<style>\r\n /* Style Definitions */\r\n table.MsoNormalTable\r\n\t{mso-style-name:\"Tab" +
-            "le Normal\";\r\n\tmso-tstyle-rowband-size:0;\r\n\tmso-tstyle-colband-size:0;\r\n\tmso-styl" +
-            "e-noshow:yes;\r\n\tmso-style-priority:99;\r\n\tmso-style-parent:\"\";\r\n\tmso-padding-alt:" +
-            "0in 5.4pt 0in 5.4pt;\r\n\tmso-para-margin-top:0in;\r\n\tmso-para-margin-right:0in;\r\n\tm" +
-            "so-para-margin-bottom:10.0pt;\r\n\tmso-para-margin-left:0in;\r\n\tline-height:115%;\r\n\t" +
-            "mso-pagination:widow-orphan;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",\"sans-s" +
-            "erif\";\r\n\tmso-ascii-font-family:Calibri;\r\n\tmso-ascii-theme-font:minor-latin;\r\n\tms" +
-            "o-hansi-font-family:Calibri;\r\n\tmso-hansi-theme-font:minor-latin;}\r\ntable.MsoTabl" +
-            "eGrid\r\n\t{mso-style-name:\"Table Grid\";\r\n\tmso-tstyle-rowband-size:0;\r\n\tmso-tstyle-" +
-            "colband-size:0;\r\n\tmso-style-priority:59;\r\n\tmso-style-unhide:no;\r\n\tborder:solid w" +
-            "indowtext 1.0pt;\r\n\tmso-border-alt:solid windowtext .5pt;\r\n\tmso-padding-alt:0in 5" +
-            ".4pt 0in 5.4pt;\r\n\tmso-border-insideh:.5pt solid windowtext;\r\n\tmso-border-insidev" +
-            ":.5pt solid windowtext;\r\n\tmso-para-margin:0in;\r\n\tmso-para-margin-bottom:.0001pt;" +
-            "\r\n\tmso-pagination:widow-orphan;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",\"san" +
-            "s-serif\";\r\n\tmso-ascii-font-family:Calibri;\r\n\tmso-ascii-theme-font:minor-latin;\r\n" +
-            "\tmso-hansi-font-family:Calibri;\r\n\tmso-hansi-theme-font:minor-latin;}\r\n</style>\r\n" +
-            "<![endif]--><!--[if gte mso 9]><xml>\r\n <o:shapedefaults v:ext=\"edit\" spidmax=\"10" +
-            "26\"/>\r\n</xml><![endif]--><!--[if gte mso 9]><xml>\r\n <o:shapelayout v:ext=\"edit\">" +
-            "\r\n  <o:idmap v:ext=\"edit\" data=\"1\"/>\r\n </o:shapelayout></xml><![endif]-->\r\n</hea" +
-            "d>\r\n\r\n<body lang=EN-US link=blue vlink=purple style=\'tab-interval:.5in\'>\r\n\r\n<div" +
-            " class=WordSection1>\r\n\r\n<p class=MsoNormal style=\'margin-bottom:0in;margin-botto" +
-            "m:.0001pt;text-align:\r\njustify;line-height:normal;mso-layout-grid-align:none;tex" +
-            "t-autospace:none\'><b><i><u><span\r\nstyle=\'font-size:17.0pt;font-family:\"Times New" +
-            " Roman\",\"serif\";mso-ascii-theme-font:\r\nmajor-bidi;mso-hansi-theme-font:major-bid" +
-            "i;mso-bidi-theme-font:major-bidi\'>INSPECT</span></u></i></b><i><span\r\nstyle=\'fon" +
-            "t-size:17.0pt;font-family:\"Times New Roman\",\"serif\";mso-ascii-theme-font:\r\nmajor" +
-            "-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi\'>: <span\r\nc" +
-            "lass=SpellE><b><u>IN</u></b>elastic</span> <b><u>S</u></b>eismic <b><u>P</u></b>" +
-            "erformance\r\n<b><u>E</u></b>valuation <b><u>C</u></b>omputational <b><u>T</u></b>" +
-            "ool<o:p></o:p></span></i></p>\r\n\r\n<p class=MsoNormal style=\'margin-bottom:0in;mar" +
-            "gin-bottom:.0001pt;text-align:\r\njustify;line-height:normal;mso-layout-grid-align" +
-            ":none;text-autospace:none\'><span\r\nstyle=\'font-size:12.0pt;font-family:\"Times New" +
-            " Roman\",\"serif\";mso-ascii-theme-font:\r\nmajor-bidi;mso-hansi-theme-font:major-bid" +
-            "i;mso-bidi-theme-font:major-bidi\'><o:p>&nbsp;</o:p></span></p>\r\n\r\n<p class=MsoNo" +
-            "rmal style=\'margin-bottom:0in;margin-bottom:.0001pt;line-height:\r\nnormal\'><span " +
-            "style=\'font-size:12.0pt;font-family:\"Times New Roman\",\"serif\";\r\nmso-ascii-theme-" +
-            "font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:\r\nmajor-bidi" +
-            "\'>Copyright © 2016, Dr. Mohammad AlHamaydeh et al. <o:p></o:p></span></p>\r\n\r\n<p " +
-            "class=MsoNormal style=\'margin-bottom:0in;margin-bottom:.0001pt;line-height:\r\nnor" +
-            "mal\'><span style=\'font-size:12.0pt;font-family:\"Times New Roman\",\"serif\";\r\nmso-a" +
-            "scii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:\r" +
-            "\nmajor-bidi\'>All rights reserved.<o:p></o:p></span></p>\r\n\r\n<p class=MsoNormal st" +
-            "yle=\'margin-top:10.0pt;margin-right:0in;margin-bottom:\r\n0in;margin-left:0in;marg" +
-            "in-bottom:.0001pt;text-align:justify\'><span\r\nstyle=\'font-size:12.0pt;line-height" +
-            ":115%;font-family:\"Times New Roman\",\"serif\";\r\nmso-ascii-theme-font:major-bidi;ms" +
-            "o-hansi-theme-font:major-bidi;mso-bidi-theme-font:\r\nmajor-bidi\'>The INSPECT prog" +
-            "ram is designed to simplify the structural modeling\r\nprocess utilizing the IDARC" +
-            "-2D program. The creation of the input text file for\r\nIDARC-2D is facilitated by" +
-            " the graphical-user interface in INSPECT. Several\r\nfeatures provided by INSPECT " +
-            "simplify and automate the creation and pre-processing\r\nof input to the IDARC-2D " +
-            "program, which would otherwise have to be performed\r\nmanually by the user. INSPE" +
-            "CT would be found useful and appealing to\r\nstructural/earthquake engineering stu" +
-            "dents, researchers and practitioners\r\nalike. The freely distributed executable v" +
-            "ersion of the IDRAC-2D program [which\r\nis made free and publically available at " +
-            "this webpage: [</span><a\r\nhref=\"http://civil.eng.buffalo.edu/idarc2d50/\"><span s" +
-            "tyle=\'font-size:12.0pt;\r\nline-height:115%;font-family:\"Times New Roman\",\"serif\";" +
-            "mso-ascii-theme-font:\r\nmajor-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme" +
-            "-font:major-bidi\'>http://civil.eng.buffalo.edu/idarc2d50/</span></a><span\r\nstyle" +
-            "=\'font-size:12.0pt;line-height:115%;font-family:\"Times New Roman\",\"serif\";\r\nmso-" +
-            "ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:" +
-            "\r\nmajor-bidi\'>], is included within the INSPECT package. The redistribution of t" +
-            "he\r\nIDRAC-2D executable is done with the explicit written permission from the ID" +
-            "ARC-2D\r\ncopyright holders, represented by Prof. Andrei M. Reinhorn of the Univer" +
-            "sity at\r\nBuffalo-SUNY. <o:p></o:p></span></p>\r\n\r\n<p class=MsoNormal style=\'mso-m" +
-            "argin-top-alt:auto;mso-margin-bottom-alt:auto;\r\nline-height:normal\'><span style=" +
-            "\'font-size:12.0pt;font-family:\"Times New Roman\",\"serif\";\r\nmso-fareast-font-famil" +
-            "y:\"Times New Roman\"\'>Redistribution and use in source and\r\nbinary forms, with or" +
-            " without modification, are permitted provided that the\r\nfollowing conditions are" +
-            " met:<o:p></o:p></span></p>\r\n\r\n<ol start=1 type=1>\r\n <li class=MsoNormal style=\'" +
-            "mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;\r\n     line-height:normal;mso" +
-            "-list:l0 level1 lfo3;tab-stops:list .5in\'><span\r\n     style=\'font-size:12.0pt;fo" +
-            "nt-family:\"Times New Roman\",\"serif\";mso-fareast-font-family:\r\n     \"Times New Ro" +
-            "man\"\'>Redistributions of source code must retain the above\r\n     copyright notic" +
-            "e, this list of conditions and the following disclaimers. Redistributions\r\n     " +
-            "in binary form must reproduce the above copyright notice, this list of\r\n     con" +
-            "ditions and the following disclaimers in the documentation and/or other\r\n     ma" +
-            "terials provided with the distribution.<o:p></o:p></span></li>\r\n</ol>\r\n\r\n<p clas" +
-            "s=MsoListParagraphCxSpFirst style=\'mso-margin-top-alt:auto;mso-margin-bottom-alt" +
-            ":\r\nauto;mso-add-space:auto;text-indent:-.25in;line-height:normal;mso-list:l0 lev" +
-            "el1 lfo3;\r\ntab-stops:list .5in\'><![if !supportLists]><span style=\'font-size:12.0" +
-            "pt;\r\nfont-family:\"Times New Roman\",\"serif\";mso-fareast-font-family:\"Times New Ro" +
-            "man\"\'><span\r\nstyle=\'mso-list:Ignore\'>2.<span style=\'font:7.0pt \"Times New Roman\"" +
-            "\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span></span><![endif]><span dir=LTR><" +
-            "/span><span style=\'font-size:\r\n12.0pt;font-family:\"Times New Roman\",\"serif\";mso-" +
-            "fareast-font-family:\"Times New Roman\"\'>All\r\npublications resulting from the use " +
-            "of the INSPECT software in any of its forms\r\nmust make reference to the INSPECT " +
-            "package and its developers. Proper reference\r\nfor the INSPECT software package a" +
-            "nd its developers is: <o:p></o:p></span></p>\r\n\r\n<p class=MsoListParagraphCxSpMid" +
-            "dle style=\'mso-margin-top-alt:auto;mso-margin-bottom-alt:\r\nauto;mso-add-space:au" +
-            "to;line-height:normal\'><span style=\'font-size:12.0pt;\r\nfont-family:\"Times New Ro" +
-            "man\",\"serif\";mso-fareast-font-family:\"Times New Roman\"\'>AlHamaydeh,\r\nM., Najib, " +
-            "M., Alawnah, S. (2016). “INSPECT: A Graphical User Interface Software\r\nPackage f" +
-            "or IDARC-2D.” <i>SoftwareX Journal</i>, Vol. XX, Issue YY. doi:10.1016/Z.softx.2" +
-            "016.ZZ.ZZZ.<o:p></o:p></span></p>\r\n\r\n<p class=MsoListParagraphCxSpLast style=\'ms" +
-            "o-margin-top-alt:auto;mso-margin-bottom-alt:\r\nauto;mso-add-space:auto;text-inden" +
-            "t:-.25in;line-height:normal;mso-list:l0 level1 lfo3;\r\ntab-stops:list .5in\'><![if" +
-            " !supportLists]><span style=\'font-size:12.0pt;\r\nfont-family:\"Times New Roman\",\"s" +
-            "erif\";mso-fareast-font-family:\"Times New Roman\"\'><span\r\nstyle=\'mso-list:Ignore\'>" +
-            "3.<span style=\'font:7.0pt \"Times New Roman\"\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</s" +
-            "pan></span></span><![endif]><span dir=LTR></span><span style=\'font-size:\r\n12.0pt" +
-            ";font-family:\"Times New Roman\",\"serif\";mso-fareast-font-family:\"Times New Roman\"" +
-            "\'>Neither\r\nthe name of the copyright holder nor the names of its contributors ma" +
-            "y be used\r\nto endorse or promote products derived from this software without spe" +
-            "cific\r\nprior written permission.&nbsp;<o:p></o:p></span></p>\r\n\r\n<p class=MsoNorm" +
-            "al style=\'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;\r\ntext-align:justif" +
-            "y;line-height:normal\'><span style=\'font-size:12.0pt;\r\nfont-family:\"Times New Rom" +
-            "an\",\"serif\";mso-fareast-font-family:\"Times New Roman\"\'>THIS\r\nSOFTWARE IS PROVIDE" +
-            "D BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS &quot;AS\r\nIS&quot; AND ANY EXPRESS O" +
-            "R IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO,\r\nTHE IMPLIED WARRANTIES OF " +
-            "MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE\r\nARE DISCLAIMED. IN NO EVEN" +
-            "T SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE\r\nLIABLE FOR ANY DIRECT, INDIRECT" +
-            ", INCIDENTAL, SPECIAL, EXEMPLARY, OR\r\nCONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT " +
-            "LIMITED TO, PROCUREMENT OF SUBSTITUTE\r\nGOODS OR SERVICES; LOSS OF USE, DATA, OR " +
-            "PROFITS; OR BUSINESS INTERRUPTION)\r\nHOWEVER CAUSED AND ON ANY THEORY OF LIABILIT" +
-            "Y, WHETHER IN CONTRACT, STRICT\r\nLIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHE" +
-            "RWISE) ARISING IN ANY WAY OUT\r\nOF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF T" +
-            "HE POSSIBILITY OF SUCH DAMAGE.<o:p></o:p></span></p>\r\n\r\n<p class=MsoNormal style" +
-            "=\'margin-bottom:0in;margin-bottom:.0001pt;text-align:\r\njustify;line-height:norma" +
-            "l;mso-layout-grid-align:none;text-autospace:none\'><span\r\nstyle=\'font-size:12.0pt" +
-            ";font-family:\"Times New Roman\",\"serif\";mso-ascii-theme-font:\r\nmajor-bidi;mso-han" +
-            "si-theme-font:major-bidi;mso-bidi-theme-font:major-bidi\'><o:p>&nbsp;</o:p></span" +
-            "></p>\r\n\r\n<p class=MsoNormal align=center style=\'text-align:center;mso-layout-gri" +
-            "d-align:\r\nnone;text-autospace:none\'><b><u><span style=\'font-size:12.0pt;line-hei" +
-            "ght:115%;\r\nfont-family:\"Times New Roman\",\"serif\";mso-ascii-theme-font:major-bidi" +
-            ";\r\nmso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi\'>SUPPLEMENTAL " +
-            "DISCLAIMER<o:p></o:p></span></u></b></p>\r\n\r\n<p class=MsoNormal style=\'margin-bot" +
-            "tom:0in;margin-bottom:.0001pt;text-align:\r\njustify;line-height:normal;mso-layout" +
-            "-grid-align:none;text-autospace:none\'><span\r\nstyle=\'font-size:12.0pt;font-family" +
-            ":\"Times New Roman\",\"serif\";mso-ascii-theme-font:\r\nmajor-bidi;mso-hansi-theme-fon" +
-            "t:major-bidi;mso-bidi-theme-font:major-bidi\'>The\r\ncomputational tool [program] <" +
-            "b><i>“<u>INSPECT</u>”</i></b>, herein referred to\r\nas the program. The ownership" +
-            " of the program remains with the developers. Whether\r\nsubroutines of the program" +
-            " or the whole program is incorporated into the\r\nexecutable binary code or the so" +
-            "urce code of any other program(s), any\r\nprogram(s) utilizing or containing INSPE" +
-            "CT or any of its subroutines shall\r\nexplicitly acknowledge acceptance of the sub" +
-            "sequent DISCLAIMER OF WARRANTY.\r\nFurthermore, such incorporation of the INSPECT " +
-            "program does not create any\r\nbusiness relationship between the developers of INS" +
-            "PECT, nor their\r\ninstitutions, and the developed or derived program’s user(s). T" +
-            "he names of\r\nINSPECT program, its authors and their institutions, shall not be u" +
-            "sed in the\r\npromotion of any such developed or derived products without prior ex" +
-            "plicit\r\nwritten permission from the authors of INSPECT. <o:p></o:p></span></p>\r\n" +
-            "\r\n<p class=MsoNormal style=\'margin-bottom:0in;margin-bottom:.0001pt;text-align:\r" +
-            "\njustify;line-height:normal;mso-layout-grid-align:none;text-autospace:none\'><spa" +
-            "n\r\nstyle=\'font-size:12.0pt;font-family:\"Times New Roman\",\"serif\";mso-ascii-theme" +
-            "-font:\r\nmajor-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bid" +
-            "i\'><o:p>&nbsp;</o:p></span></p>\r\n\r\n<p class=MsoNormal style=\'margin-bottom:0in;m" +
-            "argin-bottom:.0001pt;text-align:\r\njustify;line-height:normal;mso-layout-grid-ali" +
-            "gn:none;text-autospace:none\'><span\r\nstyle=\'font-size:12.0pt;font-family:\"Times N" +
-            "ew Roman\",\"serif\";mso-ascii-theme-font:\r\nmajor-bidi;mso-hansi-theme-font:major-b" +
-            "idi;mso-bidi-theme-font:major-bidi\'>The\r\ncreators of the INSPECT program spared " +
-            "no effort in verifying it; significant\r\ntime and effort have been put towards it" +
-            "s development and testing. However, the\r\nauthors do not accept any responsibilit" +
-            "y for inadequate use of the program or\r\nany analysis results produced by it. The" +
-            " ultimate responsibility of verifying\r\nanalysis results rests solely upon the us" +
-            "er. The user should have adequate\r\nknowledge of structural dynamics, nonlinear a" +
-            "nalysis and modeling, earthquake\r\nengineering as well performance-based seismic " +
-            "design and evaluation techniques.\r\nThe subsequent DISCLAIMER OF WARRANTY applies" +
-            " to the user of the program\r\nINSPECT and all of its associated subroutines.<o:p>" +
-            "</o:p></span></p>\r\n\r\n<p class=MsoNormal style=\'margin-bottom:0in;margin-bottom:." +
-            "0001pt;text-align:\r\njustify;line-height:normal;mso-layout-grid-align:none;text-a" +
-            "utospace:none\'><span\r\nstyle=\'font-size:12.0pt;font-family:\"Times New Roman\",\"ser" +
-            "if\";mso-ascii-theme-font:\r\nmajor-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-t" +
-            "heme-font:major-bidi\'><o:p>&nbsp;</o:p></span></p>\r\n\r\n<p class=MsoNormal style=\'" +
-            "margin-bottom:0in;margin-bottom:.0001pt;text-align:\r\njustify;line-height:normal;" +
-            "mso-layout-grid-align:none;text-autospace:none\'><span\r\nstyle=\'font-size:12.0pt;f" +
-            "ont-family:\"Times New Roman\",\"serif\";mso-ascii-theme-font:\r\nmajor-bidi;mso-hansi" +
-            "-theme-font:major-bidi;mso-bidi-theme-font:major-bidi\'><o:p>&nbsp;</o:p></span><" +
-            "/p>\r\n\r\n<p class=MsoNormal align=center style=\'text-align:center;mso-layout-grid-" +
-            "align:\r\nnone;text-autospace:none\'><b><u><span style=\'font-size:12.0pt;line-heigh" +
-            "t:115%;\r\nfont-family:\"Times New Roman\",\"serif\";mso-ascii-theme-font:major-bidi;\r" +
-            "\nmso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi\'>DISCLAIMER OF\r\n" +
-            "WARRANTY<o:p></o:p></span></u></b></p>\r\n\r\n<p class=MsoNormal style=\'text-align:j" +
-            "ustify\'><span style=\'font-size:12.0pt;\r\nline-height:115%;font-family:\"Times New " +
-            "Roman\",\"serif\";mso-ascii-theme-font:\r\nmajor-bidi;mso-hansi-theme-font:major-bidi" +
-            ";mso-bidi-theme-font:major-bidi\'>The\r\nINSPECT program, all its data files, and a" +
-            "ll its associated subroutines, are\r\nprovided on an <b><i>“<u>AS-IS</u>”</i></b> " +
-            "basis without any warranty. The\r\nauthors and their institutions disclaim any and" +
-            " all liability for direct or\r\nindirect damages resulting from use of the program" +
-            ". The authors and their\r\ninstitutions make no warranties, explicitly or implicit" +
-            "ly, that the program is\r\nerror-free or is consistent with any particular set of " +
-            "standards, or that the\r\nprogram will meet any particular application requirement" +
-            "s. The program should\r\nnot be relied on for solving any engineering problems whe" +
-            "re an erroneous\r\nsolution may cause potential personal injury or property loss. " +
-            "If the program\r\nis used in such a manner, it should be explicitly understood tha" +
-            "t it is done at\r\nthe user’s discretion and own risk.<span style=\'color:red\'><o:p" +
-            "></o:p></span></span></p>\r\n\r\n<p class=MsoNormal align=center style=\'margin-botto" +
-            "m:0in;margin-bottom:.0001pt;\r\ntext-align:center\'><b><span style=\'font-size:6.0pt" +
-            ";line-height:115%;font-family:\r\n\"Times New Roman\",\"serif\";mso-ascii-theme-font:m" +
-            "ajor-bidi;mso-hansi-theme-font:\r\nmajor-bidi;mso-bidi-theme-font:major-bidi\'><o:p" +
-            ">&nbsp;</o:p></span></b></p>\r\n\r\n<p class=MsoNormal align=center style=\'margin-bo" +
-            "ttom:0in;margin-bottom:.0001pt;\r\ntext-align:center\'><b><span style=\'font-size:6." +
-            "0pt;line-height:115%;font-family:\r\n\"Times New Roman\",\"serif\";mso-ascii-theme-fon" +
-            "t:major-bidi;mso-hansi-theme-font:\r\nmajor-bidi;mso-bidi-theme-font:major-bidi\'><" +
-            "o:p>&nbsp;</o:p></span></b></p>\r\n\r\n<p class=MsoNormal align=center style=\'margin" +
-            "-bottom:0in;margin-bottom:.0001pt;\r\ntext-align:center\'><b><span style=\'font-size" +
-            ":6.0pt;line-height:115%;font-family:\r\n\"Times New Roman\",\"serif\";mso-ascii-theme-" +
-            "font:major-bidi;mso-hansi-theme-font:\r\nmajor-bidi;mso-bidi-theme-font:major-bidi" +
-            "\'><o:p>&nbsp;</o:p></span></b></p>\r\n\r\n<p class=MsoNormal align=center style=\'mar" +
-            "gin-bottom:0in;margin-bottom:.0001pt;\r\ntext-align:center\'><b><span style=\'font-s" +
-            "ize:6.0pt;line-height:115%;font-family:\r\n\"Times New Roman\",\"serif\";mso-ascii-the" +
-            "me-font:major-bidi;mso-hansi-theme-font:\r\nmajor-bidi;mso-bidi-theme-font:major-b" +
-            "idi\'><o:p>&nbsp;</o:p></span></b></p>\r\n\r\n<p class=MsoNormal align=center style=\'" +
-            "margin-bottom:0in;margin-bottom:.0001pt;\r\ntext-align:center\'><b><span style=\'fon" +
-            "t-size:12.0pt;line-height:115%;\r\nfont-family:\"Times New Roman\",\"serif\";mso-ascii" +
-            "-theme-font:major-bidi;\r\nmso-hansi-theme-font:major-bidi;mso-bidi-theme-font:maj" +
-            "or-bidi\'>INSPECT<o:p></o:p></span></b></p>\r\n\r\n<p class=MsoNormal align=center st" +
-            "yle=\'margin-bottom:0in;margin-bottom:.0001pt;\r\ntext-align:center\'><b><span style" +
-            "=\'font-size:12.0pt;line-height:115%;\r\nfont-family:\"Times New Roman\",\"serif\";mso-" +
-            "ascii-theme-font:major-bidi;\r\nmso-hansi-theme-font:major-bidi;mso-bidi-theme-fon" +
-            "t:major-bidi\'>Version 1.0 2016<o:p></o:p></span></b></p>\r\n\r\n<p class=MsoNormal a" +
+        [global::System.Configuration.DefaultSettingValueAttribute("<html>\r\n\r\n<head>\r\n<meta http-equiv=Content-Type content=\"text/html; charset=windo" +
+            "ws-1252\">\r\n<meta name=Generator content=\"Microsoft Word 14 (filtered)\">\r\n<style>" +
+            "\r\n<!--\r\n /* Font Definitions */\r\n @font-face\r\n\t{font-family:Wingdings;\r\n\tpanose-" +
+            "1:5 0 0 0 0 0 0 0 0 0;}\r\n@font-face\r\n\t{font-family:Wingdings;\r\n\tpanose-1:5 0 0 0" +
+            " 0 0 0 0 0 0;}\r\n@font-face\r\n\t{font-family:Calibri;\r\n\tpanose-1:2 15 5 2 2 2 4 3 2" +
+            " 4;}\r\n@font-face\r\n\t{font-family:Tahoma;\r\n\tpanose-1:2 11 6 4 3 5 4 4 2 4;}\r\n /* S" +
+            "tyle Definitions */\r\n p.MsoNormal, li.MsoNormal, div.MsoNormal\r\n\t{margin-top:0in" +
+            ";\r\n\tmargin-right:0in;\r\n\tmargin-bottom:10.0pt;\r\n\tmargin-left:0in;\r\n\tline-height:1" +
+            "15%;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",\"sans-serif\";}\r\na:link, span.Ms" +
+            "oHyperlink\r\n\t{color:blue;\r\n\ttext-decoration:underline;}\r\na:visited, span.MsoHype" +
+            "rlinkFollowed\r\n\t{color:purple;\r\n\ttext-decoration:underline;}\r\np\r\n\t{margin-right:" +
+            "0in;\r\n\tmargin-left:0in;\r\n\tfont-size:12.0pt;\r\n\tfont-family:\"Times New Roman\",\"ser" +
+            "if\";}\r\np.MsoAcetate, li.MsoAcetate, div.MsoAcetate\r\n\t{mso-style-link:\"Balloon Te" +
+            "xt Char\";\r\n\tmargin:0in;\r\n\tmargin-bottom:.0001pt;\r\n\tfont-size:8.0pt;\r\n\tfont-famil" +
+            "y:\"Tahoma\",\"sans-serif\";}\r\np.MsoListParagraph, li.MsoListParagraph, div.MsoListP" +
+            "aragraph\r\n\t{margin-top:0in;\r\n\tmargin-right:0in;\r\n\tmargin-bottom:10.0pt;\r\n\tmargin" +
+            "-left:.5in;\r\n\tline-height:115%;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",\"san" +
+            "s-serif\";}\r\np.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoLi" +
+            "stParagraphCxSpFirst\r\n\t{margin-top:0in;\r\n\tmargin-right:0in;\r\n\tmargin-bottom:0in;" +
+            "\r\n\tmargin-left:.5in;\r\n\tmargin-bottom:.0001pt;\r\n\tline-height:115%;\r\n\tfont-size:11" +
+            ".0pt;\r\n\tfont-family:\"Calibri\",\"sans-serif\";}\r\np.MsoListParagraphCxSpMiddle, li.M" +
+            "soListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle\r\n\t{margin-top:0in;\r\n\tm" +
+            "argin-right:0in;\r\n\tmargin-bottom:0in;\r\n\tmargin-left:.5in;\r\n\tmargin-bottom:.0001p" +
+            "t;\r\n\tline-height:115%;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",\"sans-serif\";" +
+            "}\r\np.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraph" +
+            "CxSpLast\r\n\t{margin-top:0in;\r\n\tmargin-right:0in;\r\n\tmargin-bottom:10.0pt;\r\n\tmargin" +
+            "-left:.5in;\r\n\tline-height:115%;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",\"san" +
+            "s-serif\";}\r\nspan.BalloonTextChar\r\n\t{mso-style-name:\"Balloon Text Char\";\r\n\tmso-st" +
+            "yle-link:\"Balloon Text\";\r\n\tfont-family:\"Tahoma\",\"sans-serif\";}\r\n.MsoChpDefault\r\n" +
+            "\t{font-family:\"Calibri\",\"sans-serif\";}\r\n.MsoPapDefault\r\n\t{margin-bottom:10.0pt;\r" +
+            "\n\tline-height:115%;}\r\n@page WordSection1\r\n\t{size:8.5in 11.0in;\r\n\tmargin:.5in .5i" +
+            "n .5in .5in;}\r\ndiv.WordSection1\r\n\t{page:WordSection1;}\r\n /* List Definitions */\r" +
+            "\n ol\r\n\t{margin-bottom:0in;}\r\nul\r\n\t{margin-bottom:0in;}\r\n-->\r\n</style>\r\n\r\n</head>" +
+            "\r\n\r\n<body lang=EN-US link=blue vlink=purple>\r\n\r\n<div class=WordSection1>\r\n\r\n<p c" +
+            "lass=MsoNormal style=\'margin-bottom:0in;margin-bottom:.0001pt;text-align:\r\njusti" +
+            "fy;line-height:normal;text-autospace:none\'><b><i><u><span\r\nstyle=\'font-size:17.0" +
+            "pt;font-family:\"Times New Roman\",\"serif\"\'>INSPECT</span></u></i></b><i><span\r\nst" +
+            "yle=\'font-size:17.0pt;font-family:\"Times New Roman\",\"serif\"\'>: <b><u>IN</u></b>e" +
+            "lastic\r\n<b><u>S</u></b>eismic <b><u>P</u></b>erformance <b><u>E</u></b>valuation" +
+            " <b><u>C</u></b>omputational\r\n<b><u>T</u></b>ool</span></i></p>\r\n\r\n<p class=MsoN" +
+            "ormal style=\'margin-bottom:0in;margin-bottom:.0001pt;text-align:\r\njustify;line-h" +
+            "eight:normal;text-autospace:none\'><span style=\'font-size:12.0pt;\r\nfont-family:\"T" +
+            "imes New Roman\",\"serif\"\'>&nbsp;</span></p>\r\n\r\n<p class=MsoNormal style=\'margin-b" +
+            "ottom:0in;margin-bottom:.0001pt;line-height:\r\nnormal\'><span style=\'font-size:12." +
+            "0pt;font-family:\"Times New Roman\",\"serif\"\'>Copyright\r\n© 2016, Dr. Mohammad AlHam" +
+            "aydeh et al. </span></p>\r\n\r\n<p class=MsoNormal style=\'margin-bottom:0in;margin-b" +
+            "ottom:.0001pt;line-height:\r\nnormal\'><span style=\'font-size:12.0pt;font-family:\"T" +
+            "imes New Roman\",\"serif\"\'>All\r\nrights reserved.</span></p>\r\n\r\n<p class=MsoNormal " +
+            "style=\'margin-top:10.0pt;margin-right:0in;margin-bottom:\r\n0in;margin-left:0in;ma" +
+            "rgin-bottom:.0001pt;text-align:justify\'><span\r\nstyle=\'font-size:12.0pt;line-heig" +
+            "ht:115%;font-family:\"Times New Roman\",\"serif\"\'>The\r\nINSPECT program is designed " +
+            "to simplify the structural modeling process utilizing\r\nthe IDARC-2D program. The" +
+            " creation of the input text file for IDARC-2D is\r\nfacilitated by the graphical-u" +
+            "ser interface in INSPECT. Several features\r\nprovided by INSPECT simplify and aut" +
+            "omate the creation and pre-processing of input\r\nto the IDARC-2D program, which w" +
+            "ould otherwise have to be performed manually by\r\nthe user. INSPECT would be foun" +
+            "d useful and appealing to structural/earthquake\r\nengineering students, researche" +
+            "rs and practitioners alike. The freely\r\ndistributed executable version of the ID" +
+            "RAC-2D program [which is made free and publically\r\navailable at this webpage: [<" +
+            "/span><a\r\nhref=\"http://civil.eng.buffalo.edu/idarc2d50/\"><span style=\'font-size:" +
+            "12.0pt;\r\nline-height:115%;font-family:\"Times New Roman\",\"serif\"\'>http://civil.en" +
+            "g.buffalo.edu/idarc2d50/</span></a><span\r\nstyle=\'font-size:12.0pt;line-height:11" +
+            "5%;font-family:\"Times New Roman\",\"serif\"\'>],\r\nis included within the INSPECT pac" +
+            "kage. The redistribution of the IDRAC-2D executable\r\nis done with the explicit w" +
+            "ritten permission from the IDARC-2D copyright\r\nholders, represented by Prof. And" +
+            "rei M. Reinhorn of the University at\r\nBuffalo-SUNY. </span></p>\r\n\r\n<p class=MsoN" +
+            "ormal style=\'line-height:normal\'><span style=\'font-size:12.0pt;\r\nfont-family:\"Ti" +
+            "mes New Roman\",\"serif\"\'>Redistribution and use in source and\r\nbinary forms, with" +
+            " or without modification, are permitted provided that the\r\nfollowing conditions " +
+            "are met:</span></p>\r\n\r\n<p class=MsoListParagraphCxSpFirst style=\'text-indent:-.2" +
+            "5in\'><span\r\nstyle=\'font-size:12.0pt;line-height:115%;font-family:\"Times New Roma" +
+            "n\",\"serif\"\'>1.<span\r\nstyle=\'font:7.0pt \"Times New Roman\"\'>&nbsp;&nbsp;&nbsp;&nbs" +
+            "p;&nbsp; </span></span><span\r\ndir=LTR></span><span style=\'font-size:12.0pt;line-" +
+            "height:115%;font-family:\"Times New Roman\",\"serif\"\'>Redistributions\r\nof source co" +
+            "de must retain the above copyright notice, this list of conditions\r\nand the foll" +
+            "owing disclaimers. Redistributions in binary form must reproduce\r\nthe above copy" +
+            "right notice, this list of conditions and the following\r\ndisclaimers in the docu" +
+            "mentation and/or other materials provided with the\r\ndistribution.</span></p>\r\n\r\n" +
+            "<p class=MsoListParagraphCxSpMiddle style=\'text-indent:-.25in\'><span\r\nstyle=\'fon" +
+            "t-size:12.0pt;line-height:115%;font-family:\"Times New Roman\",\"serif\"\'>2.<span\r\ns" +
+            "tyle=\'font:7.0pt \"Times New Roman\"\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span" +
+            "><span\r\ndir=LTR></span><span style=\'font-size:12.0pt;line-height:115%;font-famil" +
+            "y:\"Times New Roman\",\"serif\"\'>All\r\npublications resulting from the use of the INS" +
+            "PECT software in any of its forms\r\nmust make reference to the INSPECT package an" +
+            "d its developers. Proper reference\r\nfor the INSPECT software package and its dev" +
+            "elopers is: <br>\r\nAlHamaydeh, M., Najib, M., Alawnah, S. (2016). “INSPECT: A Gra" +
+            "phical User\r\nInterface Software Package for IDARC-2D.” SoftwareX, DOI:\r\n10.1016/" +
+            "j.softx.2016.10.004</span></p>\r\n\r\n<p class=MsoListParagraphCxSpLast style=\'text-" +
+            "indent:-.25in\'><span\r\nstyle=\'font-size:12.0pt;line-height:115%;font-family:\"Time" +
+            "s New Roman\",\"serif\"\'>3.<span\r\nstyle=\'font:7.0pt \"Times New Roman\"\'>&nbsp;&nbsp;" +
+            "&nbsp;&nbsp;&nbsp; </span></span><span\r\ndir=LTR></span><span style=\'font-size:12" +
+            ".0pt;line-height:115%;font-family:\"Times New Roman\",\"serif\"\'>Neither\r\nthe name o" +
+            "f the copyright holder nor the names of its contributors may be used\r\nto endorse" +
+            " or promote products derived from this software without specific\r\nprior written " +
+            "permission.&nbsp;</span></p>\r\n\r\n<p class=MsoNormal style=\'text-align:justify;lin" +
+            "e-height:normal\'><span\r\nstyle=\'font-size:12.0pt;font-family:\"Times New Roman\",\"s" +
+            "erif\"\'>THIS SOFTWARE IS\r\nPROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS &quo" +
+            "t;AS IS&quot; AND ANY\r\nEXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED" +
+            " TO, THE IMPLIED\r\nWARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PUR" +
+            "POSE ARE\r\nDISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE " +
+            "LIABLE\r\nFOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTI" +
+            "AL\r\nDAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR\r\n" +
+            "SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER\r\nCAUS" +
+            "ED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,\r\nOR TO" +
+            "RT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE\r\nOF THI" +
+            "S SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</span></p>\r\n\r\n<p " +
+            "class=MsoNormal style=\'margin-bottom:0in;margin-bottom:.0001pt;text-align:\r\njust" +
+            "ify;line-height:normal;text-autospace:none\'><span style=\'font-size:12.0pt;\r\nfont" +
+            "-family:\"Times New Roman\",\"serif\"\'>&nbsp;</span></p>\r\n\r\n<p class=MsoNormal align" +
+            "=center style=\'text-align:center;text-autospace:none\'><b><u><span\r\nstyle=\'font-s" +
+            "ize:12.0pt;line-height:115%;font-family:\"Times New Roman\",\"serif\"\'>SUPPLEMENTAL\r" +
+            "\nDISCLAIMER</span></u></b></p>\r\n\r\n<p class=MsoNormal style=\'margin-bottom:0in;ma" +
+            "rgin-bottom:.0001pt;text-align:\r\njustify;line-height:normal;text-autospace:none\'" +
+            "><span style=\'font-size:12.0pt;\r\nfont-family:\"Times New Roman\",\"serif\"\'>The comp" +
+            "utational tool [program] <b><i>“<u>INSPECT</u>”</i></b>,\r\nherein referred to as " +
+            "the program. The ownership of the program remains with\r\nthe developers. Whether " +
+            "subroutines of the program or the whole program is\r\nincorporated into the execut" +
+            "able binary code or the source code of any other\r\nprogram(s), any program(s) uti" +
+            "lizing or containing INSPECT or any of its\r\nsubroutines shall explicitly acknowl" +
+            "edge acceptance of the subsequent\r\nDISCLAIMER OF WARRANTY. Furthermore, such inc" +
+            "orporation of the INSPECT program\r\ndoes not create any business relationship bet" +
+            "ween the developers of INSPECT, nor\r\ntheir institutions, and the developed or de" +
+            "rived program’s user(s). The names\r\nof INSPECT program, its authors and their in" +
+            "stitutions, shall not be used in\r\nthe promotion of any such developed or derived" +
+            " products without prior explicit\r\nwritten permission from the authors of INSPECT" +
+            ". </span></p>\r\n\r\n<p class=MsoNormal style=\'margin-bottom:0in;margin-bottom:.0001" +
+            "pt;text-align:\r\njustify;line-height:normal;text-autospace:none\'><span style=\'fon" +
+            "t-size:12.0pt;\r\nfont-family:\"Times New Roman\",\"serif\"\'>&nbsp;</span></p>\r\n\r\n<p c" +
+            "lass=MsoNormal style=\'margin-bottom:0in;margin-bottom:.0001pt;text-align:\r\njusti" +
+            "fy;line-height:normal;text-autospace:none\'><span style=\'font-size:12.0pt;\r\nfont-" +
+            "family:\"Times New Roman\",\"serif\"\'>The creators of the INSPECT program\r\nspared no" +
+            " effort in verifying it; significant time and effort have been put\r\ntowards its " +
+            "development and testing. However, the authors do not accept any\r\nresponsibility " +
+            "for inadequate use of the program or any analysis results\r\nproduced by it. The u" +
+            "ltimate responsibility of verifying analysis results rests\r\nsolely upon the user" +
+            ". The user should have adequate knowledge of structural\r\ndynamics, nonlinear ana" +
+            "lysis and modeling, earthquake engineering as well\r\nperformance-based seismic de" +
+            "sign and evaluation techniques. The subsequent\r\nDISCLAIMER OF WARRANTY applies t" +
+            "o the user of the program INSPECT and all of\r\nits associated subroutines.</span>" +
+            "</p>\r\n\r\n<p class=MsoNormal style=\'margin-bottom:0in;margin-bottom:.0001pt;text-a" +
+            "lign:\r\njustify;line-height:normal;text-autospace:none\'><span style=\'font-size:12" +
+            ".0pt;\r\nfont-family:\"Times New Roman\",\"serif\"\'>&nbsp;</span></p>\r\n\r\n<p class=MsoN" +
+            "ormal style=\'margin-bottom:0in;margin-bottom:.0001pt;text-align:\r\njustify;line-h" +
+            "eight:normal;text-autospace:none\'><span style=\'font-size:12.0pt;\r\nfont-family:\"T" +
+            "imes New Roman\",\"serif\"\'>&nbsp;</span></p>\r\n\r\n<p class=MsoNormal align=center st" +
+            "yle=\'text-align:center;text-autospace:none\'><b><u><span\r\nstyle=\'font-size:12.0pt" +
+            ";line-height:115%;font-family:\"Times New Roman\",\"serif\"\'>DISCLAIMER\r\nOF WARRANTY" +
+            "</span></u></b></p>\r\n\r\n<p class=MsoNormal style=\'text-align:justify\'><span style" +
+            "=\'font-size:12.0pt;\r\nline-height:115%;font-family:\"Times New Roman\",\"serif\"\'>The" +
+            " INSPECT program,\r\nall its data files, and all its associated subroutines, are p" +
+            "rovided on an <b><i>“<u>AS-IS</u>”</i></b>\r\nbasis without any warranty. The auth" +
+            "ors and their institutions disclaim any and\r\nall liability for direct or indirec" +
+            "t damages resulting from use of the program.\r\nThe authors and their institutions" +
+            " make no warranties, explicitly or\r\nimplicitly, that the program is error-free o" +
+            "r is consistent with any particular\r\nset of standards, or that the program will " +
+            "meet any particular application\r\nrequirements. The program should not be relied " +
+            "on for solving any engineering\r\nproblems where an erroneous solution may cause p" +
+            "otential personal injury or\r\nproperty loss. If the program is used in such a man" +
+            "ner, it should be explicitly\r\nunderstood that it is done at the user’s discretio" +
+            "n and own risk.</span></p>\r\n\r\n<p class=MsoNormal align=center style=\'margin-bott" +
+            "om:0in;margin-bottom:.0001pt;\r\ntext-align:center\'><b><span style=\'font-size:6.0p" +
+            "t;line-height:115%;font-family:\r\n\"Times New Roman\",\"serif\"\'>&nbsp;</span></b></p" +
+            ">\r\n\r\n<p class=MsoNormal align=center style=\'margin-bottom:0in;margin-bottom:.000" +
+            "1pt;\r\ntext-align:center\'><b><span style=\'font-size:6.0pt;line-height:115%;font-f" +
+            "amily:\r\n\"Times New Roman\",\"serif\"\'>&nbsp;</span></b></p>\r\n\r\n<p class=MsoNormal a" +
             "lign=center style=\'margin-bottom:0in;margin-bottom:.0001pt;\r\ntext-align:center\'>" +
-            "<span style=\'font-size:12.0pt;line-height:115%;font-family:\r\n\"Times New Roman\",\"" +
-            "serif\";mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:\r\nmajor-bidi;mso-bid" +
-            "i-theme-font:major-bidi\'>Kindly report problems and bugs to:<o:p></o:p></span></" +
-            "p>\r\n\r\n<p class=MsoNormal align=center style=\'margin-bottom:0in;margin-bottom:.00" +
-            "01pt;\r\ntext-align:center\'><a href=\"mailto:malhamaydeh@aus.edu\"><span style=\'font" +
-            "-size:\r\n12.0pt;line-height:115%;font-family:\"Times New Roman\",\"serif\";mso-ascii-" +
-            "theme-font:\r\nmajor-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:majo" +
-            "r-bidi\'>malhamaydeh@aus.edu</span></a><span\r\nclass=MsoHyperlink><span style=\'fon" +
-            "t-size:12.0pt;line-height:115%;font-family:\r\n\"Times New Roman\",\"serif\";mso-ascii" +
-            "-theme-font:major-bidi;mso-hansi-theme-font:\r\nmajor-bidi;mso-bidi-theme-font:maj" +
-            "or-bidi;text-decoration:none;text-underline:\r\nnone\'> </span></span><span style=\'" +
-            "font-size:12.0pt;line-height:115%;font-family:\r\n\"Times New Roman\",\"serif\";mso-as" +
-            "cii-theme-font:major-bidi;mso-hansi-theme-font:\r\nmajor-bidi;mso-bidi-theme-font:" +
-            "major-bidi\'><o:p></o:p></span></p>\r\n\r\n<p class=MsoNormal align=center style=\'mar" +
-            "gin-bottom:0in;margin-bottom:.0001pt;\r\ntext-align:center;line-height:normal\'><sp" +
-            "an style=\'font-size:12.0pt;font-family:\r\n\"Times New Roman\",\"serif\";mso-ascii-the" +
-            "me-font:major-bidi;mso-hansi-theme-font:\r\nmajor-bidi;mso-bidi-theme-font:major-b" +
-            "idi\'>Copyright © 2016 All rights\r\nreserved.<o:p></o:p></span></p>\r\n\r\n<p class=Ms" +
-            "oListParagraph style=\'margin-bottom:0in;margin-bottom:.0001pt;\r\nmso-add-space:au" +
-            "to\'><span style=\'font-size:12.0pt;line-height:115%;font-family:\r\n\"Times New Roma" +
-            "n\",\"serif\";mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:\r\nmajor-bidi;mso" +
-            "-bidi-theme-font:major-bidi\'><o:p>&nbsp;</o:p></span></p>\r\n\r\n</div>\r\n\r\n</body>\r\n" +
-            "\r\n</html>\r\n")]
+            "<b><span style=\'font-size:6.0pt;line-height:115%;font-family:\r\n\"Times New Roman\"" +
+            ",\"serif\"\'>&nbsp;</span></b></p>\r\n\r\n<p class=MsoNormal align=center style=\'margin" +
+            "-bottom:0in;margin-bottom:.0001pt;\r\ntext-align:center\'><b><span style=\'font-size" +
+            ":6.0pt;line-height:115%;font-family:\r\n\"Times New Roman\",\"serif\"\'>&nbsp;</span></" +
+            "b></p>\r\n\r\n<p class=MsoNormal align=center style=\'margin-bottom:0in;margin-bottom" +
+            ":.0001pt;\r\ntext-align:center\'><b><span style=\'font-size:12.0pt;line-height:115%;" +
+            "\r\nfont-family:\"Times New Roman\",\"serif\"\'>INSPECT</span></b></p>\r\n\r\n<p class=MsoN" +
+            "ormal align=center style=\'margin-bottom:0in;margin-bottom:.0001pt;\r\ntext-align:c" +
+            "enter\'><b><span style=\'font-size:12.0pt;line-height:115%;\r\nfont-family:\"Times Ne" +
+            "w Roman\",\"serif\"\'>Version 1.0 2016</span></b></p>\r\n\r\n<p class=MsoNormal align=ce" +
+            "nter style=\'margin-bottom:0in;margin-bottom:.0001pt;\r\ntext-align:center\'><span s" +
+            "tyle=\'font-size:12.0pt;line-height:115%;font-family:\r\n\"Times New Roman\",\"serif\"\'" +
+            ">Kindly report problems and bugs to:</span></p>\r\n\r\n<p class=MsoNormal align=cent" +
+            "er style=\'margin-bottom:0in;margin-bottom:.0001pt;\r\ntext-align:center\'><a href=\"" +
+            "mailto:malhamaydeh@aus.edu\"><span style=\'font-size:\r\n12.0pt;line-height:115%;fon" +
+            "t-family:\"Times New Roman\",\"serif\"\'>malhamaydeh@aus.edu</span></a><span\r\nclass=M" +
+            "soHyperlink><span style=\'font-size:12.0pt;line-height:115%;font-family:\r\n\"Times " +
+            "New Roman\",\"serif\";text-decoration:none\'> </span></span></p>\r\n\r\n<p class=MsoNorm" +
+            "al align=center style=\'margin-bottom:0in;margin-bottom:.0001pt;\r\ntext-align:cent" +
+            "er;line-height:normal\'><span style=\'font-size:12.0pt;font-family:\r\n\"Times New Ro" +
+            "man\",\"serif\"\'>Copyright © 2016 All rights reserved.</span></p>\r\n\r\n<p class=MsoLi" +
+            "stParagraph style=\'margin-bottom:0in;margin-bottom:.0001pt\'><span\r\nstyle=\'font-s" +
+            "ize:12.0pt;line-height:115%;font-family:\"Times New Roman\",\"serif\"\'>&nbsp;</span>" +
+            "</p>\r\n\r\n</div>\r\n\r\n</body>\r\n\r\n</html>\r\n")]
         public string inspect_lic_text {
             get {
                 return ((string)(this["inspect_lic_text"]));
@@ -2143,611 +1309,196 @@ namespace SampleWizard.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("<html xmlns:v=\"urn:schemas-microsoft-com:vml\"\r\nxmlns:o=\"urn:schemas-microsoft-com" +
-            ":office:office\"\r\nxmlns:w=\"urn:schemas-microsoft-com:office:word\"\r\nxmlns:m=\"http:" +
-            "//schemas.microsoft.com/office/2004/12/omml\"\r\nxmlns=\"http://www.w3.org/TR/REC-ht" +
-            "ml40\">\r\n\r\n<head>\r\n<meta http-equiv=Content-Type content=\"text/html; charset=wind" +
-            "ows-1252\">\r\n<meta name=ProgId content=Word.Document>\r\n<meta name=Generator conte" +
-            "nt=\"Microsoft Word 14\">\r\n<meta name=Originator content=\"Microsoft Word 14\">\r\n<li" +
-            "nk rel=File-List href=\"ack_files/filelist.xml\">\r\n<!--[if gte mso 9]><xml>\r\n <o:D" +
-            "ocumentProperties>\r\n  <o:Author>m_najeeb</o:Author>\r\n  <o:LastAuthor>Profile</o:" +
-            "LastAuthor>\r\n  <o:Revision>2</o:Revision>\r\n  <o:TotalTime>0</o:TotalTime>\r\n  <o:" +
-            "Created>2016-05-02T16:26:00Z</o:Created>\r\n  <o:LastSaved>2016-05-02T16:26:00Z</o" +
-            ":LastSaved>\r\n  <o:Pages>1</o:Pages>\r\n  <o:Words>247</o:Words>\r\n  <o:Characters>1" +
-            "408</o:Characters>\r\n  <o:Lines>11</o:Lines>\r\n  <o:Paragraphs>3</o:Paragraphs>\r\n " +
-            " <o:CharactersWithSpaces>1652</o:CharactersWithSpaces>\r\n  <o:Version>14.00</o:Ve" +
-            "rsion>\r\n </o:DocumentProperties>\r\n <o:OfficeDocumentSettings>\r\n  <o:AllowPNG/>\r\n" +
-            " </o:OfficeDocumentSettings>\r\n</xml><![endif]-->\r\n<link rel=dataStoreItem href=\"" +
-            "ack_files/item0001.xml\"\r\ntarget=\"ack_files/props002.xml\">\r\n<link rel=themeData h" +
-            "ref=\"ack_files/themedata.thmx\">\r\n<link rel=colorSchemeMapping href=\"ack_files/co" +
-            "lorschememapping.xml\">\r\n<!--[if gte mso 9]><xml>\r\n <w:WordDocument>\r\n  <w:Spelli" +
-            "ngState>Clean</w:SpellingState>\r\n  <w:GrammarState>Clean</w:GrammarState>\r\n  <w:" +
-            "TrackMoves>false</w:TrackMoves>\r\n  <w:TrackFormatting/>\r\n  <w:PunctuationKerning" +
-            "/>\r\n  <w:ValidateAgainstSchemas/>\r\n  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInval" +
-            "id>\r\n  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>\r\n  <w:AlwaysShowPlaceh" +
-            "olderText>false</w:AlwaysShowPlaceholderText>\r\n  <w:DoNotPromoteQF/>\r\n  <w:LidTh" +
-            "emeOther>EN-US</w:LidThemeOther>\r\n  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>\r\n " +
-            " <w:LidThemeComplexScript>AR-SA</w:LidThemeComplexScript>\r\n  <w:Compatibility>\r\n" +
-            "   <w:BreakWrappedTables/>\r\n   <w:SnapToGridInCell/>\r\n   <w:WrapTextWithPunct/>\r" +
-            "\n   <w:UseAsianBreakRules/>\r\n   <w:DontGrowAutofit/>\r\n   <w:SplitPgBreakAndParaM" +
-            "ark/>\r\n   <w:EnableOpenTypeKerning/>\r\n   <w:DontFlipMirrorIndents/>\r\n   <w:Overr" +
-            "ideTableStyleHps/>\r\n  </w:Compatibility>\r\n  <m:mathPr>\r\n   <m:mathFont m:val=\"Ca" +
-            "mbria Math\"/>\r\n   <m:brkBin m:val=\"before\"/>\r\n   <m:brkBinSub m:val=\"&#45;-\"/>\r\n" +
-            "   <m:smallFrac m:val=\"off\"/>\r\n   <m:dispDef/>\r\n   <m:lMargin m:val=\"0\"/>\r\n   <m" +
-            ":rMargin m:val=\"0\"/>\r\n   <m:defJc m:val=\"centerGroup\"/>\r\n   <m:wrapIndent m:val=" +
-            "\"1440\"/>\r\n   <m:intLim m:val=\"subSup\"/>\r\n   <m:naryLim m:val=\"undOvr\"/>\r\n  </m:m" +
-            "athPr></w:WordDocument>\r\n</xml><![endif]--><!--[if gte mso 9]><xml>\r\n <w:LatentS" +
-            "tyles DefLockedState=\"false\" DefUnhideWhenUsed=\"true\"\r\n  DefSemiHidden=\"true\" De" +
-            "fQFormat=\"false\" DefPriority=\"99\"\r\n  LatentStyleCount=\"267\">\r\n  <w:LsdException " +
-            "Locked=\"false\" Priority=\"0\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QForma" +
-            "t=\"true\" Name=\"Normal\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"9\" SemiHidd" +
-            "en=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"heading 1\"/>\r\n  <w:Ls" +
-            "dException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 2\"/>\r\n  <w:L" +
-            "sdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 3\"/>\r\n  <w:" +
-            "LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 4\"/>\r\n  <w" +
-            ":LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 5\"/>\r\n  <" +
-            "w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 6\"/>\r\n  " +
-            "<w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 7\"/>\r\n " +
-            " <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 8\"/>\r\n" +
-            "  <w:LsdException Locked=\"false\" Priority=\"9\" QFormat=\"true\" Name=\"heading 9\"/>\r" +
-            "\n  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 1\"/>\r\n  <w:LsdExceptio" +
-            "n Locked=\"false\" Priority=\"39\" Name=\"toc 2\"/>\r\n  <w:LsdException Locked=\"false\" " +
-            "Priority=\"39\" Name=\"toc 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" Nam" +
-            "e=\"toc 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 5\"/>\r\n  <w" +
-            ":LsdException Locked=\"false\" Priority=\"39\" Name=\"toc 6\"/>\r\n  <w:LsdException Loc" +
-            "ked=\"false\" Priority=\"39\" Name=\"toc 7\"/>\r\n  <w:LsdException Locked=\"false\" Prior" +
-            "ity=\"39\" Name=\"toc 8\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" Name=\"to" +
-            "c 9\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"35\" QFormat=\"true\" Name=\"capt" +
-            "ion\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"10\" SemiHidden=\"false\"\r\n   Un" +
-            "hideWhenUsed=\"false\" QFormat=\"true\" Name=\"Title\"/>\r\n  <w:LsdException Locked=\"fa" +
-            "lse\" Priority=\"1\" Name=\"Default Paragraph Font\"/>\r\n  <w:LsdException Locked=\"fal" +
-            "se\" Priority=\"11\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" N" +
-            "ame=\"Subtitle\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"22\" SemiHidden=\"fal" +
-            "se\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Strong\"/>\r\n  <w:LsdException" +
-            " Locked=\"false\" Priority=\"20\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFor" +
-            "mat=\"true\" Name=\"Emphasis\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"59\" Sem" +
-            "iHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Table Grid\"/>\r\n  <w:LsdExceptio" +
-            "n Locked=\"false\" UnhideWhenUsed=\"false\" Name=\"Placeholder Text\"/>\r\n  <w:LsdExcep" +
-            "tion Locked=\"false\" Priority=\"1\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Q" +
-            "Format=\"true\" Name=\"No Spacing\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"60" +
-            "\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light Shading\"/>\r\n  <w:Lsd" +
-            "Exception Locked=\"false\" Priority=\"61\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"fa" +
-            "lse\" Name=\"Light List\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"62\" SemiHid" +
-            "den=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light Grid\"/>\r\n  <w:LsdException Lo" +
-            "cked=\"false\" Priority=\"63\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"M" +
-            "edium Shading 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"f" +
-            "alse\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 2\"/>\r\n  <w:LsdException Lo" +
-            "cked=\"false\" Priority=\"65\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"M" +
-            "edium List 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" SemiHidden=\"fals" +
-            "e\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 2\"/>\r\n  <w:LsdException Locked=\"" +
-            "false\" Priority=\"67\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium " +
-            "Grid 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" SemiHidden=\"false\"\r\n  " +
-            " UnhideWhenUsed=\"false\" Name=\"Medium Grid 2\"/>\r\n  <w:LsdException Locked=\"false\"" +
-            " Priority=\"69\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 3" +
-            "\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"70\" SemiHidden=\"false\"\r\n   Unhid" +
-            "eWhenUsed=\"false\" Name=\"Dark List\"/>\r\n  <w:LsdException Locked=\"false\" Priority=" +
-            "\"71\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Shading\"/>\r\n  " +
-            "<w:LsdException Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"\r\n   UnhideWhenUs" +
-            "ed=\"false\" Name=\"Colorful List\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73" +
-            "\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Grid\"/>\r\n  <w:Lsd" +
-            "Exception Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"fa" +
-            "lse\" Name=\"Light Shading Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=" +
-            "\"61\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light List Accent 1\"/>\r" +
-            "\n  <w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"\r\n   UnhideWhe" +
-            "nUsed=\"false\" Name=\"Light Grid Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Pri" +
-            "ority=\"63\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 1 " +
-            "Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"false\"\r\n" +
-            "   UnhideWhenUsed=\"false\" Name=\"Medium Shading 2 Accent 1\"/>\r\n  <w:LsdException " +
-            "Locked=\"false\" Priority=\"65\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=" +
-            "\"Medium List 1 Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" UnhideWhenUsed=\"fal" +
-            "se\" Name=\"Revision\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"34\" SemiHidden" +
-            "=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"List Paragraph\"/>\r\n  <w" +
-            ":LsdException Locked=\"false\" Priority=\"29\" SemiHidden=\"false\"\r\n   UnhideWhenUsed" +
-            "=\"false\" QFormat=\"true\" Name=\"Quote\"/>\r\n  <w:LsdException Locked=\"false\" Priorit" +
-            "y=\"30\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Intens" +
-            "e Quote\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" SemiHidden=\"false\"\r\n " +
-            "  UnhideWhenUsed=\"false\" Name=\"Medium List 2 Accent 1\"/>\r\n  <w:LsdException Lock" +
-            "ed=\"false\" Priority=\"67\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Med" +
-            "ium Grid 1 Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" SemiHidde" +
-            "n=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 2 Accent 1\"/>\r\n  <w:LsdEx" +
-            "ception Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"fals" +
-            "e\" Name=\"Medium Grid 3 Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"7" +
-            "0\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Dark List Accent 1\"/>\r\n  " +
-            "<w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"\r\n   UnhideWhenUs" +
-            "ed=\"false\" Name=\"Colorful Shading Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" " +
-            "Priority=\"72\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful List " +
-            "Accent 1\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" SemiHidden=\"false\"\r\n" +
-            "   UnhideWhenUsed=\"false\" Name=\"Colorful Grid Accent 1\"/>\r\n  <w:LsdException Loc" +
-            "ked=\"false\" Priority=\"60\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Li" +
-            "ght Shading Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" SemiHidd" +
-            "en=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light List Accent 2\"/>\r\n  <w:LsdExce" +
-            "ption Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\"" +
-            " Name=\"Light Grid Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\" Se" +
-            "miHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 1 Accent 2\"/>\r\n" +
-            "  <w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"false\"\r\n   UnhideWhen" +
-            "Used=\"false\" Name=\"Medium Shading 2 Accent 2\"/>\r\n  <w:LsdException Locked=\"false" +
-            "\" Priority=\"65\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List " +
-            "1 Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" SemiHidden=\"false\"" +
-            "\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 2 Accent 2\"/>\r\n  <w:LsdException L" +
-            "ocked=\"false\" Priority=\"67\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"" +
-            "Medium Grid 1 Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" SemiHi" +
-            "dden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 2 Accent 2\"/>\r\n  <w:Ls" +
-            "dException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"f" +
-            "alse\" Name=\"Medium Grid 3 Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority" +
-            "=\"70\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Dark List Accent 2\"/>\r" +
-            "\n  <w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"\r\n   UnhideWhe" +
-            "nUsed=\"false\" Name=\"Colorful Shading Accent 2\"/>\r\n  <w:LsdException Locked=\"fals" +
-            "e\" Priority=\"72\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Li" +
-            "st Accent 2\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" SemiHidden=\"false" +
-            "\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Grid Accent 2\"/>\r\n  <w:LsdException " +
-            "Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=" +
-            "\"Light Shading Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" SemiH" +
-            "idden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light List Accent 3\"/>\r\n  <w:LsdE" +
-            "xception Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"fal" +
-            "se\" Name=\"Light Grid Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"63\"" +
-            " SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 1 Accent 3\"/" +
-            ">\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"false\"\r\n   UnhideW" +
-            "henUsed=\"false\" Name=\"Medium Shading 2 Accent 3\"/>\r\n  <w:LsdException Locked=\"fa" +
-            "lse\" Priority=\"65\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Li" +
-            "st 1 Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" SemiHidden=\"fal" +
-            "se\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 2 Accent 3\"/>\r\n  <w:LsdExceptio" +
-            "n Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Nam" +
-            "e=\"Medium Grid 1 Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" Sem" +
-            "iHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 2 Accent 3\"/>\r\n  <w" +
-            ":LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"\r\n   UnhideWhenUsed" +
-            "=\"false\" Name=\"Medium Grid 3 Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Prior" +
-            "ity=\"70\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Dark List Accent 3\"" +
-            "/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"\r\n   Unhide" +
-            "WhenUsed=\"false\" Name=\"Colorful Shading Accent 3\"/>\r\n  <w:LsdException Locked=\"f" +
-            "alse\" Priority=\"72\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful" +
-            " List Accent 3\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" SemiHidden=\"fa" +
-            "lse\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Grid Accent 3\"/>\r\n  <w:LsdExcepti" +
-            "on Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Na" +
-            "me=\"Light Shading Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\" Se" +
-            "miHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light List Accent 4\"/>\r\n  <w:L" +
-            "sdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"" +
-            "false\" Name=\"Light Grid Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"" +
-            "63\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 1 Accent " +
-            "4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"false\"\r\n   Unhi" +
-            "deWhenUsed=\"false\" Name=\"Medium Shading 2 Accent 4\"/>\r\n  <w:LsdException Locked=" +
-            "\"false\" Priority=\"65\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium" +
-            " List 1 Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" SemiHidden=\"" +
-            "false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 2 Accent 4\"/>\r\n  <w:LsdExcep" +
-            "tion Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" " +
-            "Name=\"Medium Grid 1 Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"68\" " +
-            "SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 2 Accent 4\"/>\r\n " +
-            " <w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"\r\n   UnhideWhenU" +
-            "sed=\"false\" Name=\"Medium Grid 3 Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Pr" +
-            "iority=\"70\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Dark List Accent" +
-            " 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"\r\n   Unh" +
-            "ideWhenUsed=\"false\" Name=\"Colorful Shading Accent 4\"/>\r\n  <w:LsdException Locked" +
-            "=\"false\" Priority=\"72\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Color" +
-            "ful List Accent 4\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" SemiHidden=" +
-            "\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Grid Accent 4\"/>\r\n  <w:LsdExce" +
-            "ption Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\"" +
-            " Name=\"Light Shading Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"61\"" +
-            " SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light List Accent 5\"/>\r\n  <" +
-            "w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"\r\n   UnhideWhenUse" +
-            "d=\"false\" Name=\"Light Grid Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priorit" +
-            "y=\"63\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 1 Acce" +
-            "nt 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"false\"\r\n   U" +
-            "nhideWhenUsed=\"false\" Name=\"Medium Shading 2 Accent 5\"/>\r\n  <w:LsdException Lock" +
-            "ed=\"false\" Priority=\"65\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Med" +
-            "ium List 1 Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" SemiHidde" +
-            "n=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 2 Accent 5\"/>\r\n  <w:LsdEx" +
-            "ception Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"fals" +
-            "e\" Name=\"Medium Grid 1 Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"6" +
-            "8\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 2 Accent 5\"/>" +
-            "\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"\r\n   UnhideWh" +
-            "enUsed=\"false\" Name=\"Medium Grid 3 Accent 5\"/>\r\n  <w:LsdException Locked=\"false\"" +
-            " Priority=\"70\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Dark List Acc" +
-            "ent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"\r\n   " +
-            "UnhideWhenUsed=\"false\" Name=\"Colorful Shading Accent 5\"/>\r\n  <w:LsdException Loc" +
-            "ked=\"false\" Priority=\"72\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Co" +
-            "lorful List Accent 5\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" SemiHidd" +
-            "en=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Grid Accent 5\"/>\r\n  <w:LsdE" +
-            "xception Locked=\"false\" Priority=\"60\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"fal" +
-            "se\" Name=\"Light Shading Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"" +
-            "61\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Light List Accent 6\"/>\r\n" +
-            "  <w:LsdException Locked=\"false\" Priority=\"62\" SemiHidden=\"false\"\r\n   UnhideWhen" +
-            "Used=\"false\" Name=\"Light Grid Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Prio" +
-            "rity=\"63\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Shading 1 A" +
-            "ccent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"64\" SemiHidden=\"false\"\r\n " +
-            "  UnhideWhenUsed=\"false\" Name=\"Medium Shading 2 Accent 6\"/>\r\n  <w:LsdException L" +
-            "ocked=\"false\" Priority=\"65\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"" +
-            "Medium List 1 Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"66\" SemiHi" +
-            "dden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium List 2 Accent 6\"/>\r\n  <w:Ls" +
-            "dException Locked=\"false\" Priority=\"67\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"f" +
-            "alse\" Name=\"Medium Grid 1 Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority" +
-            "=\"68\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Medium Grid 2 Accent 6" +
-            "\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"69\" SemiHidden=\"false\"\r\n   Unhid" +
-            "eWhenUsed=\"false\" Name=\"Medium Grid 3 Accent 6\"/>\r\n  <w:LsdException Locked=\"fal" +
-            "se\" Priority=\"70\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Dark List " +
-            "Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"71\" SemiHidden=\"false\"\r\n" +
-            "   UnhideWhenUsed=\"false\" Name=\"Colorful Shading Accent 6\"/>\r\n  <w:LsdException " +
-            "Locked=\"false\" Priority=\"72\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=" +
-            "\"Colorful List Accent 6\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"73\" SemiH" +
-            "idden=\"false\"\r\n   UnhideWhenUsed=\"false\" Name=\"Colorful Grid Accent 6\"/>\r\n  <w:L" +
-            "sdException Locked=\"false\" Priority=\"19\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"" +
-            "false\" QFormat=\"true\" Name=\"Subtle Emphasis\"/>\r\n  <w:LsdException Locked=\"false\"" +
-            " Priority=\"21\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name" +
-            "=\"Intense Emphasis\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"31\" SemiHidden" +
-            "=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true\" Name=\"Subtle Reference\"/>\r\n  " +
-            "<w:LsdException Locked=\"false\" Priority=\"32\" SemiHidden=\"false\"\r\n   UnhideWhenUs" +
-            "ed=\"false\" QFormat=\"true\" Name=\"Intense Reference\"/>\r\n  <w:LsdException Locked=\"" +
-            "false\" Priority=\"33\" SemiHidden=\"false\"\r\n   UnhideWhenUsed=\"false\" QFormat=\"true" +
-            "\" Name=\"Book Title\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"37\" Name=\"Bibl" +
-            "iography\"/>\r\n  <w:LsdException Locked=\"false\" Priority=\"39\" QFormat=\"true\" Name=" +
-            "\"TOC Heading\"/>\r\n </w:LatentStyles>\r\n</xml><![endif]-->\r\n<style>\r\n<!--\r\n /* Font" +
-            " Definitions */\r\n @font-face\r\n\t{font-family:Wingdings;\r\n\tpanose-1:5 0 0 0 0 0 0 " +
-            "0 0 0;\r\n\tmso-font-charset:2;\r\n\tmso-generic-font-family:auto;\r\n\tmso-font-pitch:va" +
-            "riable;\r\n\tmso-font-signature:0 268435456 0 0 -2147483648 0;}\r\n@font-face\r\n\t{font" +
-            "-family:Wingdings;\r\n\tpanose-1:5 0 0 0 0 0 0 0 0 0;\r\n\tmso-font-charset:2;\r\n\tmso-g" +
-            "eneric-font-family:auto;\r\n\tmso-font-pitch:variable;\r\n\tmso-font-signature:0 26843" +
-            "5456 0 0 -2147483648 0;}\r\n@font-face\r\n\t{font-family:Calibri;\r\n\tpanose-1:2 15 5 2" +
-            " 2 2 4 3 2 4;\r\n\tmso-font-charset:0;\r\n\tmso-generic-font-family:swiss;\r\n\tmso-font-" +
-            "pitch:variable;\r\n\tmso-font-signature:-536870145 1073786111 1 0 415 0;}\r\n@font-fa" +
-            "ce\r\n\t{font-family:Tahoma;\r\n\tpanose-1:2 11 6 4 3 5 4 4 2 4;\r\n\tmso-font-charset:0;" +
-            "\r\n\tmso-generic-font-family:swiss;\r\n\tmso-font-pitch:variable;\r\n\tmso-font-signatur" +
-            "e:-520081665 -1073717157 41 0 66047 0;}\r\n /* Style Definitions */\r\n p.MsoNormal," +
-            " li.MsoNormal, div.MsoNormal\r\n\t{mso-style-unhide:no;\r\n\tmso-style-qformat:yes;\r\n\t" +
-            "mso-style-parent:\"\";\r\n\tmargin-top:0in;\r\n\tmargin-right:0in;\r\n\tmargin-bottom:10.0p" +
-            "t;\r\n\tmargin-left:0in;\r\n\tline-height:115%;\r\n\tmso-pagination:widow-orphan;\r\n\tfont-" +
-            "size:11.0pt;\r\n\tfont-family:\"Calibri\",\"sans-serif\";\r\n\tmso-ascii-font-family:Calib" +
-            "ri;\r\n\tmso-ascii-theme-font:minor-latin;\r\n\tmso-fareast-font-family:Calibri;\r\n\tmso" +
-            "-fareast-theme-font:minor-latin;\r\n\tmso-hansi-font-family:Calibri;\r\n\tmso-hansi-th" +
-            "eme-font:minor-latin;\r\n\tmso-bidi-font-family:Arial;\r\n\tmso-bidi-theme-font:minor-" +
-            "bidi;}\r\na:link, span.MsoHyperlink\r\n\t{mso-style-priority:99;\r\n\tcolor:blue;\r\n\tmso-" +
-            "themecolor:hyperlink;\r\n\ttext-decoration:underline;\r\n\ttext-underline:single;}\r\na:" +
-            "visited, span.MsoHyperlinkFollowed\r\n\t{mso-style-noshow:yes;\r\n\tmso-style-priority" +
-            ":99;\r\n\tcolor:purple;\r\n\tmso-themecolor:followedhyperlink;\r\n\ttext-decoration:under" +
-            "line;\r\n\ttext-underline:single;}\r\np\r\n\t{mso-style-noshow:yes;\r\n\tmso-style-priority" +
-            ":99;\r\n\tmso-margin-top-alt:auto;\r\n\tmargin-right:0in;\r\n\tmso-margin-bottom-alt:auto" +
-            ";\r\n\tmargin-left:0in;\r\n\tmso-pagination:widow-orphan;\r\n\tfont-size:12.0pt;\r\n\tfont-f" +
-            "amily:\"Times New Roman\",\"serif\";\r\n\tmso-fareast-font-family:\"Times New Roman\";}\r\n" +
-            "p.MsoAcetate, li.MsoAcetate, div.MsoAcetate\r\n\t{mso-style-noshow:yes;\r\n\tmso-style" +
-            "-priority:99;\r\n\tmso-style-link:\"Balloon Text Char\";\r\n\tmargin:0in;\r\n\tmargin-botto" +
-            "m:.0001pt;\r\n\tmso-pagination:widow-orphan;\r\n\tfont-size:8.0pt;\r\n\tfont-family:\"Taho" +
-            "ma\",\"sans-serif\";\r\n\tmso-fareast-font-family:Calibri;\r\n\tmso-fareast-theme-font:mi" +
-            "nor-latin;}\r\np.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph\r\n\t{ms" +
-            "o-style-priority:34;\r\n\tmso-style-unhide:no;\r\n\tmso-style-qformat:yes;\r\n\tmargin-to" +
-            "p:0in;\r\n\tmargin-right:0in;\r\n\tmargin-bottom:10.0pt;\r\n\tmargin-left:.5in;\r\n\tmso-add" +
-            "-space:auto;\r\n\tline-height:115%;\r\n\tmso-pagination:widow-orphan;\r\n\tfont-size:11.0" +
-            "pt;\r\n\tfont-family:\"Calibri\",\"sans-serif\";\r\n\tmso-ascii-font-family:Calibri;\r\n\tmso" +
-            "-ascii-theme-font:minor-latin;\r\n\tmso-fareast-font-family:Calibri;\r\n\tmso-fareast-" +
-            "theme-font:minor-latin;\r\n\tmso-hansi-font-family:Calibri;\r\n\tmso-hansi-theme-font:" +
-            "minor-latin;\r\n\tmso-bidi-font-family:Arial;\r\n\tmso-bidi-theme-font:minor-bidi;}\r\np" +
-            ".MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCx" +
-            "SpFirst\r\n\t{mso-style-priority:34;\r\n\tmso-style-unhide:no;\r\n\tmso-style-qformat:yes" +
-            ";\r\n\tmso-style-type:export-only;\r\n\tmargin-top:0in;\r\n\tmargin-right:0in;\r\n\tmargin-b" +
-            "ottom:0in;\r\n\tmargin-left:.5in;\r\n\tmargin-bottom:.0001pt;\r\n\tmso-add-space:auto;\r\n\t" +
-            "line-height:115%;\r\n\tmso-pagination:widow-orphan;\r\n\tfont-size:11.0pt;\r\n\tfont-fami" +
-            "ly:\"Calibri\",\"sans-serif\";\r\n\tmso-ascii-font-family:Calibri;\r\n\tmso-ascii-theme-fo" +
-            "nt:minor-latin;\r\n\tmso-fareast-font-family:Calibri;\r\n\tmso-fareast-theme-font:mino" +
-            "r-latin;\r\n\tmso-hansi-font-family:Calibri;\r\n\tmso-hansi-theme-font:minor-latin;\r\n\t" +
-            "mso-bidi-font-family:Arial;\r\n\tmso-bidi-theme-font:minor-bidi;}\r\np.MsoListParagra" +
-            "phCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle\r\n\t{m" +
-            "so-style-priority:34;\r\n\tmso-style-unhide:no;\r\n\tmso-style-qformat:yes;\r\n\tmso-styl" +
-            "e-type:export-only;\r\n\tmargin-top:0in;\r\n\tmargin-right:0in;\r\n\tmargin-bottom:0in;\r\n" +
-            "\tmargin-left:.5in;\r\n\tmargin-bottom:.0001pt;\r\n\tmso-add-space:auto;\r\n\tline-height:" +
-            "115%;\r\n\tmso-pagination:widow-orphan;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\"" +
-            ",\"sans-serif\";\r\n\tmso-ascii-font-family:Calibri;\r\n\tmso-ascii-theme-font:minor-lat" +
-            "in;\r\n\tmso-fareast-font-family:Calibri;\r\n\tmso-fareast-theme-font:minor-latin;\r\n\tm" +
-            "so-hansi-font-family:Calibri;\r\n\tmso-hansi-theme-font:minor-latin;\r\n\tmso-bidi-fon" +
-            "t-family:Arial;\r\n\tmso-bidi-theme-font:minor-bidi;}\r\np.MsoListParagraphCxSpLast, " +
-            "li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast\r\n\t{mso-style-priority:" +
-            "34;\r\n\tmso-style-unhide:no;\r\n\tmso-style-qformat:yes;\r\n\tmso-style-type:export-only" +
-            ";\r\n\tmargin-top:0in;\r\n\tmargin-right:0in;\r\n\tmargin-bottom:10.0pt;\r\n\tmargin-left:.5" +
-            "in;\r\n\tmso-add-space:auto;\r\n\tline-height:115%;\r\n\tmso-pagination:widow-orphan;\r\n\tf" +
-            "ont-size:11.0pt;\r\n\tfont-family:\"Calibri\",\"sans-serif\";\r\n\tmso-ascii-font-family:C" +
-            "alibri;\r\n\tmso-ascii-theme-font:minor-latin;\r\n\tmso-fareast-font-family:Calibri;\r\n" +
-            "\tmso-fareast-theme-font:minor-latin;\r\n\tmso-hansi-font-family:Calibri;\r\n\tmso-hans" +
-            "i-theme-font:minor-latin;\r\n\tmso-bidi-font-family:Arial;\r\n\tmso-bidi-theme-font:mi" +
-            "nor-bidi;}\r\nspan.BalloonTextChar\r\n\t{mso-style-name:\"Balloon Text Char\";\r\n\tmso-st" +
-            "yle-noshow:yes;\r\n\tmso-style-priority:99;\r\n\tmso-style-unhide:no;\r\n\tmso-style-lock" +
-            "ed:yes;\r\n\tmso-style-link:\"Balloon Text\";\r\n\tmso-ansi-font-size:8.0pt;\r\n\tmso-bidi-" +
-            "font-size:8.0pt;\r\n\tfont-family:\"Tahoma\",\"sans-serif\";\r\n\tmso-ascii-font-family:Ta" +
-            "homa;\r\n\tmso-hansi-font-family:Tahoma;\r\n\tmso-bidi-font-family:Tahoma;}\r\nspan.Spel" +
-            "lE\r\n\t{mso-style-name:\"\";\r\n\tmso-spl-e:yes;}\r\n.MsoChpDefault\r\n\t{mso-style-type:exp" +
-            "ort-only;\r\n\tmso-default-props:yes;\r\n\tfont-family:\"Calibri\",\"sans-serif\";\r\n\tmso-a" +
-            "scii-font-family:Calibri;\r\n\tmso-ascii-theme-font:minor-latin;\r\n\tmso-fareast-font" +
-            "-family:Calibri;\r\n\tmso-fareast-theme-font:minor-latin;\r\n\tmso-hansi-font-family:C" +
-            "alibri;\r\n\tmso-hansi-theme-font:minor-latin;\r\n\tmso-bidi-font-family:Arial;\r\n\tmso-" +
-            "bidi-theme-font:minor-bidi;}\r\n.MsoPapDefault\r\n\t{mso-style-type:export-only;\r\n\tma" +
-            "rgin-bottom:10.0pt;\r\n\tline-height:115%;}\r\n@page WordSection1\r\n\t{size:8.5in 11.0i" +
-            "n;\r\n\tmargin:.5in .5in .5in .5in;\r\n\tmso-header-margin:.5in;\r\n\tmso-footer-margin:." +
-            "5in;\r\n\tmso-paper-source:0;}\r\ndiv.WordSection1\r\n\t{page:WordSection1;}\r\n /* List D" +
-            "efinitions */\r\n @list l0\r\n\t{mso-list-id:39793431;\r\n\tmso-list-template-ids:161326" +
-            "4498;}\r\n@list l1\r\n\t{mso-list-id:1038354090;\r\n\tmso-list-type:hybrid;\r\n\tmso-list-t" +
-            "emplate-ids:-1292199276 67698689 67698691 67698693 67698689 67698691 67698693 67" +
-            "698689 67698691 67698693;}\r\n@list l1:level1\r\n\t{mso-level-number-format:bullet;\r\n" +
-            "\tmso-level-text:\\F0B7;\r\n\tmso-level-tab-stop:none;\r\n\tmso-level-number-position:le" +
-            "ft;\r\n\ttext-indent:-.25in;\r\n\tfont-family:Symbol;}\r\n@list l1:level2\r\n\t{mso-level-n" +
-            "umber-format:bullet;\r\n\tmso-level-text:o;\r\n\tmso-level-tab-stop:none;\r\n\tmso-level-" +
-            "number-position:left;\r\n\ttext-indent:-.25in;\r\n\tfont-family:\"Courier New\";}\r\n@list" +
-            " l1:level3\r\n\t{mso-level-number-format:bullet;\r\n\tmso-level-text:\\F0A7;\r\n\tmso-leve" +
-            "l-tab-stop:none;\r\n\tmso-level-number-position:left;\r\n\ttext-indent:-.25in;\r\n\tfont-" +
-            "family:Wingdings;}\r\n@list l1:level4\r\n\t{mso-level-number-format:bullet;\r\n\tmso-lev" +
-            "el-text:\\F0B7;\r\n\tmso-level-tab-stop:none;\r\n\tmso-level-number-position:left;\r\n\tte" +
-            "xt-indent:-.25in;\r\n\tfont-family:Symbol;}\r\n@list l1:level5\r\n\t{mso-level-number-fo" +
-            "rmat:bullet;\r\n\tmso-level-text:o;\r\n\tmso-level-tab-stop:none;\r\n\tmso-level-number-p" +
-            "osition:left;\r\n\ttext-indent:-.25in;\r\n\tfont-family:\"Courier New\";}\r\n@list l1:leve" +
-            "l6\r\n\t{mso-level-number-format:bullet;\r\n\tmso-level-text:\\F0A7;\r\n\tmso-level-tab-st" +
-            "op:none;\r\n\tmso-level-number-position:left;\r\n\ttext-indent:-.25in;\r\n\tfont-family:W" +
-            "ingdings;}\r\n@list l1:level7\r\n\t{mso-level-number-format:bullet;\r\n\tmso-level-text:" +
-            "\\F0B7;\r\n\tmso-level-tab-stop:none;\r\n\tmso-level-number-position:left;\r\n\ttext-inden" +
-            "t:-.25in;\r\n\tfont-family:Symbol;}\r\n@list l1:level8\r\n\t{mso-level-number-format:bul" +
-            "let;\r\n\tmso-level-text:o;\r\n\tmso-level-tab-stop:none;\r\n\tmso-level-number-position:" +
-            "left;\r\n\ttext-indent:-.25in;\r\n\tfont-family:\"Courier New\";}\r\n@list l1:level9\r\n\t{ms" +
-            "o-level-number-format:bullet;\r\n\tmso-level-text:\\F0A7;\r\n\tmso-level-tab-stop:none;" +
-            "\r\n\tmso-level-number-position:left;\r\n\ttext-indent:-.25in;\r\n\tfont-family:Wingdings" +
-            ";}\r\n@list l2\r\n\t{mso-list-id:1398161780;\r\n\tmso-list-type:hybrid;\r\n\tmso-list-templ" +
-            "ate-ids:262434926 67698703 67698713 67698715 67698703 67698713 67698715 67698703" +
-            " 67698713 67698715;}\r\n@list l2:level1\r\n\t{mso-level-tab-stop:none;\r\n\tmso-level-nu" +
-            "mber-position:left;\r\n\ttext-indent:-.25in;}\r\nol\r\n\t{margin-bottom:0in;}\r\nul\r\n\t{mar" +
-            "gin-bottom:0in;}\r\n-->\r\n</style>\r\n<!--[if gte mso 10]>\r\n<style>\r\n /* Style Defini" +
-            "tions */\r\n table.MsoNormalTable\r\n\t{mso-style-name:\"Table Normal\";\r\n\tmso-tstyle-r" +
-            "owband-size:0;\r\n\tmso-tstyle-colband-size:0;\r\n\tmso-style-noshow:yes;\r\n\tmso-style-" +
-            "priority:99;\r\n\tmso-style-parent:\"\";\r\n\tmso-padding-alt:0in 5.4pt 0in 5.4pt;\r\n\tmso" +
-            "-para-margin-top:0in;\r\n\tmso-para-margin-right:0in;\r\n\tmso-para-margin-bottom:10.0" +
-            "pt;\r\n\tmso-para-margin-left:0in;\r\n\tline-height:115%;\r\n\tmso-pagination:widow-orpha" +
-            "n;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",\"sans-serif\";\r\n\tmso-ascii-font-fa" +
-            "mily:Calibri;\r\n\tmso-ascii-theme-font:minor-latin;\r\n\tmso-hansi-font-family:Calibr" +
-            "i;\r\n\tmso-hansi-theme-font:minor-latin;}\r\ntable.MsoTableGrid\r\n\t{mso-style-name:\"T" +
-            "able Grid\";\r\n\tmso-tstyle-rowband-size:0;\r\n\tmso-tstyle-colband-size:0;\r\n\tmso-styl" +
-            "e-priority:59;\r\n\tmso-style-unhide:no;\r\n\tborder:solid windowtext 1.0pt;\r\n\tmso-bor" +
-            "der-alt:solid windowtext .5pt;\r\n\tmso-padding-alt:0in 5.4pt 0in 5.4pt;\r\n\tmso-bord" +
-            "er-insideh:.5pt solid windowtext;\r\n\tmso-border-insidev:.5pt solid windowtext;\r\n\t" +
-            "mso-para-margin:0in;\r\n\tmso-para-margin-bottom:.0001pt;\r\n\tmso-pagination:widow-or" +
-            "phan;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",\"sans-serif\";\r\n\tmso-ascii-font" +
-            "-family:Calibri;\r\n\tmso-ascii-theme-font:minor-latin;\r\n\tmso-hansi-font-family:Cal" +
-            "ibri;\r\n\tmso-hansi-theme-font:minor-latin;}\r\n</style>\r\n<![endif]--><!--[if gte ms" +
-            "o 9]><xml>\r\n <o:shapedefaults v:ext=\"edit\" spidmax=\"1026\"/>\r\n</xml><![endif]--><" +
-            "!--[if gte mso 9]><xml>\r\n <o:shapelayout v:ext=\"edit\">\r\n  <o:idmap v:ext=\"edit\" " +
-            "data=\"1\"/>\r\n </o:shapelayout></xml><![endif]-->\r\n</head>\r\n\r\n<body lang=EN-US lin" +
-            "k=blue vlink=purple style=\'tab-interval:.5in\'>\r\n\r\n<div class=WordSection1>\r\n\r\n<p" +
-            " class=MsoNormal style=\'margin-bottom:0in;margin-bottom:.0001pt;text-align:\r\njus" +
-            "tify;line-height:normal;mso-layout-grid-align:none;text-autospace:none\'><b><i><u" +
-            "><span\r\nstyle=\'font-size:17.0pt;font-family:\"Times New Roman\",\"serif\";mso-ascii-" +
-            "theme-font:\r\nmajor-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:majo" +
-            "r-bidi\'>INSPECT</span></u></i></b><i><span\r\nstyle=\'font-size:17.0pt;font-family:" +
-            "\"Times New Roman\",\"serif\";mso-ascii-theme-font:\r\nmajor-bidi;mso-hansi-theme-font" +
-            ":major-bidi;mso-bidi-theme-font:major-bidi\'>: <span\r\nclass=SpellE><b><u>IN</u></" +
-            "b>elastic</span> <b><u>S</u></b>eismic <b><u>P</u></b>erformance\r\n<b><u>E</u></b" +
-            ">valuation <b><u>C</u></b>omputational <b><u>T</u></b>ool<o:p></o:p></span></i><" +
-            "/p>\r\n\r\n<p class=MsoNormal style=\'margin-bottom:0in;margin-bottom:.0001pt;text-al" +
-            "ign:\r\njustify;line-height:normal;mso-layout-grid-align:none;text-autospace:none\'" +
-            "><span\r\nstyle=\'font-size:12.0pt;font-family:\"Times New Roman\",\"serif\";mso-ascii-" +
-            "theme-font:\r\nmajor-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:majo" +
-            "r-bidi\'><o:p>&nbsp;</o:p></span></p>\r\n\r\n<p class=MsoNormal style=\'margin-bottom:" +
-            "0in;margin-bottom:.0001pt\'><b><span\r\nstyle=\'font-size:14.0pt;line-height:115%;fo" +
-            "nt-family:\"Times New Roman\",\"serif\";\r\nmso-ascii-theme-font:major-bidi;mso-hansi-" +
-            "theme-font:major-bidi;mso-bidi-theme-font:\r\nmajor-bidi\'>Acknowledgements<o:p></o" +
-            ":p></span></b></p>\r\n\r\n<p class=MsoNormal style=\'margin-bottom:0in;margin-bottom:" +
-            ".0001pt\'><span\r\nstyle=\'font-size:12.0pt;line-height:115%;font-family:\"Times New " +
-            "Roman\",\"serif\";\r\nmso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi" +
-            ";mso-bidi-theme-font:\r\nmajor-bidi\'>The INSPECT developers would like to acknowle" +
-            "dge the following\r\nindividuals for their various and kind help with\r\n the INSPEC" +
-            "T project: <o:p></o:p></span></p>\r\n\r\n<p class=MsoNormal style=\'margin-bottom:0in" +
-            ";margin-bottom:.0001pt\'><span\r\nstyle=\'font-size:6.0pt;line-height:115%;font-fami" +
-            "ly:\"Times New Roman\",\"serif\";\r\nmso-ascii-theme-font:major-bidi;mso-hansi-theme-f" +
-            "ont:major-bidi;mso-bidi-theme-font:\r\nmajor-bidi\'><o:p>&nbsp;</o:p></span></p>\r\n\r" +
-            "\n<p class=MsoListParagraphCxSpFirst style=\'margin-bottom:6.0pt;mso-add-space:\r\na" +
-            "uto;text-indent:-.25in;line-height:normal;mso-list:l1 level1 lfo1\'><![if !suppor" +
-            "tLists]><span\r\nstyle=\'font-size:12.0pt;font-family:Symbol;mso-fareast-font-famil" +
-            "y:Symbol;\r\nmso-bidi-font-family:Symbol;mso-bidi-font-weight:bold\'><span style=\'m" +
-            "so-list:\r\nIgnore\'>·<span style=\'font:7.0pt \"Times New Roman\"\'>&nbsp;&nbsp;&nbsp;" +
-            "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span></span><![endif]><span dir=LTR></s" +
-            "pan><b><span style=\'font-size:\r\n12.0pt;font-family:\"Times New Roman\",\"serif\";mso" +
-            "-ascii-theme-font:major-bidi;\r\nmso-hansi-theme-font:major-bidi;mso-bidi-theme-fo" +
-            "nt:major-bidi\'>Prof. Khaled\r\nGalal<o:p></o:p></span></b></p>\r\n\r\n<p class=MsoList" +
-            "ParagraphCxSpMiddle style=\'margin-bottom:6.0pt;mso-add-space:\r\nauto;line-height:" +
-            "normal\'><span style=\'font-size:12.0pt;font-family:\"Times New Roman\",\"serif\";\r\nms" +
-            "o-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-fon" +
-            "t:\r\nmajor-bidi\'>Department of Building, Civil &amp; Environmental Engineering<o:" +
-            "p></o:p></span></p>\r\n\r\n<p class=MsoListParagraphCxSpMiddle style=\'margin-bottom:" +
-            "6.0pt;mso-add-space:\r\nauto;line-height:normal\'><span style=\'font-size:12.0pt;fon" +
-            "t-family:\"Times New Roman\",\"serif\";\r\nmso-ascii-theme-font:major-bidi;mso-hansi-t" +
-            "heme-font:major-bidi;mso-bidi-theme-font:\r\nmajor-bidi\'>Concordia University, Rm:" +
-            " EV-6.139<o:p></o:p></span></p>\r\n\r\n<p class=MsoListParagraphCxSpMiddle style=\'ma" +
-            "rgin-bottom:6.0pt;mso-add-space:\r\nauto;line-height:normal\'><span style=\'font-siz" +
-            "e:12.0pt;font-family:\"Times New Roman\",\"serif\";\r\nmso-ascii-theme-font:major-bidi" +
-            ";mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:\r\nmajor-bidi\'>1455 de Maiso" +
-            "nneuve Blvd. West <o:p></o:p></span></p>\r\n\r\n<p class=MsoListParagraphCxSpMiddle " +
-            "style=\'margin-bottom:6.0pt;mso-add-space:\r\nauto;line-height:normal\'><span style=" +
-            "\'font-size:12.0pt;font-family:\"Times New Roman\",\"serif\";\r\nmso-ascii-theme-font:m" +
-            "ajor-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:\r\nmajor-bidi\'>Mont" +
-            "réal, Québec, Canada, H3G 1M8 <o:p></o:p></span></p>\r\n\r\n<p class=MsoListParagrap" +
-            "hCxSpMiddle style=\'margin-bottom:6.0pt;mso-add-space:\r\nauto;line-height:normal\'>" +
-            "<span style=\'font-size:12.0pt;font-family:\"Times New Roman\",\"serif\";\r\nmso-ascii-" +
-            "theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:\r\nmajo" +
-            "r-bidi\'>Tel: 514-848-2424 Ext 3196 <o:p></o:p></span></p>\r\n\r\n<p class=MsoListPar" +
-            "agraphCxSpMiddle style=\'margin-bottom:6.0pt;mso-add-space:\r\nauto;line-height:nor" +
-            "mal\'><span style=\'font-size:12.0pt;font-family:\"Times New Roman\",\"serif\";\r\nmso-a" +
-            "scii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:\r" +
-            "\nmajor-bidi\'>Fax: 514-848-7965<o:p></o:p></span></p>\r\n\r\n<p class=MsoListParagrap" +
-            "hCxSpMiddle style=\'margin-bottom:6.0pt;mso-add-space:\r\nauto;line-height:normal\'>" +
-            "<span style=\'font-size:12.0pt;font-family:\"Times New Roman\",\"serif\";\r\nmso-ascii-" +
-            "theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:\r\nmajo" +
-            "r-bidi\'>Email: </span><a href=\"mailto:galal@bcee.concordia.ca\"><span\r\nstyle=\'fon" +
-            "t-size:12.0pt;font-family:\"Times New Roman\",\"serif\";mso-ascii-theme-font:\r\nmajor" +
-            "-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi\'>galal@bcee" +
-            ".concordia.ca</span></a><span\r\nclass=MsoHyperlink><span style=\'font-size:12.0pt;" +
-            "font-family:\"Times New Roman\",\"serif\";\r\nmso-ascii-theme-font:major-bidi;mso-hans" +
-            "i-theme-font:major-bidi;mso-bidi-theme-font:\r\nmajor-bidi\'><o:p></o:p></span></sp" +
-            "an></p>\r\n\r\n<p class=MsoListParagraphCxSpMiddle style=\'margin-bottom:6.0pt;mso-ad" +
-            "d-space:\r\nauto;line-height:normal\'><span style=\'font-size:6.0pt;font-family:\"Tim" +
-            "es New Roman\",\"serif\";\r\nmso-ascii-theme-font:major-bidi;mso-hansi-theme-font:maj" +
-            "or-bidi;mso-bidi-theme-font:\r\nmajor-bidi\'><o:p>&nbsp;</o:p></span></p>\r\n\r\n<p cla" +
-            "ss=MsoListParagraphCxSpMiddle style=\'margin-bottom:6.0pt;mso-add-space:\r\nauto;te" +
-            "xt-indent:-.25in;line-height:normal;mso-list:l1 level1 lfo1\'><![if !supportLists" +
-            "]><span\r\nstyle=\'font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:Symb" +
-            "ol;\r\nmso-bidi-font-family:Symbol\'><span style=\'mso-list:Ignore\'>·<span\r\nstyle=\'f" +
-            "ont:7.0pt \"Times New Roman\"\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n<" +
-            "/span></span></span><![endif]><span dir=LTR></span><b><span style=\'font-size:\r\n1" +
-            "2.0pt;font-family:\"Times New Roman\",\"serif\";mso-ascii-theme-font:major-bidi;\r\nms" +
-            "o-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-bidi\'>Mr. Nader Aly<br>\r" +
-            "\n</span></b><span style=\'font-size:12.0pt;font-family:\"Times New Roman\",\"serif\";" +
-            "\r\nmso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme" +
-            "-font:\r\nmajor-bidi\'>Graduate Research Assistant<o:p></o:p></span></p>\r\n\r\n<p clas" +
-            "s=MsoListParagraphCxSpMiddle style=\'margin-bottom:6.0pt;mso-add-space:\r\nauto;lin" +
-            "e-height:normal\'><span style=\'font-size:12.0pt;font-family:\"Times New Roman\",\"se" +
-            "rif\";\r\nmso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-" +
-            "theme-font:\r\nmajor-bidi\'>Department of Civil Engineering<o:p></o:p></span></p>\r\n" +
-            "\r\n<p class=MsoListParagraphCxSpMiddle style=\'margin-bottom:6.0pt;mso-add-space:\r" +
-            "\nauto;line-height:normal\'><span style=\'font-size:12.0pt;font-family:\"Times New R" +
-            "oman\",\"serif\";\r\nmso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;" +
-            "mso-bidi-theme-font:\r\nmajor-bidi\'>American University of Sharjah<o:p></o:p></spa" +
-            "n></p>\r\n\r\n<p class=MsoListParagraphCxSpMiddle style=\'margin-bottom:6.0pt;mso-add" +
-            "-space:\r\nauto;line-height:normal\'><span style=\'font-size:12.0pt;font-family:\"Tim" +
-            "es New Roman\",\"serif\";\r\nmso-ascii-theme-font:major-bidi;mso-hansi-theme-font:maj" +
-            "or-bidi;mso-bidi-theme-font:\r\nmajor-bidi\'>Email: </span><a href=\"mailto:b0002814" +
-            "3@aus.edu\"><span\r\nstyle=\'font-size:12.0pt;font-family:\"Times New Roman\",\"serif\";" +
-            "mso-ascii-theme-font:\r\nmajor-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme" +
-            "-font:major-bidi\'>b00028143@aus.edu</span></a><span\r\nclass=MsoHyperlink><span st" +
-            "yle=\'font-size:12.0pt;font-family:\"Times New Roman\",\"serif\";\r\nmso-ascii-theme-fo" +
-            "nt:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:\r\nmajor-bidi\'>" +
-            " </span><span style=\'mso-spacerun:yes\'> </span><o:p></o:p></span></p>\r\n\r\n<p clas" +
-            "s=MsoListParagraphCxSpMiddle style=\'margin-bottom:6.0pt;mso-add-space:\r\nauto;lin" +
-            "e-height:normal\'><span style=\'font-size:6.0pt;font-family:\"Times New Roman\",\"ser" +
-            "if\";\r\nmso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-t" +
-            "heme-font:\r\nmajor-bidi\'><o:p>&nbsp;</o:p></span></p>\r\n\r\n<p class=MsoListParagrap" +
-            "hCxSpMiddle style=\'margin-bottom:6.0pt;mso-add-space:\r\nauto;text-indent:-.25in;l" +
-            "ine-height:normal;mso-list:l1 level1 lfo1\'><![if !supportLists]><span\r\nstyle=\'fo" +
-            "nt-size:12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;\r\nmso-bidi-font" +
-            "-family:Symbol\'><span style=\'mso-list:Ignore\'>·<span\r\nstyle=\'font:7.0pt \"Times N" +
-            "ew Roman\"\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span></spa" +
-            "n><![endif]><span dir=LTR></span><b><span style=\'font-size:\r\n12.0pt;font-family:" +
-            "\"Times New Roman\",\"serif\";mso-ascii-theme-font:major-bidi;\r\nmso-hansi-theme-font" +
-            ":major-bidi;mso-bidi-theme-font:major-bidi\'>Mr. Abdullah <span\r\nclass=SpellE>Sag" +
-            "heer</span><br>\r\n</span></b><span style=\'font-size:12.0pt;font-family:\"Times New" +
-            " Roman\",\"serif\";\r\nmso-ascii-theme-font:major-bidi;mso-hansi-theme-font:major-bid" +
-            "i;mso-bidi-theme-font:\r\nmajor-bidi\'>Graduate Research Assistant<o:p></o:p></span" +
-            "></p>\r\n\r\n<p class=MsoListParagraphCxSpMiddle style=\'margin-bottom:6.0pt;mso-add-" +
-            "space:\r\nauto;line-height:normal\'><span style=\'font-size:12.0pt;font-family:\"Time" +
-            "s New Roman\",\"serif\";\r\nmso-ascii-theme-font:major-bidi;mso-hansi-theme-font:majo" +
-            "r-bidi;mso-bidi-theme-font:\r\nmajor-bidi\'>Department of Civil Engineering<o:p></o" +
-            ":p></span></p>\r\n\r\n<p class=MsoListParagraphCxSpMiddle style=\'margin-bottom:6.0pt" +
-            ";mso-add-space:\r\nauto;line-height:normal\'><span style=\'font-size:12.0pt;font-fam" +
-            "ily:\"Times New Roman\",\"serif\";\r\nmso-ascii-theme-font:major-bidi;mso-hansi-theme-" +
-            "font:major-bidi;mso-bidi-theme-font:\r\nmajor-bidi\'>American University of Sharjah" +
-            "<o:p></o:p></span></p>\r\n\r\n<p class=MsoListParagraphCxSpMiddle style=\'margin-bott" +
-            "om:6.0pt;mso-add-space:\r\nauto;line-height:normal\'><span style=\'font-size:12.0pt;" +
-            "font-family:\"Times New Roman\",\"serif\";\r\nmso-ascii-theme-font:major-bidi;mso-hans" +
-            "i-theme-font:major-bidi;mso-bidi-theme-font:\r\nmajor-bidi\'>Email: <span class=Mso" +
-            "Hyperlink>b00057425@aus.edu</span></span> <span\r\nstyle=\'font-size:12.0pt;font-fa" +
-            "mily:\"Times New Roman\",\"serif\";mso-ascii-theme-font:\r\nmajor-bidi;mso-hansi-theme" +
-            "-font:major-bidi;mso-bidi-theme-font:major-bidi\'><span\r\nstyle=\'mso-spacerun:yes\'" +
-            "> </span><o:p></o:p></span></p>\r\n\r\n<p class=MsoListParagraphCxSpMiddle style=\'ma" +
-            "rgin-bottom:6.0pt;mso-add-space:\r\nauto;line-height:normal\'><span style=\'font-siz" +
-            "e:6.0pt;font-family:\"Times New Roman\",\"serif\";\r\nmso-ascii-theme-font:major-bidi;" +
-            "mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:\r\nmajor-bidi\'><o:p>&nbsp;</o" +
-            ":p></span></p>\r\n\r\n<p class=MsoListParagraphCxSpMiddle style=\'margin-bottom:6.0pt" +
-            ";mso-add-space:\r\nauto;text-indent:-.25in;line-height:normal;mso-list:l1 level1 l" +
-            "fo1\'><![if !supportLists]><span\r\nstyle=\'font-size:12.0pt;font-family:Symbol;mso-" +
-            "fareast-font-family:Symbol;\r\nmso-bidi-font-family:Symbol\'><span style=\'mso-list:" +
-            "Ignore\'>·<span\r\nstyle=\'font:7.0pt \"Times New Roman\"\'>&nbsp;&nbsp;&nbsp;&nbsp;&nb" +
-            "sp;&nbsp;&nbsp;&nbsp;\r\n</span></span></span><![endif]><span dir=LTR></span><b><s" +
-            "pan style=\'font-size:\r\n12.0pt;font-family:\"Times New Roman\",\"serif\";mso-ascii-th" +
-            "eme-font:major-bidi;\r\nmso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-" +
-            "bidi\'>Mr. Laith\r\nElayyan<br>\r\n</span></b><span style=\'font-size:12.0pt;font-fami" +
-            "ly:\"Times New Roman\",\"serif\";\r\nmso-ascii-theme-font:major-bidi;mso-hansi-theme-f" +
-            "ont:major-bidi;mso-bidi-theme-font:\r\nmajor-bidi\'>Undergraduate Research Assistan" +
-            "t<o:p></o:p></span></p>\r\n\r\n<p class=MsoListParagraphCxSpMiddle style=\'margin-bot" +
-            "tom:6.0pt;mso-add-space:\r\nauto;line-height:normal\'><span style=\'font-size:12.0pt" +
-            ";font-family:\"Times New Roman\",\"serif\";\r\nmso-ascii-theme-font:major-bidi;mso-han" +
-            "si-theme-font:major-bidi;mso-bidi-theme-font:\r\nmajor-bidi\'>Department of Civil E" +
-            "ngineering<o:p></o:p></span></p>\r\n\r\n<p class=MsoListParagraphCxSpMiddle style=\'m" +
-            "argin-bottom:6.0pt;mso-add-space:\r\nauto;line-height:normal\'><span style=\'font-si" +
-            "ze:12.0pt;font-family:\"Times New Roman\",\"serif\";\r\nmso-ascii-theme-font:major-bid" +
-            "i;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:\r\nmajor-bidi\'>American Uni" +
-            "versity of Sharjah<o:p></o:p></span></p>\r\n\r\n<p class=MsoListParagraphCxSpLast st" +
-            "yle=\'margin-bottom:6.0pt;mso-add-space:\r\nauto;line-height:normal\'><span style=\'f" +
-            "ont-size:12.0pt;font-family:\"Times New Roman\",\"serif\";\r\nmso-ascii-theme-font:maj" +
-            "or-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:\r\nmajor-bidi\'>Email:" +
-            " </span><a href=\"mailto:b00049702@aus.edu\"><span\r\nstyle=\'font-size:12.0pt;font-f" +
-            "amily:\"Times New Roman\",\"serif\";mso-ascii-theme-font:\r\nmajor-bidi;mso-hansi-them" +
-            "e-font:major-bidi;mso-bidi-theme-font:major-bidi\'>b00049702@aus.edu</span></a><s" +
-            "pan\r\nstyle=\'font-size:12.0pt;font-family:\"Times New Roman\",\"serif\";mso-ascii-the" +
-            "me-font:\r\nmajor-bidi;mso-hansi-theme-font:major-bidi;mso-bidi-theme-font:major-b" +
-            "idi\'> <o:p></o:p></span></p>\r\n\r\n<p class=MsoNormal style=\'margin-bottom:0in;marg" +
-            "in-bottom:.0001pt\'><span\r\nstyle=\'font-size:12.0pt;line-height:115%;font-family:\"" +
-            "Times New Roman\",\"serif\";\r\nmso-bidi-font-family:Arial;mso-bidi-theme-font:minor-" +
-            "bidi\'>The splash screen\r\ncontains graphics designed by </span><a href=\"http://fr" +
-            "eepik.com/\"><span\r\nstyle=\'font-size:12.0pt;line-height:115%;font-family:\"Times N" +
-            "ew Roman\",\"serif\";\r\nmso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi\'>F" +
-            "reepik.com</span></a></p>\r\n\r\n<p class=MsoNormal style=\'margin-bottom:0in;margin-" +
-            "bottom:.0001pt\'><span\r\nstyle=\'font-size:12.0pt;line-height:115%;font-family:\"Tim" +
-            "es New Roman\",\"serif\";\r\nmso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bid" +
-            "i\'>The following\r\nsoftware components is used in INSPECT: </span></p>\r\n\r\n<p clas" +
-            "s=MsoListParagraphCxSpFirst style=\'margin-bottom:0in;margin-bottom:.0001pt;\r\nmso" +
-            "-add-space:auto;text-indent:-.25in\'><span style=\'font-size:12.0pt;\r\nline-height:" +
-            "115%;font-family:Symbol\'>·</span><span style=\'font-size:7.0pt;\r\nline-height:115%" +
-            ";font-family:\"Times New Roman\",\"serif\";mso-bidi-font-family:\r\nArial;mso-bidi-the" +
-            "me-font:minor-bidi\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span><sp" +
-            "an class=SpellE><span style=\'font-size:12.0pt;line-height:115%;\r\nfont-family:\"Ti" +
-            "mes New Roman\",\"serif\";mso-bidi-font-family:Arial;mso-bidi-theme-font:\r\nminor-bi" +
-            "di\'>Nelder</span></span><span style=\'font-size:12.0pt;line-height:115%;\r\nfont-fa" +
-            "mily:\"Times New Roman\",\"serif\";mso-bidi-font-family:Arial;mso-bidi-theme-font:\r\n" +
-            "minor-bidi\'>-Mead optimization method implementation by Kris <span\r\nclass=SpellE" +
-            ">Kniaz</span> [</span><a href=\"http://www.kniaz.net\"><span\r\nstyle=\'font-size:12." +
-            "0pt;line-height:115%;font-family:\"Times New Roman\",\"serif\";\r\nmso-bidi-font-famil" +
-            "y:Arial;mso-bidi-theme-font:minor-bidi\'>http://www.kniaz.net</span></a><span\r\nst" +
-            "yle=\'font-size:12.0pt;line-height:115%;font-family:\"Times New Roman\",\"serif\";\r\nm" +
-            "so-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi\'>]. </span></p>\r\n\r\n<p c" +
-            "lass=MsoListParagraphCxSpMiddle style=\'margin-bottom:0in;margin-bottom:\r\n.0001pt" +
-            ";mso-add-space:auto;text-indent:-.25in\'><span style=\'font-size:12.0pt;\r\nline-hei" +
-            "ght:115%;font-family:Symbol\'>·</span><span style=\'font-size:7.0pt;\r\nline-height:" +
-            "115%;font-family:\"Times New Roman\",\"serif\";mso-bidi-font-family:\r\nArial;mso-bidi" +
-            "-theme-font:minor-bidi\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span" +
-            "><span class=SpellE><span style=\'font-size:12.0pt;line-height:115%;\r\nfont-family" +
-            ":\"Times New Roman\",\"serif\";mso-bidi-font-family:Arial;mso-bidi-theme-font:\r\nmino" +
-            "r-bidi\'>ZedGraph</span></span><span style=\'font-size:12.0pt;line-height:\r\n115%;f" +
-            "ont-family:\"Times New Roman\",\"serif\";mso-bidi-font-family:Arial;\r\nmso-bidi-theme" +
-            "-font:minor-bidi\'> charting library [</span><a\r\nhref=\"http://sourceforge.net/pro" +
-            "jects/zedgraph\"><span style=\'font-size:12.0pt;\r\nline-height:115%;font-family:\"Ti" +
-            "mes New Roman\",\"serif\";mso-bidi-font-family:\r\nArial;mso-bidi-theme-font:minor-bi" +
-            "di\'>http://sourceforge.net/projects/zedgraph</span></a><span\r\nstyle=\'font-size:1" +
-            "2.0pt;line-height:115%;font-family:\"Times New Roman\",\"serif\";\r\nmso-bidi-font-fam" +
-            "ily:Arial;mso-bidi-theme-font:minor-bidi\'>] </span></p>\r\n\r\n<p class=MsoListParag" +
-            "raphCxSpMiddle style=\'margin-bottom:0in;margin-bottom:\r\n.0001pt;mso-add-space:au" +
-            "to;text-indent:-.25in\'><span style=\'font-size:12.0pt;\r\nline-height:115%;font-fam" +
-            "ily:Symbol\'>·</span><span style=\'font-size:7.0pt;\r\nline-height:115%;font-family:" +
-            "\"Times New Roman\",\"serif\";mso-bidi-font-family:\r\nArial;mso-bidi-theme-font:minor" +
-            "-bidi\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span><span style=\'fon" +
-            "t-size:12.0pt;line-height:115%;font-family:\"Times New Roman\",\"serif\";\r\nmso-bidi-" +
-            "font-family:Arial;mso-bidi-theme-font:minor-bidi\'>Math.Net computing\r\nlibrary [<" +
-            "/span><a href=\"http://www.mathdotnet.com/\"><span style=\'font-size:\r\n12.0pt;line-" +
-            "height:115%;font-family:\"Times New Roman\",\"serif\";mso-bidi-font-family:\r\nArial;m" +
-            "so-bidi-theme-font:minor-bidi\'>http://www.mathdotnet.com</span></a><span\r\nstyle=" +
-            "\'font-size:12.0pt;line-height:115%;font-family:\"Times New Roman\",\"serif\";\r\nmso-b" +
-            "idi-font-family:Arial;mso-bidi-theme-font:minor-bidi\'>] </span></p>\r\n\r\n<p class=" +
-            "MsoListParagraphCxSpMiddle style=\'margin-bottom:0in;margin-bottom:\r\n.0001pt;mso-" +
-            "add-space:auto;text-indent:-.25in\'><span style=\'font-size:12.0pt;\r\nline-height:1" +
-            "15%;font-family:Symbol\'>·</span><span style=\'font-size:7.0pt;\r\nline-height:115%;" +
-            "font-family:\"Times New Roman\",\"serif\";mso-bidi-font-family:\r\nArial;mso-bidi-them" +
-            "e-font:minor-bidi\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span><spa" +
-            "n class=SpellE><span style=\'font-size:12.0pt;line-height:115%;\r\nfont-family:\"Tim" +
-            "es New Roman\",\"serif\";mso-bidi-font-family:Arial;mso-bidi-theme-font:\r\nminor-bid" +
-            "i\'>SqlLite</span></span><span style=\'font-size:12.0pt;line-height:\r\n115%;font-fa" +
-            "mily:\"Times New Roman\",\"serif\";mso-bidi-font-family:Arial;\r\nmso-bidi-theme-font:" +
-            "minor-bidi\'> database engine [</span><a\r\nhref=\"https://www.sqlite.org/\"><span st" +
-            "yle=\'font-size:12.0pt;line-height:115%;\r\nfont-family:\"Times New Roman\",\"serif\";m" +
-            "so-bidi-font-family:Arial;mso-bidi-theme-font:\r\nminor-bidi\'>https://www.sqlite.o" +
-            "rg</span></a><span style=\'font-size:12.0pt;\r\nline-height:115%;font-family:\"Times" +
-            " New Roman\",\"serif\";mso-bidi-font-family:\r\nArial;mso-bidi-theme-font:minor-bidi\'" +
-            ">]</span></p>\r\n\r\n<p class=MsoListParagraphCxSpLast style=\'margin-bottom:0in;marg" +
-            "in-bottom:.0001pt;\r\nmso-add-space:auto\'><span style=\'font-size:12.0pt;line-heigh" +
-            "t:115%;font-family:\r\n\"Times New Roman\",\"serif\";mso-bidi-font-family:Arial;mso-bi" +
-            "di-theme-font:minor-bidi\'>&nbsp;</span></p>\r\n\r\n<p class=MsoNormal style=\'margin-" +
-            "bottom:6.0pt;line-height:normal\'><span\r\nstyle=\'font-size:12.0pt;font-family:\"Tim" +
-            "es New Roman\",\"serif\";mso-ascii-theme-font:\r\nmajor-bidi;mso-hansi-theme-font:maj" +
-            "or-bidi;mso-bidi-theme-font:major-bidi\'><o:p>&nbsp;</o:p></span></p>\r\n\r\n<p class" +
-            "=MsoListParagraph style=\'margin-bottom:0in;margin-bottom:.0001pt;\r\nmso-add-space" +
-            ":auto\'><span style=\'font-size:12.0pt;line-height:115%;font-family:\r\n\"Times New R" +
-            "oman\",\"serif\";mso-ascii-theme-font:major-bidi;mso-hansi-theme-font:\r\nmajor-bidi;" +
-            "mso-bidi-theme-font:major-bidi\'><o:p>&nbsp;</o:p></span></p>\r\n\r\n</div>\r\n\r\n</body" +
-            ">\r\n\r\n</html>")]
+        [global::System.Configuration.DefaultSettingValueAttribute("<html>\r\n\r\n<head>\r\n<meta http-equiv=Content-Type content=\"text/html; charset=windo" +
+            "ws-1252\">\r\n<meta name=Generator content=\"Microsoft Word 14 (filtered)\">\r\n<style>" +
+            "\r\n<!--\r\n /* Font Definitions */\r\n @font-face\r\n\t{font-family:Wingdings;\r\n\tpanose-" +
+            "1:5 0 0 0 0 0 0 0 0 0;}\r\n@font-face\r\n\t{font-family:Wingdings;\r\n\tpanose-1:5 0 0 0" +
+            " 0 0 0 0 0 0;}\r\n@font-face\r\n\t{font-family:Calibri;\r\n\tpanose-1:2 15 5 2 2 2 4 3 2" +
+            " 4;}\r\n@font-face\r\n\t{font-family:Tahoma;\r\n\tpanose-1:2 11 6 4 3 5 4 4 2 4;}\r\n /* S" +
+            "tyle Definitions */\r\n p.MsoNormal, li.MsoNormal, div.MsoNormal\r\n\t{margin-top:0in" +
+            ";\r\n\tmargin-right:0in;\r\n\tmargin-bottom:10.0pt;\r\n\tmargin-left:0in;\r\n\tline-height:1" +
+            "15%;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",\"sans-serif\";}\r\na:link, span.Ms" +
+            "oHyperlink\r\n\t{color:blue;\r\n\ttext-decoration:underline;}\r\na:visited, span.MsoHype" +
+            "rlinkFollowed\r\n\t{color:purple;\r\n\ttext-decoration:underline;}\r\np\r\n\t{margin-right:" +
+            "0in;\r\n\tmargin-left:0in;\r\n\tfont-size:12.0pt;\r\n\tfont-family:\"Times New Roman\",\"ser" +
+            "if\";}\r\np.MsoAcetate, li.MsoAcetate, div.MsoAcetate\r\n\t{mso-style-link:\"Balloon Te" +
+            "xt Char\";\r\n\tmargin:0in;\r\n\tmargin-bottom:.0001pt;\r\n\tfont-size:8.0pt;\r\n\tfont-famil" +
+            "y:\"Tahoma\",\"sans-serif\";}\r\np.MsoListParagraph, li.MsoListParagraph, div.MsoListP" +
+            "aragraph\r\n\t{margin-top:0in;\r\n\tmargin-right:0in;\r\n\tmargin-bottom:10.0pt;\r\n\tmargin" +
+            "-left:.5in;\r\n\tline-height:115%;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",\"san" +
+            "s-serif\";}\r\np.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoLi" +
+            "stParagraphCxSpFirst\r\n\t{margin-top:0in;\r\n\tmargin-right:0in;\r\n\tmargin-bottom:0in;" +
+            "\r\n\tmargin-left:.5in;\r\n\tmargin-bottom:.0001pt;\r\n\tline-height:115%;\r\n\tfont-size:11" +
+            ".0pt;\r\n\tfont-family:\"Calibri\",\"sans-serif\";}\r\np.MsoListParagraphCxSpMiddle, li.M" +
+            "soListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle\r\n\t{margin-top:0in;\r\n\tm" +
+            "argin-right:0in;\r\n\tmargin-bottom:0in;\r\n\tmargin-left:.5in;\r\n\tmargin-bottom:.0001p" +
+            "t;\r\n\tline-height:115%;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",\"sans-serif\";" +
+            "}\r\np.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraph" +
+            "CxSpLast\r\n\t{margin-top:0in;\r\n\tmargin-right:0in;\r\n\tmargin-bottom:10.0pt;\r\n\tmargin" +
+            "-left:.5in;\r\n\tline-height:115%;\r\n\tfont-size:11.0pt;\r\n\tfont-family:\"Calibri\",\"san" +
+            "s-serif\";}\r\nspan.BalloonTextChar\r\n\t{mso-style-name:\"Balloon Text Char\";\r\n\tmso-st" +
+            "yle-link:\"Balloon Text\";\r\n\tfont-family:\"Tahoma\",\"sans-serif\";}\r\n.MsoChpDefault\r\n" +
+            "\t{font-family:\"Calibri\",\"sans-serif\";}\r\n.MsoPapDefault\r\n\t{margin-bottom:10.0pt;\r" +
+            "\n\tline-height:115%;}\r\n@page WordSection1\r\n\t{size:8.5in 11.0in;\r\n\tmargin:.5in .5i" +
+            "n .5in .5in;}\r\ndiv.WordSection1\r\n\t{page:WordSection1;}\r\n /* List Definitions */\r" +
+            "\n ol\r\n\t{margin-bottom:0in;}\r\nul\r\n\t{margin-bottom:0in;}\r\n-->\r\n</style>\r\n\r\n</head>" +
+            "\r\n\r\n<body lang=EN-US link=blue vlink=purple>\r\n\r\n<div class=WordSection1>\r\n\r\n<p c" +
+            "lass=MsoNormal style=\'margin-bottom:0in;margin-bottom:.0001pt;text-align:\r\njusti" +
+            "fy;line-height:normal;text-autospace:none\'><b><i><u><span\r\nstyle=\'font-size:17.0" +
+            "pt;font-family:\"Times New Roman\",\"serif\"\'>INSPECT</span></u></i></b><i><span\r\nst" +
+            "yle=\'font-size:17.0pt;font-family:\"Times New Roman\",\"serif\"\'>: <b><u>IN</u></b>e" +
+            "lastic\r\n<b><u>S</u></b>eismic <b><u>P</u></b>erformance <b><u>E</u></b>valuation" +
+            " <b><u>C</u></b>omputational\r\n<b><u>T</u></b>ool</span></i></p>\r\n\r\n<p class=MsoN" +
+            "ormal style=\'margin-bottom:0in;margin-bottom:.0001pt;text-align:\r\njustify;line-h" +
+            "eight:normal;text-autospace:none\'><span style=\'font-size:12.0pt;\r\nfont-family:\"T" +
+            "imes New Roman\",\"serif\"\'>&nbsp;</span></p>\r\n\r\n<p class=MsoNormal style=\'margin-b" +
+            "ottom:0in;margin-bottom:.0001pt\'><b><span\r\nstyle=\'font-size:14.0pt;line-height:1" +
+            "15%;font-family:\"Times New Roman\",\"serif\"\'>Acknowledgements</span></b></p>\r\n\r\n<p" +
+            " class=MsoNormal style=\'margin-bottom:0in;margin-bottom:.0001pt\'><span\r\nstyle=\'f" +
+            "ont-size:12.0pt;line-height:115%;font-family:\"Times New Roman\",\"serif\"\'>The\r\nINS" +
+            "PECT developers would like to acknowledge the following individuals for\r\ntheir v" +
+            "arious and kind help with the INSPECT project: </span></p>\r\n\r\n<p class=MsoNormal" +
+            " style=\'margin-bottom:0in;margin-bottom:.0001pt\'><span\r\nstyle=\'font-size:6.0pt;l" +
+            "ine-height:115%;font-family:\"Times New Roman\",\"serif\"\'>&nbsp;</span></p>\r\n\r\n<p c" +
+            "lass=MsoListParagraphCxSpFirst style=\'margin-bottom:6.0pt;text-indent:-.25in;\r\nl" +
+            "ine-height:normal\'><span style=\'font-size:12.0pt;font-family:Symbol\'>·<span\r\nsty" +
+            "le=\'font:7.0pt \"Times New Roman\"\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs" +
+            "p;\r\n</span></span><span dir=LTR></span><b><span style=\'font-size:12.0pt;font-fam" +
+            "ily:\r\n\"Times New Roman\",\"serif\"\'>Prof. Khaled Galal</span></b></p>\r\n\r\n<p class=M" +
+            "soListParagraphCxSpMiddle style=\'margin-bottom:6.0pt;line-height:\r\nnormal\'><span" +
+            " style=\'font-size:12.0pt;font-family:\"Times New Roman\",\"serif\"\'>Department\r\nof B" +
+            "uilding, Civil &amp; Environmental Engineering</span></p>\r\n\r\n<p class=MsoListPar" +
+            "agraphCxSpMiddle style=\'margin-bottom:6.0pt;line-height:\r\nnormal\'><span style=\'f" +
+            "ont-size:12.0pt;font-family:\"Times New Roman\",\"serif\"\'>Concordia\r\nUniversity, Rm" +
+            ": EV-6.139</span></p>\r\n\r\n<p class=MsoListParagraphCxSpMiddle style=\'margin-botto" +
+            "m:6.0pt;line-height:\r\nnormal\'><span style=\'font-size:12.0pt;font-family:\"Times N" +
+            "ew Roman\",\"serif\"\'>1455\r\nde Maisonneuve Blvd. West </span></p>\r\n\r\n<p class=MsoLi" +
+            "stParagraphCxSpMiddle style=\'margin-bottom:6.0pt;line-height:\r\nnormal\'><span sty" +
+            "le=\'font-size:12.0pt;font-family:\"Times New Roman\",\"serif\"\'>Montréal,\r\nQuébec, C" +
+            "anada, H3G 1M8 </span></p>\r\n\r\n<p class=MsoListParagraphCxSpMiddle style=\'margin-" +
+            "bottom:6.0pt;line-height:\r\nnormal\'><span style=\'font-size:12.0pt;font-family:\"Ti" +
+            "mes New Roman\",\"serif\"\'>Tel:\r\n514-848-2424 Ext 3196 </span></p>\r\n\r\n<p class=MsoL" +
+            "istParagraphCxSpMiddle style=\'margin-bottom:6.0pt;line-height:\r\nnormal\'><span st" +
+            "yle=\'font-size:12.0pt;font-family:\"Times New Roman\",\"serif\"\'>Fax:\r\n514-848-7965<" +
+            "/span></p>\r\n\r\n<p class=MsoListParagraphCxSpMiddle style=\'margin-bottom:6.0pt;lin" +
+            "e-height:\r\nnormal\'><span style=\'font-size:12.0pt;font-family:\"Times New Roman\",\"" +
+            "serif\"\'>Email:\r\n</span><a href=\"mailto:galal@bcee.concordia.ca\"><span style=\'fon" +
+            "t-size:12.0pt;\r\nfont-family:\"Times New Roman\",\"serif\"\'>galal@bcee.concordia.ca</" +
+            "span></a></p>\r\n\r\n<p class=MsoListParagraphCxSpMiddle style=\'margin-bottom:6.0pt;" +
+            "line-height:\r\nnormal\'><span style=\'font-size:6.0pt;font-family:\"Times New Roman\"" +
+            ",\"serif\"\'>&nbsp;</span></p>\r\n\r\n<p class=MsoListParagraphCxSpMiddle style=\'margin" +
+            "-bottom:6.0pt;text-indent:\r\n-.25in;line-height:normal\'><span style=\'font-size:12" +
+            ".0pt;font-family:Symbol\'>·<span\r\nstyle=\'font:7.0pt \"Times New Roman\"\'>&nbsp;&nbs" +
+            "p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span><span dir=LTR></span><b><s" +
+            "pan style=\'font-size:12.0pt;font-family:\r\n\"Times New Roman\",\"serif\"\'>Mr. Nader A" +
+            "ly<br>\r\n</span></b><span style=\'font-size:12.0pt;font-family:\"Times New Roman\",\"" +
+            "serif\"\'>Graduate\r\nResearch Assistant</span></p>\r\n\r\n<p class=MsoListParagraphCxSp" +
+            "Middle style=\'margin-bottom:6.0pt;line-height:\r\nnormal\'><span style=\'font-size:1" +
+            "2.0pt;font-family:\"Times New Roman\",\"serif\"\'>Department\r\nof Civil Engineering</s" +
+            "pan></p>\r\n\r\n<p class=MsoListParagraphCxSpMiddle style=\'margin-bottom:6.0pt;line-" +
+            "height:\r\nnormal\'><span style=\'font-size:12.0pt;font-family:\"Times New Roman\",\"se" +
+            "rif\"\'>American\r\nUniversity of Sharjah</span></p>\r\n\r\n<p class=MsoListParagraphCxS" +
+            "pMiddle style=\'margin-bottom:6.0pt;line-height:\r\nnormal\'><span style=\'font-size:" +
+            "12.0pt;font-family:\"Times New Roman\",\"serif\"\'>Email:\r\n</span><a href=\"mailto:b00" +
+            "028143@aus.edu\"><span style=\'font-size:12.0pt;\r\nfont-family:\"Times New Roman\",\"s" +
+            "erif\"\'>b00028143@aus.edu</span></a><span\r\nclass=MsoHyperlink><span style=\'font-s" +
+            "ize:12.0pt;font-family:\"Times New Roman\",\"serif\"\'>\r\n</span> </span></p>\r\n\r\n<p cl" +
+            "ass=MsoListParagraphCxSpMiddle style=\'margin-bottom:6.0pt;line-height:\r\nnormal\'>" +
+            "<span style=\'font-size:6.0pt;font-family:\"Times New Roman\",\"serif\"\'>&nbsp;</span" +
+            "></p>\r\n\r\n<p class=MsoListParagraphCxSpMiddle style=\'margin-bottom:6.0pt;text-ind" +
+            "ent:\r\n-.25in;line-height:normal\'><span style=\'font-size:12.0pt;font-family:Symbo" +
+            "l\'>·<span\r\nstyle=\'font:7.0pt \"Times New Roman\"\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n" +
+            "bsp;&nbsp;&nbsp;\r\n</span></span><span dir=LTR></span><b><span style=\'font-size:1" +
+            "2.0pt;font-family:\r\n\"Times New Roman\",\"serif\"\'>Mr. Abdullah Sagheer<br>\r\n</span>" +
+            "</b><span style=\'font-size:12.0pt;font-family:\"Times New Roman\",\"serif\"\'>Graduat" +
+            "e\r\nResearch Assistant</span></p>\r\n\r\n<p class=MsoListParagraphCxSpMiddle style=\'m" +
+            "argin-bottom:6.0pt;line-height:\r\nnormal\'><span style=\'font-size:12.0pt;font-fami" +
+            "ly:\"Times New Roman\",\"serif\"\'>Department\r\nof Civil Engineering</span></p>\r\n\r\n<p " +
+            "class=MsoListParagraphCxSpMiddle style=\'margin-bottom:6.0pt;line-height:\r\nnormal" +
+            "\'><span style=\'font-size:12.0pt;font-family:\"Times New Roman\",\"serif\"\'>American\r" +
+            "\nUniversity of Sharjah</span></p>\r\n\r\n<p class=MsoListParagraphCxSpMiddle style=\'" +
+            "margin-bottom:6.0pt;line-height:\r\nnormal\'><span style=\'font-size:12.0pt;font-fam" +
+            "ily:\"Times New Roman\",\"serif\"\'>Email:\r\n<span class=MsoHyperlink>b00057425@aus.ed" +
+            "u</span></span> <span\r\nstyle=\'font-size:12.0pt;font-family:\"Times New Roman\",\"se" +
+            "rif\"\'> </span></p>\r\n\r\n<p class=MsoListParagraphCxSpMiddle style=\'margin-bottom:6" +
+            ".0pt;line-height:\r\nnormal\'><span style=\'font-size:6.0pt;font-family:\"Times New R" +
+            "oman\",\"serif\"\'>&nbsp;</span></p>\r\n\r\n<p class=MsoListParagraphCxSpMiddle style=\'m" +
+            "argin-bottom:6.0pt;text-indent:\r\n-.25in;line-height:normal\'><span style=\'font-si" +
+            "ze:12.0pt;font-family:Symbol\'>·<span\r\nstyle=\'font:7.0pt \"Times New Roman\"\'>&nbsp" +
+            ";&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span></span><span dir=LTR></span>" +
+            "<b><span style=\'font-size:12.0pt;font-family:\r\n\"Times New Roman\",\"serif\"\'>Mr. La" +
+            "ith Elayyan<br>\r\n</span></b><span style=\'font-size:12.0pt;font-family:\"Times New" +
+            " Roman\",\"serif\"\'>Undergraduate\r\nResearch Assistant</span></p>\r\n\r\n<p class=MsoLis" +
+            "tParagraphCxSpMiddle style=\'margin-bottom:6.0pt;line-height:\r\nnormal\'><span styl" +
+            "e=\'font-size:12.0pt;font-family:\"Times New Roman\",\"serif\"\'>Department\r\nof Civil " +
+            "Engineering</span></p>\r\n\r\n<p class=MsoListParagraphCxSpMiddle style=\'margin-bott" +
+            "om:6.0pt;line-height:\r\nnormal\'><span style=\'font-size:12.0pt;font-family:\"Times " +
+            "New Roman\",\"serif\"\'>American\r\nUniversity of Sharjah</span></p>\r\n\r\n<p class=MsoLi" +
+            "stParagraphCxSpMiddle style=\'margin-bottom:6.0pt;line-height:\r\nnormal\'><span sty" +
+            "le=\'font-size:12.0pt;font-family:\"Times New Roman\",\"serif\"\'>Email:\r\n</span><a hr" +
+            "ef=\"mailto:b00049702@aus.edu\"><span style=\'font-size:12.0pt;\r\nfont-family:\"Times" +
+            " New Roman\",\"serif\"\'>b00049702@aus.edu</span></a><span\r\nstyle=\'font-size:12.0pt;" +
+            "font-family:\"Times New Roman\",\"serif\"\'> </span></p>\r\n\r\n<p class=MsoListParagraph" +
+            "CxSpLast style=\'margin-bottom:6.0pt;line-height:normal\'><span\r\nstyle=\'font-size:" +
+            "12.0pt;font-family:\"Times New Roman\",\"serif\"\'>&nbsp;</span></p>\r\n\r\n<p class=MsoN" +
+            "ormal style=\'margin-bottom:6.0pt;line-height:normal\'><span\r\nstyle=\'font-size:12." +
+            "0pt;font-family:\"Times New Roman\",\"serif\"\'>Special thanks\r\nto <b>Prof. Andrei Re" +
+            "inhorn</b> from the State University of New York (SUNY) at\r\nBuffalo, for grantin" +
+            "g the permission to redistribute the free version of\r\nIDARC-2D with the INSPECT " +
+            "package for additional user convenience.</span></p>\r\n\r\n<p class=MsoNormal style=" +
+            "\'margin-bottom:6.0pt;line-height:normal\'><span\r\nstyle=\'font-size:12.0pt;font-fam" +
+            "ily:\"Times New Roman\",\"serif\"\'>&nbsp;</span></p>\r\n\r\n<p class=MsoNormal style=\'ma" +
+            "rgin-bottom:0in;margin-bottom:.0001pt\'><span\r\nstyle=\'font-size:12.0pt;line-heigh" +
+            "t:115%;font-family:\"Times New Roman\",\"serif\"\'>The\r\nsplash screen contains graphi" +
+            "cs designed by </span><a href=\"http://freepik.com/\"><span\r\nstyle=\'font-size:12.0" +
+            "pt;line-height:115%;font-family:\"Times New Roman\",\"serif\"\'>Freepik.com</span></a" +
+            "></p>\r\n\r\n<p class=MsoNormal style=\'margin-bottom:0in;margin-bottom:.0001pt\'><spa" +
+            "n\r\nstyle=\'font-size:12.0pt;line-height:115%;font-family:\"Times New Roman\",\"serif" +
+            "\"\'>The\r\nfollowing software components is used in INSPECT: </span></p>\r\n\r\n<p clas" +
+            "s=MsoListParagraphCxSpFirst style=\'margin-bottom:0in;margin-bottom:.0001pt;\r\ntex" +
+            "t-indent:-.25in\'><span style=\'font-size:12.0pt;line-height:115%;font-family:\r\nSy" +
+            "mbol\'>·</span><span style=\'font-size:7.0pt;line-height:115%;font-family:\"Times N" +
+            "ew Roman\",\"serif\"\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span><spa" +
+            "n style=\'font-size:12.0pt;line-height:115%;font-family:\"Times New Roman\",\"serif\"" +
+            "\'>Nelder-Mead\r\noptimization method implementation by Kris Kniaz [</span><a\r\nhref" +
+            "=\"http://www.kniaz.net\"><span style=\'font-size:12.0pt;line-height:115%;\r\nfont-fa" +
+            "mily:\"Times New Roman\",\"serif\"\'>http://www.kniaz.net</span></a><span\r\nstyle=\'fon" +
+            "t-size:12.0pt;line-height:115%;font-family:\"Times New Roman\",\"serif\"\'>].\r\n</span" +
+            "></p>\r\n\r\n<p class=MsoListParagraphCxSpMiddle style=\'margin-bottom:0in;margin-bot" +
+            "tom:\r\n.0001pt;text-indent:-.25in\'><span style=\'font-size:12.0pt;line-height:115%" +
+            ";\r\nfont-family:Symbol\'>·</span><span style=\'font-size:7.0pt;line-height:115%;\r\nf" +
+            "ont-family:\"Times New Roman\",\"serif\"\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" +
+            "&nbsp;\r\n</span><span style=\'font-size:12.0pt;line-height:115%;font-family:\"Times" +
+            " New Roman\",\"serif\"\'>ZedGraph\r\ncharting library [</span><a href=\"http://sourcefo" +
+            "rge.net/projects/zedgraph\"><span\r\nstyle=\'font-size:12.0pt;line-height:115%;font-" +
+            "family:\"Times New Roman\",\"serif\"\'>http://sourceforge.net/projects/zedgraph</span" +
+            "></a><span\r\nstyle=\'font-size:12.0pt;line-height:115%;font-family:\"Times New Roma" +
+            "n\",\"serif\"\'>]\r\n</span></p>\r\n\r\n<p class=MsoListParagraphCxSpMiddle style=\'margin-" +
+            "bottom:0in;margin-bottom:\r\n.0001pt;text-indent:-.25in\'><span style=\'font-size:12" +
+            ".0pt;line-height:115%;\r\nfont-family:Symbol\'>·</span><span style=\'font-size:7.0pt" +
+            ";line-height:115%;\r\nfont-family:\"Times New Roman\",\"serif\"\'>&nbsp;&nbsp;&nbsp;&nb" +
+            "sp;&nbsp;&nbsp;&nbsp;&nbsp;\r\n</span><span style=\'font-size:12.0pt;line-height:11" +
+            "5%;font-family:\"Times New Roman\",\"serif\"\'>Math.Net\r\ncomputing library [</span><a" +
+            " href=\"http://www.mathdotnet.com/\"><span\r\nstyle=\'font-size:12.0pt;line-height:11" +
+            "5%;font-family:\"Times New Roman\",\"serif\"\'>http://www.mathdotnet.com</span></a><s" +
+            "pan\r\nstyle=\'font-size:12.0pt;line-height:115%;font-family:\"Times New Roman\",\"ser" +
+            "if\"\'>]\r\n</span></p>\r\n\r\n<p class=MsoListParagraphCxSpMiddle style=\'margin-bottom:" +
+            "0in;margin-bottom:\r\n.0001pt;text-indent:-.25in\'><span style=\'font-size:12.0pt;li" +
+            "ne-height:115%;\r\nfont-family:Symbol\'>·</span><span style=\'font-size:7.0pt;line-h" +
+            "eight:115%;\r\nfont-family:\"Times New Roman\",\"serif\"\'>&nbsp;&nbsp;&nbsp;&nbsp;&nbs" +
+            "p;&nbsp;&nbsp;&nbsp;\r\n</span><span style=\'font-size:12.0pt;line-height:115%;font" +
+            "-family:\"Times New Roman\",\"serif\"\'>SqlLite\r\ndatabase engine [</span><a href=\"htt" +
+            "ps://www.sqlite.org/\"><span\r\nstyle=\'font-size:12.0pt;line-height:115%;font-famil" +
+            "y:\"Times New Roman\",\"serif\"\'>https://www.sqlite.org</span></a><span\r\nstyle=\'font" +
+            "-size:12.0pt;line-height:115%;font-family:\"Times New Roman\",\"serif\"\'>]</span></p" +
+            ">\r\n\r\n<p class=MsoListParagraphCxSpLast style=\'margin-bottom:0in;margin-bottom:.0" +
+            "001pt\'><span\r\nstyle=\'font-size:12.0pt;line-height:115%;font-family:\"Times New Ro" +
+            "man\",\"serif\"\'>&nbsp;</span></p>\r\n\r\n<p class=MsoNormal style=\'margin-bottom:6.0pt" +
+            ";line-height:normal\'><span\r\nstyle=\'font-size:12.0pt;font-family:\"Times New Roman" +
+            "\",\"serif\"\'>&nbsp;</span></p>\r\n\r\n<p class=MsoListParagraph style=\'margin-bottom:0" +
+            "in;margin-bottom:.0001pt\'><span\r\nstyle=\'font-size:12.0pt;line-height:115%;font-f" +
+            "amily:\"Times New Roman\",\"serif\"\'>&nbsp;</span></p>\r\n\r\n</div>\r\n\r\n</body>\r\n\r\n</htm" +
+            "l>\r\n")]
         public string ack {
             get {
                 return ((string)(this["ack"]));
